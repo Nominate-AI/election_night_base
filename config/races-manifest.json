@@ -1,0 +1,3887 @@
+{
+  "electionId": "GeneralPrimary51926",
+  "electionName": "May 19, 2026 - General Primary",
+  "defaultRaceId": "S1R",
+  "updatedAt": "2026-05-20T17:20:00.400Z",
+  "races": [
+    {
+      "id": "US2R",
+      "ballotItemId": "01000000-f33c-bc21-a444-08dead340297",
+      "name": "US Senate - Rep",
+      "ballotOrder": 1,
+      "tier": "statewide",
+      "apiName": "US Senate - Rep"
+    },
+    {
+      "id": "US2D",
+      "ballotItemId": "01000000-f33c-bc21-b379-08dead3402a6",
+      "name": "US Senate - Dem",
+      "ballotOrder": 2,
+      "tier": "statewide",
+      "apiName": "US Senate - Dem"
+    },
+    {
+      "id": "S1R",
+      "ballotItemId": "01000000-f33c-bc21-51c6-08dead3402a8",
+      "name": "Governor - Rep",
+      "ballotOrder": 3
+    },
+    {
+      "id": "S1D",
+      "ballotItemId": "01000000-f33c-bc21-75d0-08dead3402aa",
+      "name": "Governor - Dem",
+      "ballotOrder": 4,
+      "apiName": "Governor - Dem"
+    },
+    {
+      "id": "S2R",
+      "ballotItemId": "01000000-f33c-bc21-55e7-08dead3402ac",
+      "name": "Lieutenant Governor - Rep",
+      "ballotOrder": 5,
+      "apiName": "Lieutenant Governor - Rep"
+    },
+    {
+      "id": "S2D",
+      "ballotItemId": "01000000-f33c-bc21-041f-08dead3402ae",
+      "name": "Lieutenant Governor - Dem",
+      "ballotOrder": 6,
+      "apiName": "Lieutenant Governor - Dem"
+    },
+    {
+      "id": "S3R",
+      "ballotItemId": "01000000-f33c-bc21-7187-08dead3402af",
+      "name": "Secretary of State - Rep",
+      "ballotOrder": 7,
+      "apiName": "Secretary of State - Rep"
+    },
+    {
+      "id": "S3D",
+      "ballotItemId": "01000000-f33c-bc21-08ba-08dead3402b1",
+      "name": "Secretary of State - Dem",
+      "ballotOrder": 8,
+      "apiName": "Secretary of State - Dem"
+    },
+    {
+      "id": "S4R",
+      "ballotItemId": "01000000-f33c-bc21-8a67-08dead3402b2",
+      "name": "Attorney General - Rep",
+      "ballotOrder": 9,
+      "apiName": "Attorney General - Rep"
+    },
+    {
+      "id": "S4D",
+      "ballotItemId": "01000000-f33c-bc21-1440-08dead3402b4",
+      "name": "Attorney General - Dem",
+      "ballotOrder": 10,
+      "apiName": "Attorney General - Dem"
+    },
+    {
+      "id": "S5R",
+      "ballotItemId": "01000000-f33c-bc21-73de-08dead3402b5",
+      "name": "Commissioner of Agriculture - Rep",
+      "ballotOrder": 11,
+      "apiName": "Commissioner of Agriculture - Rep"
+    },
+    {
+      "id": "S5D",
+      "ballotItemId": "01000000-f33c-bc21-de1d-08dead3402b6",
+      "name": "Commissioner of Agriculture - Dem",
+      "ballotOrder": 12,
+      "apiName": "Commissioner of Agriculture - Dem"
+    },
+    {
+      "id": "S6R",
+      "ballotItemId": "01000000-f33c-bc21-4149-08dead3402b8",
+      "name": "Commissioner of Insurance - Rep",
+      "ballotOrder": 13,
+      "apiName": "Commissioner of Insurance - Rep"
+    },
+    {
+      "id": "S6D",
+      "ballotItemId": "01000000-f33c-bc21-a548-08dead3402b9",
+      "name": "Commissioner of Insurance - Dem",
+      "ballotOrder": 14,
+      "apiName": "Commissioner of Insurance - Dem"
+    },
+    {
+      "id": "S7R",
+      "ballotItemId": "01000000-f33c-bc21-2878-08dead3402bb",
+      "name": "State School Superintendent - Rep",
+      "ballotOrder": 15,
+      "apiName": "State School Superintendent - Rep"
+    },
+    {
+      "id": "S7D",
+      "ballotItemId": "01000000-f33c-bc21-a934-08dead3402bc",
+      "name": "State School Superintendent - Dem",
+      "ballotOrder": 16,
+      "apiName": "State School Superintendent - Dem"
+    },
+    {
+      "id": "S8R",
+      "ballotItemId": "01000000-f33c-bc21-1547-08dead3402be",
+      "name": "Commissioner of Labor - Rep",
+      "ballotOrder": 17,
+      "apiName": "Commissioner of Labor - Rep"
+    },
+    {
+      "id": "S8D",
+      "ballotItemId": "01000000-f33c-bc21-5db6-08dead3402bf",
+      "name": "Commissioner of Labor - Dem",
+      "ballotOrder": 18,
+      "apiName": "Commissioner of Labor - Dem"
+    },
+    {
+      "id": "S11R",
+      "ballotItemId": "01000000-f33c-bc21-744e-08dead3402c1",
+      "name": "PSC - District 3 - Rep",
+      "ballotOrder": 19,
+      "apiName": "PSC - District 3 - Rep"
+    },
+    {
+      "id": "S11D",
+      "ballotItemId": "01000000-f33c-bc21-d070-08dead3402c2",
+      "name": "PSC - District 3 - Dem",
+      "ballotOrder": 20,
+      "apiName": "PSC - District 3 - Dem"
+    },
+    {
+      "id": "S13R",
+      "ballotItemId": "01000000-f33c-bc21-357c-08dead3402c4",
+      "name": "PSC - District 5 - Rep",
+      "ballotOrder": 21,
+      "apiName": "PSC - District 5 - Rep"
+    },
+    {
+      "id": "S13D",
+      "ballotItemId": "01000000-f33c-bc21-7b1b-08dead340333",
+      "name": "PSC - District 5 - Dem",
+      "ballotOrder": 22,
+      "apiName": "PSC - District 5 - Dem"
+    },
+    {
+      "id": "USH1R",
+      "ballotItemId": "01000000-f33c-bc21-86ce-08dead3402cb",
+      "name": "US House of Representatives - District 1 - Rep",
+      "ballotOrder": 23,
+      "apiName": "US House of Representatives - District 1 - Rep"
+    },
+    {
+      "id": "USH1D",
+      "ballotItemId": "01000000-f33c-bc21-6c0d-08dead3402cd",
+      "name": "US House of Representatives - District 1 - Dem",
+      "ballotOrder": 24,
+      "apiName": "US House of Representatives - District 1 - Dem"
+    },
+    {
+      "id": "USH2R",
+      "ballotItemId": "01000000-f33c-bc21-55d3-08dead3403a6",
+      "name": "US House of Representatives - District 2 - Rep",
+      "ballotOrder": 25,
+      "apiName": "US House of Representatives - District 2 - Rep"
+    },
+    {
+      "id": "USH2D",
+      "ballotItemId": "01000000-f33c-bc21-b339-08dead3403a8",
+      "name": "US House of Representatives - District 2 - Dem",
+      "ballotOrder": 26,
+      "apiName": "US House of Representatives - District 2 - Dem"
+    },
+    {
+      "id": "USH3R",
+      "ballotItemId": "01000000-f33c-bc21-b49b-08dead340c8c",
+      "name": "US House of Representatives - District 3 - Rep",
+      "ballotOrder": 27,
+      "apiName": "US House of Representatives - District 3 - Rep"
+    },
+    {
+      "id": "USH3D",
+      "ballotItemId": "01000000-f33c-bc21-a6c8-08dead340c93",
+      "name": "US House of Representatives - District 3 - Dem",
+      "ballotOrder": 28,
+      "apiName": "US House of Representatives - District 3 - Dem"
+    },
+    {
+      "id": "USH4R",
+      "ballotItemId": "01000000-f33c-bc21-bd2c-08dead3449e1",
+      "name": "US House of Representatives - District 4 - Rep",
+      "ballotOrder": 29,
+      "apiName": "US House of Representatives - District 4 - Rep"
+    },
+    {
+      "id": "USH4D",
+      "ballotItemId": "01000000-f33c-bc21-2d76-08dead344a22",
+      "name": "US House of Representatives - District 4 - Dem",
+      "ballotOrder": 30,
+      "apiName": "US House of Representatives - District 4 - Dem"
+    },
+    {
+      "id": "USH5R",
+      "ballotItemId": "01000000-f33c-bc21-5964-08dead3424a6",
+      "name": "US House of Representatives - District 5 - Rep",
+      "ballotOrder": 31,
+      "apiName": "US House of Representatives - District 5 - Rep"
+    },
+    {
+      "id": "USH5D",
+      "ballotItemId": "01000000-f33c-bc21-1756-08dead3424b2",
+      "name": "US House of Representatives - District 5 - Dem",
+      "ballotOrder": 32,
+      "apiName": "US House of Representatives - District 5 - Dem"
+    },
+    {
+      "id": "USH6R",
+      "ballotItemId": "01000000-f33c-bc21-d17b-08dead342d4d",
+      "name": "US House of Representatives - District 6 - Rep",
+      "ballotOrder": 33,
+      "apiName": "US House of Representatives - District 6 - Rep"
+    },
+    {
+      "id": "USH6D",
+      "ballotItemId": "01000000-f33c-bc21-58a7-08dead342d6d",
+      "name": "US House of Representatives - District 6 - Dem",
+      "ballotOrder": 34,
+      "apiName": "US House of Representatives - District 6 - Dem"
+    },
+    {
+      "id": "USH7R",
+      "ballotItemId": "01000000-f33c-bc21-64c6-08dead3415ee",
+      "name": "US House of Representatives - District 7 - Rep",
+      "ballotOrder": 35,
+      "apiName": "US House of Representatives - District 7 - Rep"
+    },
+    {
+      "id": "USH7D",
+      "ballotItemId": "01000000-f33c-bc21-aaed-08dead3415f6",
+      "name": "US House of Representatives - District 7 - Dem",
+      "ballotOrder": 36,
+      "apiName": "US House of Representatives - District 7 - Dem"
+    },
+    {
+      "id": "USH8R",
+      "ballotItemId": "01000000-f33c-bc21-6590-08dead340336",
+      "name": "US House of Representatives - District 8 - Rep",
+      "ballotOrder": 37,
+      "apiName": "US House of Representatives - District 8 - Rep"
+    },
+    {
+      "id": "USH8D",
+      "ballotItemId": "01000000-f33c-bc21-0e24-08dead340338",
+      "name": "US House of Representatives - District 8 - Dem",
+      "ballotOrder": 38,
+      "apiName": "US House of Representatives - District 8 - Dem"
+    },
+    {
+      "id": "USH9R",
+      "ballotItemId": "01000000-f33c-bc21-e984-08dead340475",
+      "name": "US House of Representatives - District 9 - Rep",
+      "ballotOrder": 39,
+      "apiName": "US House of Representatives - District 9 - Rep"
+    },
+    {
+      "id": "USH9D",
+      "ballotItemId": "01000000-f33c-bc21-0573-08dead340479",
+      "name": "US House of Representatives - District 9 - Dem",
+      "ballotOrder": 40,
+      "apiName": "US House of Representatives - District 9 - Dem"
+    },
+    {
+      "id": "USH10R",
+      "ballotItemId": "01000000-f33c-bc21-74ec-08dead3404ce",
+      "name": "US House of Representatives - District 10 - Rep",
+      "ballotOrder": 41,
+      "apiName": "US House of Representatives - District 10 - Rep"
+    },
+    {
+      "id": "USH10D",
+      "ballotItemId": "01000000-f33c-bc21-81f9-08dead3404d1",
+      "name": "US House of Representatives - District 10 - Dem",
+      "ballotOrder": 42,
+      "apiName": "US House of Representatives - District 10 - Dem"
+    },
+    {
+      "id": "USH11R",
+      "ballotItemId": "01000000-f33c-bc21-b92a-08dead34057b",
+      "name": "US House of Representatives - District 11 - Rep",
+      "ballotOrder": 43,
+      "apiName": "US House of Representatives - District 11 - Rep"
+    },
+    {
+      "id": "USH11D",
+      "ballotItemId": "01000000-f33c-bc21-ba7c-08dead340581",
+      "name": "US House of Representatives - District 11 - Dem",
+      "ballotOrder": 44,
+      "apiName": "US House of Representatives - District 11 - Dem"
+    },
+    {
+      "id": "USH12R",
+      "ballotItemId": "01000000-f33c-bc21-e22f-08dead340954",
+      "name": "US House of Representatives - District 12 - Rep",
+      "ballotOrder": 45,
+      "apiName": "US House of Representatives - District 12 - Rep"
+    },
+    {
+      "id": "USH12D",
+      "ballotItemId": "01000000-f33c-bc21-24df-08dead34095a",
+      "name": "US House of Representatives - District 12 - Dem",
+      "ballotOrder": 46,
+      "apiName": "US House of Representatives - District 12 - Dem"
+    },
+    {
+      "id": "USH13R",
+      "ballotItemId": "01000000-f33c-bc21-9bee-08dead342463",
+      "name": "US House of Representatives - District 13 - Rep",
+      "ballotOrder": 47,
+      "apiName": "US House of Representatives - District 13 - Rep"
+    },
+    {
+      "id": "USH13D",
+      "ballotItemId": "01000000-f33c-bc21-319b-08dead34246d",
+      "name": "US House of Representatives - District 13 - Dem",
+      "ballotOrder": 48,
+      "apiName": "US House of Representatives - District 13 - Dem"
+    },
+    {
+      "id": "USH14R",
+      "ballotItemId": "01000000-f33c-bc21-ba9f-08dead340db1",
+      "name": "US House of Representatives - District 14 - Rep",
+      "ballotOrder": 49,
+      "apiName": "US House of Representatives - District 14 - Rep"
+    },
+    {
+      "id": "USH14D",
+      "ballotItemId": "01000000-f33c-bc21-ebc6-08dead340dbb",
+      "name": "US House of Representatives - District 14 - Dem",
+      "ballotOrder": 50,
+      "apiName": "US House of Representatives - District 14 - Dem"
+    },
+    {
+      "id": "SSD1R",
+      "ballotItemId": "01000000-f33c-bc21-45ee-08dead3408a6",
+      "name": "State Senate - District 1 - Rep",
+      "ballotOrder": 51,
+      "apiName": "State Senate - District 1 - Rep"
+    },
+    {
+      "id": "SSD1D",
+      "ballotItemId": "01000000-f33c-bc21-dc29-08dead3408aa",
+      "name": "State Senate - District 1 - Dem",
+      "ballotOrder": 52,
+      "apiName": "State Senate - District 1 - Dem"
+    },
+    {
+      "id": "SSD2D",
+      "ballotItemId": "01000000-f33c-bc21-c440-08dead341283",
+      "name": "State Senate - District 2 - Dem",
+      "ballotOrder": 53,
+      "apiName": "State Senate - District 2 - Dem"
+    },
+    {
+      "id": "SSD3R",
+      "ballotItemId": "01000000-f33c-bc21-1ec1-08dead3407e2",
+      "name": "State Senate - District 3 - Rep",
+      "ballotOrder": 54,
+      "apiName": "State Senate - District 3 - Rep"
+    },
+    {
+      "id": "SSD4R",
+      "ballotItemId": "01000000-f33c-bc21-e6c8-08dead34095f",
+      "name": "State Senate - District 4 - Rep",
+      "ballotOrder": 55,
+      "apiName": "State Senate - District 4 - Rep"
+    },
+    {
+      "id": "SSD5D",
+      "ballotItemId": "01000000-f33c-bc21-51d8-08dead359d45",
+      "name": "State Senate - District 5/ Senador Estatal del Distrito 5 - Dem",
+      "ballotOrder": 56,
+      "apiName": "State Senate - District 5/ Senador Estatal del Distrito 5 - Dem"
+    },
+    {
+      "id": "SSD6R",
+      "ballotItemId": "01000000-f33c-bc21-802a-08dead340cce",
+      "name": "State Senate - District 6 - Rep",
+      "ballotOrder": 57,
+      "apiName": "State Senate - District 6 - Rep"
+    },
+    {
+      "id": "SSD6D",
+      "ballotItemId": "01000000-f33c-bc21-820d-08dead340cd5",
+      "name": "State Senate - District 6 - Dem",
+      "ballotOrder": 58,
+      "apiName": "State Senate - District 6 - Dem"
+    },
+    {
+      "id": "SSD7R",
+      "ballotItemId": "01000000-f33c-bc21-085d-08dead359be6",
+      "name": "State Senate - District 7/ Senador Estatal del Distrito 7 - Rep",
+      "ballotOrder": 59,
+      "apiName": "State Senate - District 7/ Senador Estatal del Distrito 7 - Rep"
+    },
+    {
+      "id": "SSD7D",
+      "ballotItemId": "01000000-f33c-bc21-feb0-08dead359c10",
+      "name": "State Senate - District 7/ Senador Estatal del Distrito 7 - Dem",
+      "ballotOrder": 60,
+      "apiName": "State Senate - District 7/ Senador Estatal del Distrito 7 - Dem"
+    },
+    {
+      "id": "SSD7",
+      "ballotItemId": "01000000-f33c-bc21-fd20-08dead359c3c",
+      "name": "Special State Senate - District 7/ Especial Senador Estatal del Distrito 7",
+      "ballotOrder": 61,
+      "apiName": "Special State Senate - District 7/ Especial Senador Estatal del Distrito 7"
+    },
+    {
+      "id": "SSD8R",
+      "ballotItemId": "01000000-f33c-bc21-cba6-08dead340339",
+      "name": "State Senate - District 8 - Rep",
+      "ballotOrder": 62,
+      "apiName": "State Senate - District 8 - Rep"
+    },
+    {
+      "id": "SSD9R",
+      "ballotItemId": "01000000-f33c-bc21-e2f7-08dead359b3c",
+      "name": "State Senate - District 9/ Senador Estatal del Distrito 9 - Rep",
+      "ballotOrder": 63,
+      "apiName": "State Senate - District 9/ Senador Estatal del Distrito 9 - Rep"
+    },
+    {
+      "id": "SSD9D",
+      "ballotItemId": "01000000-f33c-bc21-6e29-08dead359b66",
+      "name": "State Senate - District 9/ Senador Estatal del Distrito 9 - Dem",
+      "ballotOrder": 64,
+      "apiName": "State Senate - District 9/ Senador Estatal del Distrito 9 - Dem"
+    },
+    {
+      "id": "SSD10R",
+      "ballotItemId": "01000000-f33c-bc21-074c-08dead344c59",
+      "name": "State Senate - District 10 - Rep",
+      "ballotOrder": 65,
+      "apiName": "State Senate - District 10 - Rep"
+    },
+    {
+      "id": "SSD10D",
+      "ballotItemId": "01000000-f33c-bc21-5381-08dead344c78",
+      "name": "State Senate - District 10 - Dem",
+      "ballotOrder": 66,
+      "apiName": "State Senate - District 10 - Dem"
+    },
+    {
+      "id": "SSD11R",
+      "ballotItemId": "01000000-f33c-bc21-e98b-08dead340834",
+      "name": "State Senate - District 11 - Rep",
+      "ballotOrder": 67,
+      "apiName": "State Senate - District 11 - Rep"
+    },
+    {
+      "id": "SSD12D",
+      "ballotItemId": "01000000-f33c-bc21-cd60-08dead3403b0",
+      "name": "State Senate - District 12 - Dem",
+      "ballotOrder": 69,
+      "apiName": "State Senate - District 12 - Dem"
+    },
+    {
+      "id": "SSD13R",
+      "ballotItemId": "01000000-f33c-bc21-1f35-08dead340624",
+      "name": "State Senate - District 13 - Rep",
+      "ballotOrder": 70,
+      "apiName": "State Senate - District 13 - Rep"
+    },
+    {
+      "id": "SSD14R",
+      "ballotItemId": "01000000-f33c-bc21-0dc2-08dead34a0b0",
+      "name": "State Senate - District 14 - Rep",
+      "ballotOrder": 71,
+      "apiName": "State Senate - District 14 - Rep"
+    },
+    {
+      "id": "SSD14D",
+      "ballotItemId": "01000000-f33c-bc21-4e9e-08dead34a0d2",
+      "name": "State Senate - District 14 - Dem",
+      "ballotOrder": 72,
+      "apiName": "State Senate - District 14 - Dem"
+    },
+    {
+      "id": "SSD15R",
+      "ballotItemId": "01000000-f33c-bc21-702b-08dead34138f",
+      "name": "State Senate - District 15 - Rep",
+      "ballotOrder": 73,
+      "apiName": "State Senate - District 15 - Rep"
+    },
+    {
+      "id": "SSD15D",
+      "ballotItemId": "01000000-f33c-bc21-6f26-08dead34139b",
+      "name": "State Senate - District 15 - Dem",
+      "ballotOrder": 74,
+      "apiName": "State Senate - District 15 - Dem"
+    },
+    {
+      "id": "SSD16R",
+      "ballotItemId": "01000000-f33c-bc21-61c4-08dead346709",
+      "name": "State Senate - District 16 - Rep",
+      "ballotOrder": 75,
+      "apiName": "State Senate - District 16 - Rep"
+    },
+    {
+      "id": "SSD16D",
+      "ballotItemId": "01000000-f33c-bc21-4c9c-08dead346742",
+      "name": "State Senate - District 16 - Dem",
+      "ballotOrder": 76,
+      "apiName": "State Senate - District 16 - Dem"
+    },
+    {
+      "id": "SSD17D",
+      "ballotItemId": "01000000-f33c-bc21-a270-08dead3424f1",
+      "name": "State Senate - District 17 - Dem",
+      "ballotOrder": 77,
+      "apiName": "State Senate - District 17 - Dem"
+    },
+    {
+      "id": "SSD18R",
+      "ballotItemId": "01000000-f33c-bc21-50e8-08dead34075a",
+      "name": "State Senate - District 18 - Rep",
+      "ballotOrder": 78,
+      "apiName": "State Senate - District 18 - Rep"
+    },
+    {
+      "id": "SS19R",
+      "ballotItemId": "01000000-f33c-bc21-4da3-08dead3402cf",
+      "name": "State Senate - District 19 - Rep",
+      "ballotOrder": 79,
+      "apiName": "State Senate - District 19 - Rep"
+    },
+    {
+      "id": "SS19D",
+      "ballotItemId": "01000000-f33c-bc21-cc60-08dead3402d0",
+      "name": "State Senate - District 19 - Dem",
+      "ballotOrder": 80,
+      "apiName": "State Senate - District 19 - Dem"
+    },
+    {
+      "id": "SSD20R",
+      "ballotItemId": "01000000-f33c-bc21-6290-08dead3407a7",
+      "name": "State Senate - District 20 - Rep",
+      "ballotOrder": 81,
+      "apiName": "State Senate - District 20 - Rep"
+    },
+    {
+      "id": "SSD21R",
+      "ballotItemId": "01000000-f33c-bc21-ecb4-08dead3415fe",
+      "name": "State Senate - District 21 - Rep",
+      "ballotOrder": 82,
+      "apiName": "State Senate - District 21 - Rep"
+    },
+    {
+      "id": "SSD21D",
+      "ballotItemId": "01000000-f33c-bc21-f52c-08dead341606",
+      "name": "State Senate - District 21 - Dem",
+      "ballotOrder": 83,
+      "apiName": "State Senate - District 21 - Dem"
+    },
+    {
+      "id": "SSD22D",
+      "ballotItemId": "01000000-f33c-bc21-7610-08dead35227d",
+      "name": "State Senate - District 22 - Dem",
+      "ballotOrder": 84,
+      "apiName": "State Senate - District 22 - Dem"
+    },
+    {
+      "id": "SSD23R",
+      "ballotItemId": "01000000-f33c-bc21-e3f9-08dead3409f6",
+      "name": "State Senate - District 23 - Rep",
+      "ballotOrder": 85,
+      "apiName": "State Senate - District 23 - Rep"
+    },
+    {
+      "id": "SSD23D",
+      "ballotItemId": "01000000-f33c-bc21-494a-08dead3409fd",
+      "name": "State Senate - District 23 - Dem",
+      "ballotOrder": 86,
+      "apiName": "State Senate - District 23 - Dem"
+    },
+    {
+      "id": "SSD24R",
+      "ballotItemId": "01000000-f33c-bc21-2021-08dead343385",
+      "name": "State Senate - District 24 - Rep",
+      "ballotOrder": 87,
+      "apiName": "State Senate - District 24 - Rep"
+    },
+    {
+      "id": "SSD24D",
+      "ballotItemId": "01000000-f33c-bc21-d86c-08dead34339c",
+      "name": "State Senate - District 24 - Dem",
+      "ballotOrder": 88,
+      "apiName": "State Senate - District 24 - Dem"
+    },
+    {
+      "id": "SSD25R",
+      "ballotItemId": "01000000-f33c-bc21-1fb1-08dead340408",
+      "name": "State Senate - District 25 - Rep",
+      "ballotOrder": 89,
+      "apiName": "State Senate - District 25 - Rep"
+    },
+    {
+      "id": "SSD26R",
+      "ballotItemId": "01000000-f33c-bc21-9091-08dead340731",
+      "name": "State Senate - District 26 - Rep",
+      "ballotOrder": 90,
+      "apiName": "State Senate - District 26 - Rep"
+    },
+    {
+      "id": "SSD26D",
+      "ballotItemId": "01000000-f33c-bc21-0371-08dead340735",
+      "name": "State Senate - District 26 - Dem",
+      "ballotOrder": 91,
+      "apiName": "State Senate - District 26 - Dem"
+    },
+    {
+      "id": "SSD27R",
+      "ballotItemId": "01000000-f33c-bc21-6b73-08dead346cc7",
+      "name": "State Senate - District 27 - Rep",
+      "ballotOrder": 92,
+      "apiName": "State Senate - District 27 - Rep"
+    },
+    {
+      "id": "SSD27D",
+      "ballotItemId": "01000000-f33c-bc21-8b70-08dead346cdd",
+      "name": "State Senate - District 27 - Dem",
+      "ballotOrder": 93,
+      "apiName": "State Senate - District 27 - Dem"
+    },
+    {
+      "id": "SSD28D",
+      "ballotItemId": "01000000-f33c-bc21-a4b0-08dead342d85",
+      "name": "State Senate - District 28 - Dem",
+      "ballotOrder": 94,
+      "apiName": "State Senate - District 28 - Dem"
+    },
+    {
+      "id": "SSD29R",
+      "ballotItemId": "01000000-f33c-bc21-15e3-08dead34bd3f",
+      "name": "State Senate - District 29 - Rep",
+      "ballotOrder": 95,
+      "apiName": "State Senate - District 29 - Rep"
+    },
+    {
+      "id": "SSD29D",
+      "ballotItemId": "01000000-f33c-bc21-00ea-08dead34bd62",
+      "name": "State Senate - District 29 - Dem",
+      "ballotOrder": 96,
+      "apiName": "State Senate - District 29 - Dem"
+    },
+    {
+      "id": "SSD30R",
+      "ballotItemId": "01000000-f33c-bc21-c3a4-08dead340c9a",
+      "name": "State Senate - District 30 - Rep",
+      "ballotOrder": 97,
+      "apiName": "State Senate - District 30 - Rep"
+    },
+    {
+      "id": "SSD30D",
+      "ballotItemId": "01000000-f33c-bc21-8369-08dead340ca1",
+      "name": "State Senate - District 30 - Dem",
+      "ballotOrder": 98,
+      "apiName": "State Senate - District 30 - Dem"
+    },
+    {
+      "id": "SSD31R",
+      "ballotItemId": "01000000-f33c-bc21-42e9-08dead35063f",
+      "name": "State Senate - District 31 - Rep",
+      "ballotOrder": 99,
+      "apiName": "State Senate - District 31 - Rep"
+    },
+    {
+      "id": "SSD31D",
+      "ballotItemId": "01000000-f33c-bc21-d384-08dead350660",
+      "name": "State Senate - District 31 - Dem",
+      "ballotOrder": 100,
+      "apiName": "State Senate - District 31 - Dem"
+    },
+    {
+      "id": "SSD32R",
+      "ballotItemId": "01000000-f33c-bc21-1633-08dead341621",
+      "name": "State Senate - District 32 - Rep",
+      "ballotOrder": 101,
+      "apiName": "State Senate - District 32 - Rep"
+    },
+    {
+      "id": "SSD32D",
+      "ballotItemId": "01000000-f33c-bc21-f207-08dead341628",
+      "name": "State Senate - District 32 - Dem",
+      "ballotOrder": 102,
+      "apiName": "State Senate - District 32 - Dem"
+    },
+    {
+      "id": "SSD33D",
+      "ballotItemId": "01000000-f33c-bc21-51f0-08dead342df0",
+      "name": "State Senate - District 33 - Dem",
+      "ballotOrder": 103,
+      "apiName": "State Senate - District 33 - Dem"
+    },
+    {
+      "id": "SSD34D",
+      "ballotItemId": "01000000-f33c-bc21-fb18-08dead3424bb",
+      "name": "State Senate - District 34 - Dem",
+      "ballotOrder": 104,
+      "apiName": "State Senate - District 34 - Dem"
+    },
+    {
+      "id": "SSD35D",
+      "ballotItemId": "01000000-f33c-bc21-6e7e-08dead342da8",
+      "name": "State Senate - District 35 - Dem",
+      "ballotOrder": 105,
+      "apiName": "State Senate - District 35 - Dem"
+    },
+    {
+      "id": "SSD36R",
+      "ballotItemId": "01000000-f33c-bc21-3aa9-08dead349bbf",
+      "name": "State Senate - District 36 - Rep",
+      "ballotOrder": 106,
+      "apiName": "State Senate - District 36 - Rep"
+    },
+    {
+      "id": "SSD36D",
+      "ballotItemId": "01000000-f33c-bc21-36c4-08dead349be2",
+      "name": "State Senate - District 36 - Dem",
+      "ballotOrder": 107,
+      "apiName": "State Senate - District 36 - Dem"
+    },
+    {
+      "id": "SSD37R",
+      "ballotItemId": "01000000-f33c-bc21-001b-08dead3405a3",
+      "name": "State Senate - District 37 - Rep",
+      "ballotOrder": 108,
+      "apiName": "State Senate - District 37 - Rep"
+    },
+    {
+      "id": "SSD37D",
+      "ballotItemId": "01000000-f33c-bc21-ef80-08dead3405a7",
+      "name": "State Senate - District 37 - Dem",
+      "ballotOrder": 109,
+      "apiName": "State Senate - District 37 - Dem"
+    },
+    {
+      "id": "SSD38R",
+      "ballotItemId": "01000000-f33c-bc21-5401-08dead34a071",
+      "name": "State Senate - District 38 - Rep",
+      "ballotOrder": 110,
+      "apiName": "State Senate - District 38 - Rep"
+    },
+    {
+      "id": "SSD38D",
+      "ballotItemId": "01000000-f33c-bc21-6964-08dead34a092",
+      "name": "State Senate - District 38 - Dem",
+      "ballotOrder": 111,
+      "apiName": "State Senate - District 38 - Dem"
+    },
+    {
+      "id": "SSD39R",
+      "ballotItemId": "01000000-f33c-bc21-b242-08dead349ff9",
+      "name": "State Senate - District 39 - Rep",
+      "ballotOrder": 112,
+      "apiName": "State Senate - District 39 - Rep"
+    },
+    {
+      "id": "SSD39D",
+      "ballotItemId": "01000000-f33c-bc21-f1b8-08dead34a010",
+      "name": "State Senate - District 39 - Dem",
+      "ballotOrder": 113,
+      "apiName": "State Senate - District 39 - Dem"
+    },
+    {
+      "id": "SSD40R",
+      "ballotItemId": "01000000-f33c-bc21-fb65-08dead344b6d",
+      "name": "State Senate - District 40 - Rep",
+      "ballotOrder": 114,
+      "apiName": "State Senate - District 40 - Rep"
+    },
+    {
+      "id": "SSD40D",
+      "ballotItemId": "01000000-f33c-bc21-d20f-08dead344b9e",
+      "name": "State Senate - District 40 - Dem",
+      "ballotOrder": 115,
+      "apiName": "State Senate - District 40 - Dem"
+    },
+    {
+      "id": "SSD41R",
+      "ballotItemId": "01000000-f33c-bc21-8f09-08dead344ace",
+      "name": "State Senate - District 41 - Rep",
+      "ballotOrder": 116,
+      "apiName": "State Senate - District 41 - Rep"
+    },
+    {
+      "id": "SSD41D",
+      "ballotItemId": "01000000-f33c-bc21-d395-08dead344aea",
+      "name": "State Senate - District 41 - Dem",
+      "ballotOrder": 117,
+      "apiName": "State Senate - District 41 - Dem"
+    },
+    {
+      "id": "SSD42R",
+      "ballotItemId": "01000000-f33c-bc21-eed7-08dead34c549",
+      "name": "State Senate - District 42 - Rep",
+      "ballotOrder": 118,
+      "apiName": "State Senate - District 42 - Rep"
+    },
+    {
+      "id": "SSD42D",
+      "ballotItemId": "01000000-f33c-bc21-03d6-08dead34c565",
+      "name": "State Senate - District 42 - Dem",
+      "ballotOrder": 119,
+      "apiName": "State Senate - District 42 - Dem"
+    },
+    {
+      "id": "SSD43D",
+      "ballotItemId": "01000000-f33c-bc21-0257-08dead34506e",
+      "name": "State Senate - District 43 - Dem",
+      "ballotOrder": 120,
+      "apiName": "State Senate - District 43 - Dem"
+    },
+    {
+      "id": "SSD44R",
+      "ballotItemId": "01000000-f33c-bc21-683e-08dead342477",
+      "name": "State Senate - District 44 - Rep",
+      "ballotOrder": 121,
+      "apiName": "State Senate - District 44 - Rep"
+    },
+    {
+      "id": "SSD44D",
+      "ballotItemId": "01000000-f33c-bc21-61d1-08dead342480",
+      "name": "State Senate - District 44 - Dem",
+      "ballotOrder": 122,
+      "apiName": "State Senate - District 44 - Dem"
+    },
+    {
+      "id": "SSD45R",
+      "ballotItemId": "01000000-f33c-bc21-9084-08dead3404f3",
+      "name": "State Senate - District 45 - Rep",
+      "ballotOrder": 123,
+      "apiName": "State Senate - District 45 - Rep"
+    },
+    {
+      "id": "SSD45D",
+      "ballotItemId": "01000000-f33c-bc21-9124-08dead3404f6",
+      "name": "State Senate - District 45 - Dem",
+      "ballotOrder": 124,
+      "apiName": "State Senate - District 45 - Dem"
+    },
+    {
+      "id": "SSD46R",
+      "ballotItemId": "01000000-f33c-bc21-6975-08dead3404d4",
+      "name": "State Senate - District 46 - Rep",
+      "ballotOrder": 125,
+      "apiName": "State Senate - District 46 - Rep"
+    },
+    {
+      "id": "SSD46D",
+      "ballotItemId": "01000000-f33c-bc21-ae0c-08dead3404d9",
+      "name": "State Senate - District 46 - Dem",
+      "ballotOrder": 126,
+      "apiName": "State Senate - District 46 - Dem"
+    },
+    {
+      "id": "SSD47R",
+      "ballotItemId": "01000000-f33c-bc21-934b-08dead3404dc",
+      "name": "State Senate - District 47 - Rep",
+      "ballotOrder": 127,
+      "apiName": "State Senate - District 47 - Rep"
+    },
+    {
+      "id": "SSD47D",
+      "ballotItemId": "01000000-f33c-bc21-9e01-08dead3404df",
+      "name": "State Senate - District 47 - Dem",
+      "ballotOrder": 128,
+      "apiName": "State Senate - District 47 - Dem"
+    },
+    {
+      "id": "SSD48R",
+      "ballotItemId": "01000000-f33c-bc21-b2a1-08dead346db4",
+      "name": "State Senate - District 48 - Rep",
+      "ballotOrder": 129,
+      "apiName": "State Senate - District 48 - Rep"
+    },
+    {
+      "id": "SSD48D",
+      "ballotItemId": "01000000-f33c-bc21-f86d-08dead346dca",
+      "name": "State Senate - District 48 - Dem",
+      "ballotOrder": 130,
+      "apiName": "State Senate - District 48 - Dem"
+    },
+    {
+      "id": "SSD49R",
+      "ballotItemId": "01000000-f33c-bc21-b2ee-08dead34b25b",
+      "name": "State Senate - District 49 - Rep",
+      "ballotOrder": 131,
+      "apiName": "State Senate - District 49 - Rep"
+    },
+    {
+      "id": "SSD49D",
+      "ballotItemId": "01000000-f33c-bc21-2d23-08dead34b274",
+      "name": "State Senate - District 49 - Dem",
+      "ballotOrder": 132,
+      "apiName": "State Senate - District 49 - Dem"
+    },
+    {
+      "id": "SSD50R",
+      "ballotItemId": "01000000-f33c-bc21-c646-08dead34047c",
+      "name": "State Senate - District 50 - Rep",
+      "ballotOrder": 133,
+      "apiName": "State Senate - District 50 - Rep"
+    },
+    {
+      "id": "SSD50D",
+      "ballotItemId": "01000000-f33c-bc21-bbb5-08dead340480",
+      "name": "State Senate - District 50 - Dem",
+      "ballotOrder": 134,
+      "apiName": "State Senate - District 50 - Dem"
+    },
+    {
+      "id": "SSD51R",
+      "ballotItemId": "01000000-f33c-bc21-07e9-08dead343b59",
+      "name": "State Senate - District 51 - Rep",
+      "ballotOrder": 135,
+      "apiName": "State Senate - District 51 - Rep"
+    },
+    {
+      "id": "SSD51D",
+      "ballotItemId": "01000000-f33c-bc21-05ba-08dead343b66",
+      "name": "State Senate - District 51 - Dem",
+      "ballotOrder": 136,
+      "apiName": "State Senate - District 51 - Dem"
+    },
+    {
+      "id": "SSD52R",
+      "ballotItemId": "01000000-f33c-bc21-e641-08dead340584",
+      "name": "State Senate - District 52 - Rep",
+      "ballotOrder": 137,
+      "apiName": "State Senate - District 52 - Rep"
+    },
+    {
+      "id": "SSD53R",
+      "ballotItemId": "01000000-f33c-bc21-96ea-08dead340dc4",
+      "name": "State Senate - District 53 - Rep",
+      "ballotOrder": 138,
+      "apiName": "State Senate - District 53 - Rep"
+    },
+    {
+      "id": "SSD53D",
+      "ballotItemId": "01000000-f33c-bc21-9003-08dead340dcd",
+      "name": "State Senate - District 53 - Dem",
+      "ballotOrder": 139,
+      "apiName": "State Senate - District 53 - Dem"
+    },
+    {
+      "id": "SSD54R",
+      "ballotItemId": "01000000-f33c-bc21-6f40-08dead34ab27",
+      "name": "State Senate - District 54 - Rep",
+      "ballotOrder": 140,
+      "apiName": "State Senate - District 54 - Rep"
+    },
+    {
+      "id": "SSD55R",
+      "ballotItemId": "01000000-f33c-bc21-161d-08dead344f8b",
+      "name": "State Senate - District 55 - Rep",
+      "ballotOrder": 141,
+      "apiName": "State Senate - District 55 - Rep"
+    },
+    {
+      "id": "SSD55D",
+      "ballotItemId": "01000000-f33c-bc21-dbf1-08dead344f9f",
+      "name": "State Senate - District 55 - Dem",
+      "ballotOrder": 142,
+      "apiName": "State Senate - District 55 - Dem"
+    },
+    {
+      "id": "SSD56R",
+      "ballotItemId": "01000000-f33c-bc21-e2f6-08dead3415c4",
+      "name": "State Senate - District 56 - Rep",
+      "ballotOrder": 143,
+      "apiName": "State Senate - District 56 - Rep"
+    },
+    {
+      "id": "SSD56D",
+      "ballotItemId": "01000000-f33c-bc21-b1ef-08dead3415cd",
+      "name": "State Senate - District 56 - Dem",
+      "ballotOrder": 144,
+      "apiName": "State Senate - District 56 - Dem"
+    },
+    {
+      "id": "SHD1R",
+      "ballotItemId": "01000000-f33c-bc21-5b49-08dead343a7b",
+      "name": "State House of Representatives - District 1 - Rep",
+      "ballotOrder": 145,
+      "apiName": "State House of Representatives - District 1 - Rep"
+    },
+    {
+      "id": "SHD1D",
+      "ballotItemId": "01000000-f33c-bc21-6d48-08dead343a88",
+      "name": "State House of Representatives - District 1 - Dem",
+      "ballotOrder": 146,
+      "apiName": "State House of Representatives - District 1 - Dem"
+    },
+    {
+      "id": "SHD2R",
+      "ballotItemId": "01000000-f33c-bc21-d675-08dead340df3",
+      "name": "State House of Representatives - District 2 - Rep",
+      "ballotOrder": 147,
+      "apiName": "State House of Representatives - District 2 - Rep"
+    },
+    {
+      "id": "SHD2D",
+      "ballotItemId": "01000000-f33c-bc21-da54-08dead340dfc",
+      "name": "State House of Representatives - District 2 - Dem",
+      "ballotOrder": 148,
+      "apiName": "State House of Representatives - District 2 - Dem"
+    },
+    {
+      "id": "SHD3R",
+      "ballotItemId": "01000000-f33c-bc21-73d0-08dead340dd7",
+      "name": "State House of Representatives - District 3 - Rep",
+      "ballotOrder": 149,
+      "apiName": "State House of Representatives - District 3 - Rep"
+    },
+    {
+      "id": "SHD3D",
+      "ballotItemId": "01000000-f33c-bc21-2993-08dead340de0",
+      "name": "State House of Representatives - District 3 - Dem",
+      "ballotOrder": 150,
+      "apiName": "State House of Representatives - District 3 - Dem"
+    },
+    {
+      "id": "SHD4R",
+      "ballotItemId": "01000000-f33c-bc21-d207-08dead3573d2",
+      "name": "State House of Representatives - District 4 - Rep",
+      "ballotOrder": 151,
+      "apiName": "State House of Representatives - District 4 - Rep"
+    },
+    {
+      "id": "SHD4D",
+      "ballotItemId": "01000000-f33c-bc21-38ce-08dead3573fc",
+      "name": "State House of Representatives - District 4 - Dem",
+      "ballotOrder": 152,
+      "apiName": "State House of Representatives - District 4 - Dem"
+    },
+    {
+      "id": "SHD5R",
+      "ballotItemId": "01000000-f33c-bc21-f41a-08dead3469d1",
+      "name": "State House of Representatives - District 5 - Rep",
+      "ballotOrder": 153,
+      "apiName": "State House of Representatives - District 5 - Rep"
+    },
+    {
+      "id": "SHD5D",
+      "ballotItemId": "01000000-f33c-bc21-acaa-08dead3469e4",
+      "name": "State House of Representatives - District 5 - Dem",
+      "ballotOrder": 154,
+      "apiName": "State House of Representatives - District 5 - Dem"
+    },
+    {
+      "id": "SHD6R",
+      "ballotItemId": "01000000-f33c-bc21-5a59-08dead34ab3e",
+      "name": "State House of Representatives - District 6 - Rep",
+      "ballotOrder": 155,
+      "apiName": "State House of Representatives - District 6 - Rep"
+    },
+    {
+      "id": "SHD6D",
+      "ballotItemId": "01000000-f33c-bc21-8ff1-08dead34ab55",
+      "name": "State House of Representatives - District 6 - Dem",
+      "ballotOrder": 156,
+      "apiName": "State House of Representatives - District 6 - Dem"
+    },
+    {
+      "id": "SHD7R",
+      "ballotItemId": "01000000-f33c-bc21-f98f-08dead343b73",
+      "name": "State House of Representatives - District 7 - Rep",
+      "ballotOrder": 157,
+      "apiName": "State House of Representatives - District 7 - Rep"
+    },
+    {
+      "id": "SHD8R",
+      "ballotItemId": "01000000-f33c-bc21-3388-08dead3549ef",
+      "name": "State House of Representatives - District 8 - Rep",
+      "ballotOrder": 158,
+      "apiName": "State House of Representatives - District 8 - Rep"
+    },
+    {
+      "id": "SHD8D",
+      "ballotItemId": "01000000-f33c-bc21-0373-08dead354a1d",
+      "name": "State House of Representatives - District 8 - Dem",
+      "ballotOrder": 159,
+      "apiName": "State House of Representatives - District 8 - Dem"
+    },
+    {
+      "id": "SHD9R",
+      "ballotItemId": "01000000-f33c-bc21-44b2-08dead343b81",
+      "name": "State House of Representatives - District 9 - Rep",
+      "ballotOrder": 160,
+      "apiName": "State House of Representatives - District 9 - Rep"
+    },
+    {
+      "id": "SHD9D",
+      "ballotItemId": "01000000-f33c-bc21-0705-08dead343b8f",
+      "name": "State House of Representatives - District 9 - Dem",
+      "ballotOrder": 161,
+      "apiName": "State House of Representatives - District 9 - Dem"
+    },
+    {
+      "id": "SHD10R",
+      "ballotItemId": "01000000-f33c-bc21-ada9-08dead34aec9",
+      "name": "State House of Representatives - District 10 - Rep",
+      "ballotOrder": 162,
+      "apiName": "State House of Representatives - District 10 - Rep"
+    },
+    {
+      "id": "SHD10D",
+      "ballotItemId": "01000000-f33c-bc21-910c-08dead34aee1",
+      "name": "State House of Representatives - District 10 - Dem",
+      "ballotOrder": 163,
+      "apiName": "State House of Representatives - District 10 - Dem"
+    },
+    {
+      "id": "SHD11R",
+      "ballotItemId": "01000000-f33c-bc21-1058-08dead34160f",
+      "name": "State House of Representatives - District 11 - Rep",
+      "ballotOrder": 164,
+      "apiName": "State House of Representatives - District 11 - Rep"
+    },
+    {
+      "id": "SHD11D",
+      "ballotItemId": "01000000-f33c-bc21-31d7-08dead341617",
+      "name": "State House of Representatives - District 11 - Dem",
+      "ballotOrder": 165,
+      "apiName": "State House of Representatives - District 11 - Dem"
+    },
+    {
+      "id": "SHD12R",
+      "ballotItemId": "01000000-f33c-bc21-6a6c-08dead341423",
+      "name": "State House of Representatives - District 12 - Rep",
+      "ballotOrder": 166,
+      "apiName": "State House of Representatives - District 12 - Rep"
+    },
+    {
+      "id": "SHD12D",
+      "ballotItemId": "01000000-f33c-bc21-2c80-08dead34142b",
+      "name": "State House of Representatives - District 12 - Dem",
+      "ballotOrder": 167,
+      "apiName": "State House of Representatives - District 12 - Dem"
+    },
+    {
+      "id": "SHD13R",
+      "ballotItemId": "01000000-f33c-bc21-20d8-08dead346987",
+      "name": "State House of Representatives - District 13 - Rep",
+      "ballotOrder": 168,
+      "apiName": "State House of Representatives - District 13 - Rep"
+    },
+    {
+      "id": "SHD13D",
+      "ballotItemId": "01000000-f33c-bc21-64e2-08dead34699a",
+      "name": "State House of Representatives - District 13 - Dem",
+      "ballotOrder": 169,
+      "apiName": "State House of Representatives - District 13 - Dem"
+    },
+    {
+      "id": "SHD14R",
+      "ballotItemId": "01000000-f33c-bc21-f970-08dead340587",
+      "name": "State House of Representatives - District 14 - Rep",
+      "ballotOrder": 170,
+      "apiName": "State House of Representatives - District 14 - Rep"
+    },
+    {
+      "id": "SHD14D",
+      "ballotItemId": "01000000-f33c-bc21-a7d2-08dead34058b",
+      "name": "State House of Representatives - District 14 - Dem",
+      "ballotOrder": 171,
+      "apiName": "State House of Representatives - District 14 - Dem"
+    },
+    {
+      "id": "SHD15R",
+      "ballotItemId": "01000000-f33c-bc21-ea9c-08dead3405ab",
+      "name": "State House of Representatives - District 15 - Rep",
+      "ballotOrder": 172,
+      "apiName": "State House of Representatives - District 15 - Rep"
+    },
+    {
+      "id": "SHD15D",
+      "ballotItemId": "01000000-f33c-bc21-41a0-08dead3405b4",
+      "name": "State House of Representatives - District 15 - Dem",
+      "ballotOrder": 173,
+      "apiName": "State House of Representatives - District 15 - Dem"
+    },
+    {
+      "id": "SHD16R",
+      "ballotItemId": "01000000-f33c-bc21-bd42-08dead350680",
+      "name": "State House of Representatives - District 16 - Rep",
+      "ballotOrder": 174,
+      "apiName": "State House of Representatives - District 16 - Rep"
+    },
+    {
+      "id": "SHD16D",
+      "ballotItemId": "01000000-f33c-bc21-fe32-08dead3506a0",
+      "name": "State House of Representatives - District 16 - Dem",
+      "ballotOrder": 175,
+      "apiName": "State House of Representatives - District 16 - Dem"
+    },
+    {
+      "id": "SHD17R",
+      "ballotItemId": "01000000-f33c-bc21-41d2-08dead350722",
+      "name": "State House of Representatives - District 17 - Rep",
+      "ballotOrder": 176,
+      "apiName": "State House of Representatives - District 17 - Rep"
+    },
+    {
+      "id": "SHD17D",
+      "ballotItemId": "01000000-f33c-bc21-a4eb-08dead350742",
+      "name": "State House of Representatives - District 17 - Dem",
+      "ballotOrder": 177,
+      "apiName": "State House of Representatives - District 17 - Dem"
+    },
+    {
+      "id": "SHD18R",
+      "ballotItemId": "01000000-f33c-bc21-f558-08dead340cc0",
+      "name": "State House of Representatives - District 18 - Rep",
+      "ballotOrder": 178,
+      "apiName": "State House of Representatives - District 18 - Rep"
+    },
+    {
+      "id": "SHD18D",
+      "ballotItemId": "01000000-f33c-bc21-6a55-08dead340cc7",
+      "name": "State House of Representatives - District 18 - Dem",
+      "ballotOrder": 179,
+      "apiName": "State House of Representatives - District 18 - Dem"
+    },
+    {
+      "id": "SHD19R",
+      "ballotItemId": "01000000-f33c-bc21-9d1e-08dead342e31",
+      "name": "State House of Representatives - District 19 - Rep",
+      "ballotOrder": 180,
+      "apiName": "State House of Representatives - District 19 - Rep"
+    },
+    {
+      "id": "SHD19D",
+      "ballotItemId": "01000000-f33c-bc21-fc5d-08dead342e3c",
+      "name": "State House of Representatives - District 19 - Dem",
+      "ballotOrder": 181,
+      "apiName": "State House of Representatives - District 19 - Dem"
+    },
+    {
+      "id": "SHD20R",
+      "ballotItemId": "01000000-f33c-bc21-ca64-08dead341630",
+      "name": "State House of Representatives - District 20 - Rep",
+      "ballotOrder": 182,
+      "apiName": "State House of Representatives - District 20 - Rep"
+    },
+    {
+      "id": "SHD20D",
+      "ballotItemId": "01000000-f33c-bc21-5fb1-08dead34163a",
+      "name": "State House of Representatives - District 20 - Dem",
+      "ballotOrder": 183,
+      "apiName": "State House of Representatives - District 20 - Dem"
+    },
+    {
+      "id": "SHD21R",
+      "ballotItemId": "01000000-f33c-bc21-01f4-08dead3415d6",
+      "name": "State House of Representatives - District 21 - Rep",
+      "ballotOrder": 184,
+      "apiName": "State House of Representatives - District 21 - Rep"
+    },
+    {
+      "id": "SHD21D",
+      "ballotItemId": "01000000-f33c-bc21-fdc7-08dead3415dd",
+      "name": "State House of Representatives - District 21 - Dem",
+      "ballotOrder": 185,
+      "apiName": "State House of Representatives - District 21 - Dem"
+    },
+    {
+      "id": "SHD22R",
+      "ballotItemId": "01000000-f33c-bc21-66b7-08dead341642",
+      "name": "State House of Representatives - District 22 - Rep",
+      "ballotOrder": 186,
+      "apiName": "State House of Representatives - District 22 - Rep"
+    },
+    {
+      "id": "SHD22D",
+      "ballotItemId": "01000000-f33c-bc21-a8f9-08dead34164a",
+      "name": "State House of Representatives - District 22 - Dem",
+      "ballotOrder": 187,
+      "apiName": "State House of Representatives - District 22 - Dem"
+    },
+    {
+      "id": "SHD23R",
+      "ballotItemId": "01000000-f33c-bc21-ad42-08dead341652",
+      "name": "State House of Representatives - District 23 - Rep",
+      "ballotOrder": 188,
+      "apiName": "State House of Representatives - District 23 - Rep"
+    },
+    {
+      "id": "SHD23D",
+      "ballotItemId": "01000000-f33c-bc21-a5a0-08dead34165a",
+      "name": "State House of Representatives - District 23 - Dem",
+      "ballotOrder": 189,
+      "apiName": "State House of Representatives - District 23 - Dem"
+    },
+    {
+      "id": "SHD24R",
+      "ballotItemId": "01000000-f33c-bc21-2573-08dead346cf5",
+      "name": "State House of Representatives - District 24 - Rep",
+      "ballotOrder": 190,
+      "apiName": "State House of Representatives - District 24 - Rep"
+    },
+    {
+      "id": "SHD24D",
+      "ballotItemId": "01000000-f33c-bc21-e7da-08dead346d10",
+      "name": "State House of Representatives - District 24 - Dem",
+      "ballotOrder": 191,
+      "apiName": "State House of Representatives - District 24 - Dem"
+    },
+    {
+      "id": "SHD25R",
+      "ballotItemId": "01000000-f33c-bc21-2ec4-08dead346d2b",
+      "name": "State House of Representatives - District 25 - Rep",
+      "ballotOrder": 192,
+      "apiName": "State House of Representatives - District 25 - Rep"
+    },
+    {
+      "id": "SHD25D",
+      "ballotItemId": "01000000-f33c-bc21-9acc-08dead346d41",
+      "name": "State House of Representatives - District 25 - Dem",
+      "ballotOrder": 193,
+      "apiName": "State House of Representatives - District 25 - Dem"
+    },
+    {
+      "id": "SHD26R",
+      "ballotItemId": "01000000-f33c-bc21-e0e0-08dead346dde",
+      "name": "State House of Representatives - District 26 - Rep",
+      "ballotOrder": 194,
+      "apiName": "State House of Representatives - District 26 - Rep"
+    },
+    {
+      "id": "SHD26D",
+      "ballotItemId": "01000000-f33c-bc21-300f-08dead346df2",
+      "name": "State House of Representatives - District 26 - Dem",
+      "ballotOrder": 195,
+      "apiName": "State House of Representatives - District 26 - Dem"
+    },
+    {
+      "id": "SHD27R",
+      "ballotItemId": "01000000-f33c-bc21-9501-08dead34b2ff",
+      "name": "State House of Representatives - District 27 - Rep",
+      "ballotOrder": 196,
+      "apiName": "State House of Representatives - District 27 - Rep"
+    },
+    {
+      "id": "SHD27D",
+      "ballotItemId": "01000000-f33c-bc21-55a9-08dead34b317",
+      "name": "State House of Representatives - District 27 - Dem",
+      "ballotOrder": 197,
+      "apiName": "State House of Representatives - District 27 - Dem"
+    },
+    {
+      "id": "SHD28R",
+      "ballotItemId": "01000000-f33c-bc21-1770-08dead346d8d",
+      "name": "State House of Representatives - District 28 - Rep",
+      "ballotOrder": 198,
+      "apiName": "State House of Representatives - District 28 - Rep"
+    },
+    {
+      "id": "SHD28D",
+      "ballotItemId": "01000000-f33c-bc21-a38c-08dead346da1",
+      "name": "State House of Representatives - District 28 - Dem",
+      "ballotOrder": 199,
+      "apiName": "State House of Representatives - District 28 - Dem"
+    },
+    {
+      "id": "SHD29R",
+      "ballotItemId": "01000000-f33c-bc21-53c6-08dead34b28b",
+      "name": "State House of Representatives - District 29 - Rep",
+      "ballotOrder": 200,
+      "apiName": "State House of Representatives - District 29 - Rep"
+    },
+    {
+      "id": "SHD29D",
+      "ballotItemId": "01000000-f33c-bc21-08a1-08dead34b2a2",
+      "name": "State House of Representatives - District 29 - Dem",
+      "ballotOrder": 201,
+      "apiName": "State House of Representatives - District 29 - Dem"
+    },
+    {
+      "id": "SHD30R",
+      "ballotItemId": "01000000-f33c-bc21-59e3-08dead34b2b9",
+      "name": "State House of Representatives - District 30 - Rep",
+      "ballotOrder": 202,
+      "apiName": "State House of Representatives - District 30 - Rep"
+    },
+    {
+      "id": "SHD30D",
+      "ballotItemId": "01000000-f33c-bc21-355e-08dead34b2d0",
+      "name": "State House of Representatives - District 30 - Dem",
+      "ballotOrder": 203,
+      "apiName": "State House of Representatives - District 30 - Dem"
+    },
+    {
+      "id": "SHD31R",
+      "ballotItemId": "01000000-f33c-bc21-da04-08dead34b2e7",
+      "name": "State House of Representatives - District 31 - Rep",
+      "ballotOrder": 204,
+      "apiName": "State House of Representatives - District 31 - Rep"
+    },
+    {
+      "id": "SHD32R",
+      "ballotItemId": "01000000-f33c-bc21-a247-08dead340483",
+      "name": "State House of Representatives - District 32 - Rep",
+      "ballotOrder": 205,
+      "apiName": "State House of Representatives - District 32 - Rep"
+    },
+    {
+      "id": "SHD32D",
+      "ballotItemId": "01000000-f33c-bc21-5435-08dead340486",
+      "name": "State House of Representatives - District 32 - Dem",
+      "ballotOrder": 206,
+      "apiName": "State House of Representatives - District 32 - Dem"
+    },
+    {
+      "id": "SHD33R",
+      "ballotItemId": "01000000-f33c-bc21-2ea3-08dead346f4c",
+      "name": "State House of Representatives - District 33 - Rep",
+      "ballotOrder": 207,
+      "apiName": "State House of Representatives - District 33 - Rep"
+    },
+    {
+      "id": "SHD34R",
+      "ballotItemId": "01000000-f33c-bc21-9385-08dead342dd7",
+      "name": "State House of Representatives - District 34 - Rep",
+      "ballotOrder": 208,
+      "apiName": "State House of Representatives - District 34 - Rep"
+    },
+    {
+      "id": "SHD34D",
+      "ballotItemId": "01000000-f33c-bc21-6a72-08dead342de4",
+      "name": "State House of Representatives - District 34 - Dem",
+      "ballotOrder": 209,
+      "apiName": "State House of Representatives - District 34 - Dem"
+    },
+    {
+      "id": "SHD35R",
+      "ballotItemId": "01000000-f33c-bc21-2f88-08dead342d1b",
+      "name": "State House of Representatives - District 35 - Rep",
+      "ballotOrder": 210,
+      "apiName": "State House of Representatives - District 35 - Rep"
+    },
+    {
+      "id": "SHD35D",
+      "ballotItemId": "01000000-f33c-bc21-0b80-08dead342d2d",
+      "name": "State House of Representatives - District 35 - Dem",
+      "ballotOrder": 211,
+      "apiName": "State House of Representatives - District 35 - Dem"
+    },
+    {
+      "id": "SHD36R",
+      "ballotItemId": "01000000-f33c-bc21-d2c8-08dead342cc7",
+      "name": "State House of Representatives - District 36 - Rep",
+      "ballotOrder": 212,
+      "apiName": "State House of Representatives - District 36 - Rep"
+    },
+    {
+      "id": "SHD36D",
+      "ballotItemId": "01000000-f33c-bc21-5eab-08dead342ce1",
+      "name": "State House of Representatives - District 36 - Dem",
+      "ballotOrder": 213,
+      "apiName": "State House of Representatives - District 36 - Dem"
+    },
+    {
+      "id": "SHD37D",
+      "ballotItemId": "01000000-f33c-bc21-002f-08dead342e27",
+      "name": "State House of Representatives - District 37 - Dem",
+      "ballotOrder": 214,
+      "apiName": "State House of Representatives - District 37 - Dem"
+    },
+    {
+      "id": "SHD38D",
+      "ballotItemId": "01000000-f33c-bc21-99b7-08dead342d91",
+      "name": "State House of Representatives - District 38 - Dem",
+      "ballotOrder": 215,
+      "apiName": "State House of Representatives - District 38 - Dem"
+    },
+    {
+      "id": "SHD39D",
+      "ballotItemId": "01000000-f33c-bc21-1339-08dead342d9d",
+      "name": "State House of Representatives - District 39 - Dem",
+      "ballotOrder": 216,
+      "apiName": "State House of Representatives - District 39 - Dem"
+    },
+    {
+      "id": "SHD40R",
+      "ballotItemId": "01000000-f33c-bc21-f89f-08dead345a80",
+      "name": "State House of Representatives - District 40 - Rep",
+      "ballotOrder": 217,
+      "apiName": "State House of Representatives - District 40 - Rep"
+    },
+    {
+      "id": "SHD40D",
+      "ballotItemId": "01000000-f33c-bc21-6049-08dead345aba",
+      "name": "State House of Representatives - District 40 - Dem",
+      "ballotOrder": 218,
+      "apiName": "State House of Representatives - District 40 - Dem"
+    },
+    {
+      "id": "SHD41D",
+      "ballotItemId": "01000000-f33c-bc21-9cf7-08dead342dba",
+      "name": "State House of Representatives - District 41 - Dem",
+      "ballotOrder": 219,
+      "apiName": "State House of Representatives - District 41 - Dem"
+    },
+    {
+      "id": "SHD42R",
+      "ballotItemId": "01000000-f33c-bc21-4273-08dead342e11",
+      "name": "State House of Representatives - District 42 - Rep",
+      "ballotOrder": 220,
+      "apiName": "State House of Representatives - District 42 - Rep"
+    },
+    {
+      "id": "SHD42D",
+      "ballotItemId": "01000000-f33c-bc21-48d0-08dead342e1c",
+      "name": "State House of Representatives - District 42 - Dem",
+      "ballotOrder": 221,
+      "apiName": "State House of Representatives - District 42 - Dem"
+    },
+    {
+      "id": "SHD43D",
+      "ballotItemId": "01000000-f33c-bc21-4d54-08dead342dc9",
+      "name": "State House of Representatives - District 43 - Dem",
+      "ballotOrder": 222,
+      "apiName": "State House of Representatives - District 43 - Dem"
+    },
+    {
+      "id": "SHD44R",
+      "ballotItemId": "01000000-f33c-bc21-a71b-08dead341662",
+      "name": "State House of Representatives - District 44 - Rep",
+      "ballotOrder": 223,
+      "apiName": "State House of Representatives - District 44 - Rep"
+    },
+    {
+      "id": "SHD44D",
+      "ballotItemId": "01000000-f33c-bc21-4e84-08dead34166b",
+      "name": "State House of Representatives - District 44 - Dem",
+      "ballotOrder": 224,
+      "apiName": "State House of Representatives - District 44 - Dem"
+    },
+    {
+      "id": "SHD45R",
+      "ballotItemId": "01000000-f33c-bc21-c0b3-08dead342dfc",
+      "name": "State House of Representatives - District 45 - Rep",
+      "ballotOrder": 225,
+      "apiName": "State House of Representatives - District 45 - Rep"
+    },
+    {
+      "id": "SHD45D",
+      "ballotItemId": "01000000-f33c-bc21-69a5-08dead342e07",
+      "name": "State House of Representatives - District 45 - Dem",
+      "ballotOrder": 226,
+      "apiName": "State House of Representatives - District 45 - Dem"
+    },
+    {
+      "id": "SHD46R",
+      "ballotItemId": "01000000-f33c-bc21-8794-08dead341685",
+      "name": "State House of Representatives - District 46 - Rep",
+      "ballotOrder": 227,
+      "apiName": "State House of Representatives - District 46 - Rep"
+    },
+    {
+      "id": "SHD46D",
+      "ballotItemId": "01000000-f33c-bc21-fa61-08dead34168d",
+      "name": "State House of Representatives - District 46 - Dem",
+      "ballotOrder": 228,
+      "apiName": "State House of Representatives - District 46 - Dem"
+    },
+    {
+      "id": "SHD47R",
+      "ballotItemId": "01000000-f33c-bc21-39f5-08dead341674",
+      "name": "State House of Representatives - District 47 - Rep",
+      "ballotOrder": 229,
+      "apiName": "State House of Representatives - District 47 - Rep"
+    },
+    {
+      "id": "SHD47D",
+      "ballotItemId": "01000000-f33c-bc21-6501-08dead34167c",
+      "name": "State House of Representatives - District 47 - Dem",
+      "ballotOrder": 230,
+      "apiName": "State House of Representatives - District 47 - Dem"
+    },
+    {
+      "id": "SHD48R",
+      "ballotItemId": "01000000-f33c-bc21-4f2f-08dead34a1d4",
+      "name": "State House of Representatives - District 48 - Rep",
+      "ballotOrder": 231,
+      "apiName": "State House of Representatives - District 48 - Rep"
+    },
+    {
+      "id": "SHD48D",
+      "ballotItemId": "01000000-f33c-bc21-dcf1-08dead34a1f8",
+      "name": "State House of Representatives - District 48 - Dem",
+      "ballotOrder": 232,
+      "apiName": "State House of Representatives - District 48 - Dem"
+    },
+    {
+      "id": "SHD49R",
+      "ballotItemId": "01000000-f33c-bc21-dd86-08dead34a190",
+      "name": "State House of Representatives - District 49 - Rep",
+      "ballotOrder": 233,
+      "apiName": "State House of Representatives - District 49 - Rep"
+    },
+    {
+      "id": "SHD49D",
+      "ballotItemId": "01000000-f33c-bc21-d2ea-08dead34a1b7",
+      "name": "State House of Representatives - District 49 - Dem",
+      "ballotOrder": 234,
+      "apiName": "State House of Representatives - District 49 - Dem"
+    },
+    {
+      "id": "SHD50R",
+      "ballotItemId": "01000000-f33c-bc21-0b0f-08dead34a226",
+      "name": "State House of Representatives - District 50 - Rep",
+      "ballotOrder": 235,
+      "apiName": "State House of Representatives - District 50 - Rep"
+    },
+    {
+      "id": "SHD50D",
+      "ballotItemId": "01000000-f33c-bc21-158b-08dead34a248",
+      "name": "State House of Representatives - District 50 - Dem",
+      "ballotOrder": 236,
+      "apiName": "State House of Representatives - District 50 - Dem"
+    },
+    {
+      "id": "SHD51R",
+      "ballotItemId": "01000000-f33c-bc21-dadb-08dead34a290",
+      "name": "State House of Representatives - District 51 - Rep",
+      "ballotOrder": 237,
+      "apiName": "State House of Representatives - District 51 - Rep"
+    },
+    {
+      "id": "SHD51D",
+      "ballotItemId": "01000000-f33c-bc21-44fe-08dead34a2b5",
+      "name": "State House of Representatives - District 51 - Dem",
+      "ballotOrder": 238,
+      "apiName": "State House of Representatives - District 51 - Dem"
+    },
+    {
+      "id": "SHD52D",
+      "ballotItemId": "01000000-f33c-bc21-ce0a-08dead344ce4",
+      "name": "State House of Representatives - District 52 - Dem",
+      "ballotOrder": 239,
+      "apiName": "State House of Representatives - District 52 - Dem"
+    },
+    {
+      "id": "SHD53R",
+      "ballotItemId": "01000000-f33c-bc21-b2bb-08dead34a136",
+      "name": "State House of Representatives - District 53 - Rep",
+      "ballotOrder": 240,
+      "apiName": "State House of Representatives - District 53 - Rep"
+    },
+    {
+      "id": "SHD53D",
+      "ballotItemId": "01000000-f33c-bc21-1102-08dead34a174",
+      "name": "State House of Representatives - District 53 - Dem",
+      "ballotOrder": 241,
+      "apiName": "State House of Representatives - District 53 - Dem"
+    },
+    {
+      "id": "SHD54R",
+      "ballotItemId": "01000000-f33c-bc21-7459-08dead34a0ef",
+      "name": "State House of Representatives - District 54 - Rep",
+      "ballotOrder": 242,
+      "apiName": "State House of Representatives - District 54 - Rep"
+    },
+    {
+      "id": "SHD54D",
+      "ballotItemId": "01000000-f33c-bc21-e41f-08dead34a11b",
+      "name": "State House of Representatives - District 54 - Dem",
+      "ballotOrder": 243,
+      "apiName": "State House of Representatives - District 54 - Dem"
+    },
+    {
+      "id": "SHD55R",
+      "ballotItemId": "01000000-f33c-bc21-5df8-08dead34a033",
+      "name": "State House of Representatives - District 55 - Rep",
+      "ballotOrder": 244,
+      "apiName": "State House of Representatives - District 55 - Rep"
+    },
+    {
+      "id": "SHD55D",
+      "ballotItemId": "01000000-f33c-bc21-114f-08dead34a053",
+      "name": "State House of Representatives - District 55 - Dem",
+      "ballotOrder": 245,
+      "apiName": "State House of Representatives - District 55 - Dem"
+    },
+    {
+      "id": "SHD56D",
+      "ballotItemId": "01000000-f33c-bc21-1505-08dead349f75",
+      "name": "State House of Representatives - District 56 - Dem",
+      "ballotOrder": 246,
+      "apiName": "State House of Representatives - District 56 - Dem"
+    },
+    {
+      "id": "SHD57R",
+      "ballotItemId": "01000000-f33c-bc21-a26a-08dead349f28",
+      "name": "State House of Representatives - District 57 - Rep",
+      "ballotOrder": 247,
+      "apiName": "State House of Representatives - District 57 - Rep"
+    },
+    {
+      "id": "SHD57D",
+      "ballotItemId": "01000000-f33c-bc21-08c6-08dead349f3e",
+      "name": "State House of Representatives - District 57 - Dem",
+      "ballotOrder": 248,
+      "apiName": "State House of Representatives - District 57 - Dem"
+    },
+    {
+      "id": "SHD58R",
+      "ballotItemId": "01000000-f33c-bc21-c259-08dead349f8b",
+      "name": "State House of Representatives - District 58 - Rep",
+      "ballotOrder": 249,
+      "apiName": "State House of Representatives - District 58 - Rep"
+    },
+    {
+      "id": "SHD58D",
+      "ballotItemId": "01000000-f33c-bc21-5e78-08dead349fdb",
+      "name": "State House of Representatives - District 58 - Dem",
+      "ballotOrder": 250,
+      "apiName": "State House of Representatives - District 58 - Dem"
+    },
+    {
+      "id": "SHD59R",
+      "ballotItemId": "01000000-f33c-bc21-c64e-08dead349efb",
+      "name": "State House of Representatives - District 59 - Rep",
+      "ballotOrder": 251,
+      "apiName": "State House of Representatives - District 59 - Rep"
+    },
+    {
+      "id": "SHD59D",
+      "ballotItemId": "01000000-f33c-bc21-cd1a-08dead349f12",
+      "name": "State House of Representatives - District 59 - Dem",
+      "ballotOrder": 252,
+      "apiName": "State House of Representatives - District 59 - Dem"
+    },
+    {
+      "id": "SHD60D",
+      "ballotItemId": "01000000-f33c-bc21-6761-08dead342e5f",
+      "name": "State House of Representatives - District 60 - Dem",
+      "ballotOrder": 253,
+      "apiName": "State House of Representatives - District 60 - Dem"
+    },
+    {
+      "id": "SHD61R",
+      "ballotItemId": "01000000-f33c-bc21-ae87-08dead342e47",
+      "name": "State House of Representatives - District 61 - Rep",
+      "ballotOrder": 254,
+      "apiName": "State House of Representatives - District 61 - Rep"
+    },
+    {
+      "id": "SHD61D",
+      "ballotItemId": "01000000-f33c-bc21-198c-08dead342e52",
+      "name": "State House of Representatives - District 61 - Dem",
+      "ballotOrder": 255,
+      "apiName": "State House of Representatives - District 61 - Dem"
+    },
+    {
+      "id": "SHD62D",
+      "ballotItemId": "01000000-f33c-bc21-2720-08dead349bf6",
+      "name": "State House of Representatives - District 62 - Dem",
+      "ballotOrder": 256,
+      "apiName": "State House of Representatives - District 62 - Dem"
+    },
+    {
+      "id": "SHD63D",
+      "ballotItemId": "01000000-f33c-bc21-0118-08dead349ee3",
+      "name": "State House of Representatives - District 63 - Dem",
+      "ballotOrder": 257,
+      "apiName": "State House of Representatives - District 63 - Dem"
+    },
+    {
+      "id": "SHD64R",
+      "ballotItemId": "01000000-f33c-bc21-538d-08dead345a5a",
+      "name": "State House of Representatives - District 64 - Rep",
+      "ballotOrder": 258,
+      "apiName": "State House of Representatives - District 64 - Rep"
+    },
+    {
+      "id": "SHD64D",
+      "ballotItemId": "01000000-f33c-bc21-ff35-08dead345a69",
+      "name": "State House of Representatives - District 64 - Dem",
+      "ballotOrder": 259,
+      "apiName": "State House of Representatives - District 64 - Dem"
+    },
+    {
+      "id": "SHD65R",
+      "ballotItemId": "01000000-f33c-bc21-5514-08dead343847",
+      "name": "State House of Representatives - District 65 - Rep",
+      "ballotOrder": 260,
+      "apiName": "State House of Representatives - District 65 - Rep"
+    },
+    {
+      "id": "SHD65D",
+      "ballotItemId": "01000000-f33c-bc21-dc87-08dead343854",
+      "name": "State House of Representatives - District 65 - Dem",
+      "ballotOrder": 261,
+      "apiName": "State House of Representatives - District 65 - Dem"
+    },
+    {
+      "id": "SHD66D",
+      "ballotItemId": "01000000-f33c-bc21-e4cd-08dead345a39",
+      "name": "State House of Representatives - District 66 - Dem",
+      "ballotOrder": 262,
+      "apiName": "State House of Representatives - District 66 - Dem"
+    },
+    {
+      "id": "SHD67R",
+      "ballotItemId": "01000000-f33c-bc21-8384-08dead343861",
+      "name": "State House of Representatives - District 67 - Rep",
+      "ballotOrder": 263,
+      "apiName": "State House of Representatives - District 67 - Rep"
+    },
+    {
+      "id": "SHD67D",
+      "ballotItemId": "01000000-f33c-bc21-b47b-08dead34386d",
+      "name": "State House of Representatives - District 67 - Dem",
+      "ballotOrder": 264,
+      "apiName": "State House of Representatives - District 67 - Dem"
+    },
+    {
+      "id": "SHD68D",
+      "ballotItemId": "01000000-f33c-bc21-d76d-08dead34677f",
+      "name": "State House of Representatives - District 68 - Dem",
+      "ballotOrder": 265,
+      "apiName": "State House of Representatives - District 68 - Dem"
+    },
+    {
+      "id": "SHD69D",
+      "ballotItemId": "01000000-f33c-bc21-733f-08dead3466b4",
+      "name": "State House of Representatives - District 69 - Dem",
+      "ballotOrder": 266,
+      "apiName": "State House of Representatives - District 69 - Dem"
+    },
+    {
+      "id": "SHD70R",
+      "ballotItemId": "01000000-f33c-bc21-eddb-08dead340cdc",
+      "name": "State House of Representatives - District 70 - Rep",
+      "ballotOrder": 267,
+      "apiName": "State House of Representatives - District 70 - Rep"
+    },
+    {
+      "id": "SHD70D",
+      "ballotItemId": "01000000-f33c-bc21-856f-08dead340ce3",
+      "name": "State House of Representatives - District 70 - Dem",
+      "ballotOrder": 268,
+      "apiName": "State House of Representatives - District 70 - Dem"
+    },
+    {
+      "id": "SHD71R",
+      "ballotItemId": "01000000-f33c-bc21-1d16-08dead340ca8",
+      "name": "State House of Representatives - District 71 - Rep",
+      "ballotOrder": 269,
+      "apiName": "State House of Representatives - District 71 - Rep"
+    },
+    {
+      "id": "SHD71D",
+      "ballotItemId": "01000000-f33c-bc21-4e94-08dead340cae",
+      "name": "State House of Representatives - District 71 - Dem",
+      "ballotOrder": 270,
+      "apiName": "State House of Representatives - District 71 - Dem"
+    },
+    {
+      "id": "SHD72R",
+      "ballotItemId": "01000000-f33c-bc21-3184-08dead340cea",
+      "name": "State House of Representatives - District 72 - Rep",
+      "ballotOrder": 271,
+      "apiName": "State House of Representatives - District 72 - Rep"
+    },
+    {
+      "id": "SHD73R",
+      "ballotItemId": "01000000-f33c-bc21-4197-08dead34382d",
+      "name": "State House of Representatives - District 73 - Rep",
+      "ballotOrder": 272,
+      "apiName": "State House of Representatives - District 73 - Rep"
+    },
+    {
+      "id": "SHD73D",
+      "ballotItemId": "01000000-f33c-bc21-9cd3-08dead343839",
+      "name": "State House of Representatives - District 73 - Dem",
+      "ballotOrder": 273,
+      "apiName": "State House of Representatives - District 73 - Dem"
+    },
+    {
+      "id": "SHD74D",
+      "ballotItemId": "01000000-f33c-bc21-fee3-08dead3424fb",
+      "name": "State House of Representatives - District 74 - Dem",
+      "ballotOrder": 274,
+      "apiName": "State House of Representatives - District 74 - Dem"
+    },
+    {
+      "id": "SHD75D",
+      "ballotItemId": "01000000-f33c-bc21-cdfa-08dead3424e7",
+      "name": "State House of Representatives - District 75 - Dem",
+      "ballotOrder": 275,
+      "apiName": "State House of Representatives - District 75 - Dem"
+    },
+    {
+      "id": "SHD76D",
+      "ballotItemId": "01000000-f33c-bc21-fd4b-08dead342489",
+      "name": "State House of Representatives - District 76 - Dem",
+      "ballotOrder": 276,
+      "apiName": "State House of Representatives - District 76 - Dem"
+    },
+    {
+      "id": "SHD77D",
+      "ballotItemId": "01000000-f33c-bc21-1391-08dead3424c5",
+      "name": "State House of Representatives - District 77 - Dem",
+      "ballotOrder": 277,
+      "apiName": "State House of Representatives - District 77 - Dem"
+    },
+    {
+      "id": "SHD78D",
+      "ballotItemId": "01000000-f33c-bc21-7302-08dead342506",
+      "name": "State House of Representatives - District 78 - Dem",
+      "ballotOrder": 278,
+      "apiName": "State House of Representatives - District 78 - Dem"
+    },
+    {
+      "id": "SHD79R",
+      "ballotItemId": "01000000-f33c-bc21-88ae-08dead3424d3",
+      "name": "State House of Representatives - District 79 - Rep",
+      "ballotOrder": 279,
+      "apiName": "State House of Representatives - District 79 - Rep"
+    },
+    {
+      "id": "SHD79D",
+      "ballotItemId": "01000000-f33c-bc21-ca93-08dead3424dd",
+      "name": "State House of Representatives - District 79 - Dem",
+      "ballotOrder": 280,
+      "apiName": "State House of Representatives - District 79 - Dem"
+    },
+    {
+      "id": "SHD80R",
+      "ballotItemId": "01000000-f33c-bc21-5f8e-08dead344c0e",
+      "name": "State House of Representatives - District 80 - Rep",
+      "ballotOrder": 281,
+      "apiName": "State House of Representatives - District 80 - Rep"
+    },
+    {
+      "id": "SHD80D",
+      "ballotItemId": "01000000-f33c-bc21-723a-08dead344c39",
+      "name": "State House of Representatives - District 80 - Dem",
+      "ballotOrder": 282,
+      "apiName": "State House of Representatives - District 80 - Dem"
+    },
+    {
+      "id": "SHD81R",
+      "ballotItemId": "01000000-f33c-bc21-9075-08dead34c512",
+      "name": "State House of Representatives - District 81 - Rep",
+      "ballotOrder": 283,
+      "apiName": "State House of Representatives - District 81 - Rep"
+    },
+    {
+      "id": "SHD81D",
+      "ballotItemId": "01000000-f33c-bc21-fc4d-08dead34c52c",
+      "name": "State House of Representatives - District 81 - Dem",
+      "ballotOrder": 284,
+      "apiName": "State House of Representatives - District 81 - Dem"
+    },
+    {
+      "id": "SHD82R",
+      "ballotItemId": "01000000-f33c-bc21-ee51-08dead346756",
+      "name": "State House of Representatives - District 82 - Rep",
+      "ballotOrder": 285,
+      "apiName": "State House of Representatives - District 82 - Rep"
+    },
+    {
+      "id": "SHD82D",
+      "ballotItemId": "01000000-f33c-bc21-7ddf-08dead34676a",
+      "name": "State House of Representatives - District 82 - Dem",
+      "ballotOrder": 286,
+      "apiName": "State House of Representatives - District 82 - Dem"
+    },
+    {
+      "id": "SHD83R",
+      "ballotItemId": "01000000-f33c-bc21-d56a-08dead344bd0",
+      "name": "State House of Representatives - District 83 - Rep",
+      "ballotOrder": 287,
+      "apiName": "State House of Representatives - District 83 - Rep"
+    },
+    {
+      "id": "SHD83D",
+      "ballotItemId": "01000000-f33c-bc21-3b28-08dead344bf4",
+      "name": "State House of Representatives - District 83 - Dem",
+      "ballotOrder": 288,
+      "apiName": "State House of Representatives - District 83 - Dem"
+    },
+    {
+      "id": "SHD84D",
+      "ballotItemId": "01000000-f33c-bc21-9bc5-08dead344c8d",
+      "name": "State House of Representatives - District 84 - Dem",
+      "ballotOrder": 289,
+      "apiName": "State House of Representatives - District 84 - Dem"
+    },
+    {
+      "id": "SHD85R",
+      "ballotItemId": "01000000-f33c-bc21-44aa-08dead344ca5",
+      "name": "State House of Representatives - District 85 - Rep",
+      "ballotOrder": 290,
+      "apiName": "State House of Representatives - District 85 - Rep"
+    },
+    {
+      "id": "SHD85D",
+      "ballotItemId": "01000000-f33c-bc21-0570-08dead344cba",
+      "name": "State House of Representatives - District 85 - Dem",
+      "ballotOrder": 291,
+      "apiName": "State House of Representatives - District 85 - Dem"
+    },
+    {
+      "id": "SHD86D",
+      "ballotItemId": "01000000-f33c-bc21-b961-08dead344b0a",
+      "name": "State House of Representatives - District 86 - Dem",
+      "ballotOrder": 292,
+      "apiName": "State House of Representatives - District 86 - Dem"
+    },
+    {
+      "id": "SHD87R",
+      "ballotItemId": "01000000-f33c-bc21-5335-08dead344fb8",
+      "name": "State House of Representatives - District 87 - Rep",
+      "ballotOrder": 293,
+      "apiName": "State House of Representatives - District 87 - Rep"
+    },
+    {
+      "id": "SHD87D",
+      "ballotItemId": "01000000-f33c-bc21-360c-08dead344fce",
+      "name": "State House of Representatives - District 87 - Dem",
+      "ballotOrder": 294,
+      "apiName": "State House of Representatives - District 87 - Dem"
+    },
+    {
+      "id": "SHD88R",
+      "ballotItemId": "01000000-f33c-bc21-0570-08dead34504f",
+      "name": "State House of Representatives - District 88 - Rep",
+      "ballotOrder": 295,
+      "apiName": "State House of Representatives - District 88 - Rep"
+    },
+    {
+      "id": "SHD88D",
+      "ballotItemId": "01000000-f33c-bc21-533e-08dead345060",
+      "name": "State House of Representatives - District 88 - Dem",
+      "ballotOrder": 296,
+      "apiName": "State House of Representatives - District 88 - Dem"
+    },
+    {
+      "id": "SHD89D",
+      "ballotItemId": "01000000-f33c-bc21-f1af-08dead344e35",
+      "name": "State House of Representatives - District 89 - Dem",
+      "ballotOrder": 297,
+      "apiName": "State House of Representatives - District 89 - Dem"
+    },
+    {
+      "id": "SHD90R",
+      "ballotItemId": "01000000-f33c-bc21-3635-08dead344f25",
+      "name": "State House of Representatives - District 90 - Rep",
+      "ballotOrder": 298,
+      "apiName": "State House of Representatives - District 90 - Rep"
+    },
+    {
+      "id": "SHD90D",
+      "ballotItemId": "01000000-f33c-bc21-12d6-08dead344f42",
+      "name": "State House of Representatives - District 90 - Dem",
+      "ballotOrder": 299,
+      "apiName": "State House of Representatives - District 90 - Dem"
+    },
+    {
+      "id": "SHD91D",
+      "ballotItemId": "01000000-f33c-bc21-962d-08dead345038",
+      "name": "State House of Representatives - District 91 - Dem",
+      "ballotOrder": 300,
+      "apiName": "State House of Representatives - District 91 - Dem"
+    },
+    {
+      "id": "SHD92D",
+      "ballotItemId": "01000000-f33c-bc21-c5f1-08dead35297b",
+      "name": "State House of Representatives - District 92 - Dem",
+      "ballotOrder": 301,
+      "apiName": "State House of Representatives - District 92 - Dem"
+    },
+    {
+      "id": "SHD93D",
+      "ballotItemId": "01000000-f33c-bc21-a6b7-08dead34510e",
+      "name": "State House of Representatives - District 93 - Dem",
+      "ballotOrder": 302,
+      "apiName": "State House of Representatives - District 93 - Dem"
+    },
+    {
+      "id": "SHD94D",
+      "ballotItemId": "01000000-f33c-bc21-380d-08dead345127",
+      "name": "State House of Representatives - District 94 - Dem",
+      "ballotOrder": 303,
+      "apiName": "State House of Representatives - District 94 - Dem"
+    },
+    {
+      "id": "SHD95R",
+      "ballotItemId": "01000000-f33c-bc21-41ce-08dead345141",
+      "name": "State House of Representatives - District 95 - Rep",
+      "ballotOrder": 304,
+      "apiName": "State House of Representatives - District 95 - Rep"
+    },
+    {
+      "id": "SHD95D",
+      "ballotItemId": "01000000-f33c-bc21-8b43-08dead359a63",
+      "name": "State House of Representatives - District 95/ Para la Cámara de Representantes del Estado Distrito 95 - Dem",
+      "ballotOrder": 305,
+      "apiName": "State House of Representatives - District 95/ Para la Cámara de Representantes del Estado Distrito 95 - Dem"
+    },
+    {
+      "id": "SHD96D",
+      "ballotItemId": "01000000-f33c-bc21-dab0-08dead359dcb",
+      "name": "State House of Representatives - District 96/ Para la Cámara de Representantes del Estado Distrito 96 - Dem",
+      "ballotOrder": 306,
+      "apiName": "State House of Representatives - District 96/ Para la Cámara de Representantes del Estado Distrito 96 - Dem"
+    },
+    {
+      "id": "SHD97R",
+      "ballotItemId": "01000000-f33c-bc21-99c4-08dead359e21",
+      "name": "State House of Representatives - District 97/ Para la Cámara de Representantes del Estado Distrito 97 - Rep",
+      "ballotOrder": 307,
+      "apiName": "State House of Representatives - District 97/ Para la Cámara de Representantes del Estado Distrito 97 - Rep"
+    },
+    {
+      "id": "SHD97D",
+      "ballotItemId": "01000000-f33c-bc21-928f-08dead359e4c",
+      "name": "State House of Representatives - District 97/ Para la Cámara de Representantes del Estado Distrito 97 - Dem",
+      "ballotOrder": 308,
+      "apiName": "State House of Representatives - District 97/ Para la Cámara de Representantes del Estado Distrito 97 - Dem"
+    },
+    {
+      "id": "SHD98D",
+      "ballotItemId": "01000000-f33c-bc21-af48-08dead359df5",
+      "name": "State House of Representatives - District 98/ Para la Cámara de Representantes del Estado Distrito 98 - Dem",
+      "ballotOrder": 309,
+      "apiName": "State House of Representatives - District 98/ Para la Cámara de Representantes del Estado Distrito 98 - Dem"
+    },
+    {
+      "id": "SHD99R",
+      "ballotItemId": "01000000-f33c-bc21-1fda-08dead359ae7",
+      "name": "State House of Representatives - District 99/ Para la Cámara de Representantes del Estado Distrito 99 - Rep",
+      "ballotOrder": 310,
+      "apiName": "State House of Representatives - District 99/ Para la Cámara de Representantes del Estado Distrito 99 - Rep"
+    },
+    {
+      "id": "SHD99D",
+      "ballotItemId": "01000000-f33c-bc21-8257-08dead359b12",
+      "name": "State House of Representatives - District 99/ Para la Cámara de Representantes del Estado Distrito 99 - Dem",
+      "ballotOrder": 311,
+      "apiName": "State House of Representatives - District 99/ Para la Cámara de Representantes del Estado Distrito 99 - Dem"
+    },
+    {
+      "id": "SHD100R",
+      "ballotItemId": "01000000-f33c-bc21-3183-08dead346e06",
+      "name": "State House of Representatives - District 100 - Rep",
+      "ballotOrder": 312,
+      "apiName": "State House of Representatives - District 100 - Rep"
+    },
+    {
+      "id": "SHD100D",
+      "ballotItemId": "01000000-f33c-bc21-9668-08dead346e1b",
+      "name": "State House of Representatives - District 100 - Dem",
+      "ballotOrder": 313,
+      "apiName": "State House of Representatives - District 100 - Dem"
+    },
+    {
+      "id": "SHD101R",
+      "ballotItemId": "01000000-f33c-bc21-14f6-08dead344f61",
+      "name": "State House of Representatives - District 101 - Rep",
+      "ballotOrder": 314,
+      "apiName": "State House of Representatives - District 101 - Rep"
+    },
+    {
+      "id": "SHD101D",
+      "ballotItemId": "01000000-f33c-bc21-e333-08dead344f71",
+      "name": "State House of Representatives - District 101 - Dem",
+      "ballotOrder": 315,
+      "apiName": "State House of Representatives - District 101 - Dem"
+    },
+    {
+      "id": "SHD102D",
+      "ballotItemId": "01000000-f33c-bc21-c063-08dead359d19",
+      "name": "State House of Representatives - District 102/ Para la Cámara de Representantes del Estado Distrito 102 - Dem",
+      "ballotOrder": 316,
+      "apiName": "State House of Representatives - District 102/ Para la Cámara de Representantes del Estado Distrito 102 - Dem"
+    },
+    {
+      "id": "SHD103R",
+      "ballotItemId": "01000000-f33c-bc21-00aa-08dead34b32e",
+      "name": "State House of Representatives - District 103 - Rep",
+      "ballotOrder": 317,
+      "apiName": "State House of Representatives - District 103 - Rep"
+    },
+    {
+      "id": "SHD103D",
+      "ballotItemId": "01000000-f33c-bc21-1020-08dead34b345",
+      "name": "State House of Representatives - District 103 - Dem",
+      "ballotOrder": 318,
+      "apiName": "State House of Representatives - District 103 - Dem"
+    },
+    {
+      "id": "SHD104R",
+      "ballotItemId": "01000000-f33c-bc21-800e-08dead3404e5",
+      "name": "State House of Representatives - District 104 - Rep",
+      "ballotOrder": 319,
+      "apiName": "State House of Representatives - District 104 - Rep"
+    },
+    {
+      "id": "SHD105R",
+      "ballotItemId": "01000000-f33c-bc21-0b76-08dead359a8f",
+      "name": "State House of Representatives - District 105/ Para la Cámara de Representantes del Estado Distrito 105 - Rep",
+      "ballotOrder": 320,
+      "apiName": "State House of Representatives - District 105/ Para la Cámara de Representantes del Estado Distrito 105 - Rep"
+    },
+    {
+      "id": "SHD105D",
+      "ballotItemId": "01000000-f33c-bc21-ea62-08dead359aba",
+      "name": "State House of Representatives - District 105/ Para la Cámara de Representantes del Estado Distrito 105 - Dem",
+      "ballotOrder": 321,
+      "apiName": "State House of Representatives - District 105/ Para la Cámara de Representantes del Estado Distrito 105 - Dem"
+    },
+    {
+      "id": "SHD106D",
+      "ballotItemId": "01000000-f33c-bc21-a014-08dead359da1",
+      "name": "State House of Representatives - District 106/ Para la Cámara de Representantes del Estado Distrito 106 - Dem",
+      "ballotOrder": 322,
+      "apiName": "State House of Representatives - District 106/ Para la Cámara de Representantes del Estado Distrito 106 - Dem"
+    },
+    {
+      "id": "SHD107R",
+      "ballotItemId": "01000000-f33c-bc21-cb0a-08dead359c6d",
+      "name": "State House of Representatives - District 107/ Para la Cámara de Representantes del Estado Distrito 107 - Rep",
+      "ballotOrder": 323,
+      "apiName": "State House of Representatives - District 107/ Para la Cámara de Representantes del Estado Distrito 107 - Rep"
+    },
+    {
+      "id": "SHD107D",
+      "ballotItemId": "01000000-f33c-bc21-9286-08dead359c98",
+      "name": "State House of Representatives - District 107/ Para la Cámara de Representantes del Estado Distrito 107 - Dem",
+      "ballotOrder": 324,
+      "apiName": "State House of Representatives - District 107/ Para la Cámara de Representantes del Estado Distrito 107 - Dem"
+    },
+    {
+      "id": "SHD108R",
+      "ballotItemId": "01000000-f33c-bc21-ec00-08dead359cc4",
+      "name": "State House of Representatives - District 108/ Para la Cámara de Representantes del Estado Distrito 108 - Rep",
+      "ballotOrder": 325,
+      "apiName": "State House of Representatives - District 108/ Para la Cámara de Representantes del Estado Distrito 108 - Rep"
+    },
+    {
+      "id": "SHD108D",
+      "ballotItemId": "01000000-f33c-bc21-8211-08dead359cef",
+      "name": "State House of Representatives - District 108/ Para la Cámara de Representantes del Estado Distrito 108 - Dem",
+      "ballotOrder": 326,
+      "apiName": "State House of Representatives - District 108/ Para la Cámara de Representantes del Estado Distrito 108 - Dem"
+    },
+    {
+      "id": "SHD109D",
+      "ballotItemId": "01000000-f33c-bc21-7322-08dead359d72",
+      "name": "State House of Representatives - District 109/ Para la Cámara de Representantes del Estado Distrito 109 - Dem",
+      "ballotOrder": 327,
+      "apiName": "State House of Representatives - District 109/ Para la Cámara de Representantes del Estado Distrito 109 - Dem"
+    },
+    {
+      "id": "SHD110R",
+      "ballotItemId": "01000000-f33c-bc21-3b6b-08dead359b90",
+      "name": "State House of Representatives - District 110/ Para la Cámara de Representantes del Estado Distrito 110 - Rep",
+      "ballotOrder": 328,
+      "apiName": "State House of Representatives - District 110/ Para la Cámara de Representantes del Estado Distrito 110 - Rep"
+    },
+    {
+      "id": "SHD110D",
+      "ballotItemId": "01000000-f33c-bc21-1514-08dead359bbb",
+      "name": "State House of Representatives - District 110/ Para la Cámara de Representantes del Estado Distrito 110 - Dem",
+      "ballotOrder": 329,
+      "apiName": "State House of Representatives - District 110/ Para la Cámara de Representantes del Estado Distrito 110 - Dem"
+    },
+    {
+      "id": "SHD111R",
+      "ballotItemId": "01000000-f33c-bc21-4760-08dead355e92",
+      "name": "State House of Representatives - District 111 - Rep",
+      "ballotOrder": 330,
+      "apiName": "State House of Representatives - District 111 - Rep"
+    },
+    {
+      "id": "SHD111D",
+      "ballotItemId": "01000000-f33c-bc21-931d-08dead355eb9",
+      "name": "State House of Representatives - District 111 - Dem",
+      "ballotOrder": 331,
+      "apiName": "State House of Representatives - District 111 - Dem"
+    },
+    {
+      "id": "SHD112R",
+      "ballotItemId": "01000000-f33c-bc21-fd85-08dead355e3f",
+      "name": "State House of Representatives - District 112 - Rep",
+      "ballotOrder": 332,
+      "apiName": "State House of Representatives - District 112 - Rep"
+    },
+    {
+      "id": "SHD112D",
+      "ballotItemId": "01000000-f33c-bc21-dae3-08dead355e69",
+      "name": "State House of Representatives - District 112 - Dem",
+      "ballotOrder": 333,
+      "apiName": "State House of Representatives - District 112 - Dem"
+    },
+    {
+      "id": "SHD113R",
+      "ballotItemId": "01000000-f33c-bc21-f8ac-08dead350067",
+      "name": "State House of Representatives - District 113 - Rep",
+      "ballotOrder": 334,
+      "apiName": "State House of Representatives - District 113 - Rep"
+    },
+    {
+      "id": "SHD113D",
+      "ballotItemId": "01000000-f33c-bc21-2264-08dead350087",
+      "name": "State House of Representatives - District 113 - Dem",
+      "ballotOrder": 335,
+      "apiName": "State House of Representatives - District 113 - Dem"
+    },
+    {
+      "id": "SHD114R",
+      "ballotItemId": "01000000-f33c-bc21-e8d3-08dead34f630",
+      "name": "State House of Representatives - District 114 - Rep",
+      "ballotOrder": 336,
+      "apiName": "State House of Representatives - District 114 - Rep"
+    },
+    {
+      "id": "SHD114D",
+      "ballotItemId": "01000000-f33c-bc21-4730-08dead34f650",
+      "name": "State House of Representatives - District 114 - Dem",
+      "ballotOrder": 337,
+      "apiName": "State House of Representatives - District 114 - Dem"
+    },
+    {
+      "id": "SHD115R",
+      "ballotItemId": "01000000-f33c-bc21-b42b-08dead344fe2",
+      "name": "State House of Representatives - District 115 - Rep",
+      "ballotOrder": 338,
+      "apiName": "State House of Representatives - District 115 - Rep"
+    },
+    {
+      "id": "SHD115D",
+      "ballotItemId": "01000000-f33c-bc21-3cb0-08dead344ff9",
+      "name": "State House of Representatives - District 115 - Dem",
+      "ballotOrder": 339,
+      "apiName": "State House of Representatives - District 115 - Dem"
+    },
+    {
+      "id": "SHD116R",
+      "ballotItemId": "01000000-f33c-bc21-e052-08dead345014",
+      "name": "State House of Representatives - District 116 - Rep",
+      "ballotOrder": 340,
+      "apiName": "State House of Representatives - District 116 - Rep"
+    },
+    {
+      "id": "SHD116D",
+      "ballotItemId": "01000000-f33c-bc21-25be-08dead345028",
+      "name": "State House of Representatives - District 116 - Dem",
+      "ballotOrder": 341,
+      "apiName": "State House of Representatives - District 116 - Dem"
+    },
+    {
+      "id": "SHD117D",
+      "ballotItemId": "01000000-f33c-bc21-800c-08dead34c4c2",
+      "name": "State House of Representatives - District 117 - Dem",
+      "ballotOrder": 342,
+      "apiName": "State House of Representatives - District 117 - Dem"
+    },
+    {
+      "id": "SHD118R",
+      "ballotItemId": "01000000-f33c-bc21-bdaa-08dead340a6d",
+      "name": "State House of Representatives - District 118 - Rep",
+      "ballotOrder": 343,
+      "apiName": "State House of Representatives - District 118 - Rep"
+    },
+    {
+      "id": "SHD118D",
+      "ballotItemId": "01000000-f33c-bc21-24ab-08dead340a75",
+      "name": "State House of Representatives - District 118 - Dem",
+      "ballotOrder": 344,
+      "apiName": "State House of Representatives - District 118 - Dem"
+    },
+    {
+      "id": "SHD119R",
+      "ballotItemId": "01000000-f33c-bc21-3e29-08dead3404e8",
+      "name": "State House of Representatives - District 119 - Rep",
+      "ballotOrder": 345,
+      "apiName": "State House of Representatives - District 119 - Rep"
+    },
+    {
+      "id": "SHD119D",
+      "ballotItemId": "01000000-f33c-bc21-39a8-08dead3404eb",
+      "name": "State House of Representatives - District 119 - Dem",
+      "ballotOrder": 346,
+      "apiName": "State House of Representatives - District 119 - Dem"
+    },
+    {
+      "id": "SHD120R",
+      "ballotItemId": "01000000-f33c-bc21-e4b9-08dead3404fa",
+      "name": "State House of Representatives - District 120 - Rep",
+      "ballotOrder": 347,
+      "apiName": "State House of Representatives - District 120 - Rep"
+    },
+    {
+      "id": "SHD120D",
+      "ballotItemId": "01000000-f33c-bc21-5b93-08dead3404fe",
+      "name": "State House of Representatives - District 120 - Dem",
+      "ballotOrder": 348,
+      "apiName": "State House of Representatives - District 120 - Dem"
+    },
+    {
+      "id": "SHD121R",
+      "ballotItemId": "01000000-f33c-bc21-d129-08dead3419b9",
+      "name": "State House of Representatives - District 121 - Rep",
+      "ballotOrder": 349,
+      "apiName": "State House of Representatives - District 121 - Rep"
+    },
+    {
+      "id": "SHD121D",
+      "ballotItemId": "01000000-f33c-bc21-e1f9-08dead341a22",
+      "name": "State House of Representatives - District 121 - Dem",
+      "ballotOrder": 350,
+      "apiName": "State House of Representatives - District 121 - Dem"
+    },
+    {
+      "id": "SHD122R",
+      "ballotItemId": "01000000-f33c-bc21-f03d-08dead3417d0",
+      "name": "State House of Representatives - District 122 - Rep",
+      "ballotOrder": 351,
+      "apiName": "State House of Representatives - District 122 - Rep"
+    },
+    {
+      "id": "SHD122D",
+      "ballotItemId": "01000000-f33c-bc21-5c9f-08dead3417d9",
+      "name": "State House of Representatives - District 122 - Dem",
+      "ballotOrder": 352,
+      "apiName": "State House of Representatives - District 122 - Dem"
+    },
+    {
+      "id": "SHD123R",
+      "ballotItemId": "01000000-f33c-bc21-d67a-08dead343425",
+      "name": "State House of Representatives - District 123 - Rep",
+      "ballotOrder": 353,
+      "apiName": "State House of Representatives - District 123 - Rep"
+    },
+    {
+      "id": "SHD123D",
+      "ballotItemId": "01000000-f33c-bc21-11d0-08dead34343e",
+      "name": "State House of Representatives - District 123 - Dem",
+      "ballotOrder": 354,
+      "apiName": "State House of Representatives - District 123 - Dem"
+    },
+    {
+      "id": "SHD124R",
+      "ballotItemId": "01000000-f33c-bc21-3735-08dead3417e2",
+      "name": "State House of Representatives - District 124 - Rep",
+      "ballotOrder": 355,
+      "apiName": "State House of Representatives - District 124 - Rep"
+    },
+    {
+      "id": "SHD124D",
+      "ballotItemId": "01000000-f33c-bc21-46c1-08dead3417eb",
+      "name": "State House of Representatives - District 124 - Dem",
+      "ballotOrder": 356,
+      "apiName": "State House of Representatives - District 124 - Dem"
+    },
+    {
+      "id": "SHD125R",
+      "ballotItemId": "01000000-f33c-bc21-bf28-08dead3433ad",
+      "name": "State House of Representatives - District 125 - Rep",
+      "ballotOrder": 357,
+      "apiName": "State House of Representatives - District 125 - Rep"
+    },
+    {
+      "id": "SHD125D",
+      "ballotItemId": "01000000-f33c-bc21-978c-08dead3433bb",
+      "name": "State House of Representatives - District 125 - Dem",
+      "ballotOrder": 358,
+      "apiName": "State House of Representatives - District 125 - Dem"
+    },
+    {
+      "id": "SHD126R",
+      "ballotItemId": "01000000-f33c-bc21-b81f-08dead340a03",
+      "name": "State House of Representatives - District 126 - Rep",
+      "ballotOrder": 359,
+      "apiName": "State House of Representatives - District 126 - Rep"
+    },
+    {
+      "id": "SHD126D",
+      "ballotItemId": "01000000-f33c-bc21-f6d6-08dead340a08",
+      "name": "State House of Representatives - District 126 - Dem",
+      "ballotOrder": 360,
+      "apiName": "State House of Representatives - District 126 - Dem"
+    },
+    {
+      "id": "SHD127R",
+      "ballotItemId": "01000000-f33c-bc21-fd26-08dead343456",
+      "name": "State House of Representatives - District 127 - Rep",
+      "ballotOrder": 361,
+      "apiName": "State House of Representatives - District 127 - Rep"
+    },
+    {
+      "id": "SHD127D",
+      "ballotItemId": "01000000-f33c-bc21-57c5-08dead343463",
+      "name": "State House of Representatives - District 127 - Dem",
+      "ballotOrder": 362,
+      "apiName": "State House of Representatives - District 127 - Dem"
+    },
+    {
+      "id": "SHD128R",
+      "ballotItemId": "01000000-f33c-bc21-a9cc-08dead34040f",
+      "name": "State House of Representatives - District 128 - Rep",
+      "ballotOrder": 363,
+      "apiName": "State House of Representatives - District 128 - Rep"
+    },
+    {
+      "id": "SHD128D",
+      "ballotItemId": "01000000-f33c-bc21-e344-08dead340411",
+      "name": "State House of Representatives - District 128 - Dem",
+      "ballotOrder": 364,
+      "apiName": "State House of Representatives - District 128 - Dem"
+    },
+    {
+      "id": "SHD129D",
+      "ballotItemId": "01000000-f33c-bc21-64c4-08dead3522a2",
+      "name": "State House of Representatives - District 129 - Dem",
+      "ballotOrder": 365,
+      "apiName": "State House of Representatives - District 129 - Dem"
+    },
+    {
+      "id": "SHD130R",
+      "ballotItemId": "01000000-f33c-bc21-697b-08dead3522c7",
+      "name": "State House of Representatives - District 130 - Rep",
+      "ballotOrder": 366,
+      "apiName": "State House of Representatives - District 130 - Rep"
+    },
+    {
+      "id": "SHD130D",
+      "ballotItemId": "01000000-f33c-bc21-8293-08dead352330",
+      "name": "State House of Representatives - District 130 - Dem",
+      "ballotOrder": 367,
+      "apiName": "State House of Representatives - District 130 - Dem"
+    },
+    {
+      "id": "SHD131R",
+      "ballotItemId": "01000000-f33c-bc21-6e12-08dead34340b",
+      "name": "State House of Representatives - District 131 - Rep",
+      "ballotOrder": 368,
+      "apiName": "State House of Representatives - District 131 - Rep"
+    },
+    {
+      "id": "SHD131D",
+      "ballotItemId": "01000000-f33c-bc21-a74c-08dead343419",
+      "name": "State House of Representatives - District 131 - Dem",
+      "ballotOrder": 369,
+      "apiName": "State House of Representatives - District 131 - Dem"
+    },
+    {
+      "id": "SHD132D",
+      "ballotItemId": "01000000-f33c-bc21-eb7b-08dead34ce28",
+      "name": "State House of Representatives - District 132 - Dem",
+      "ballotOrder": 370,
+      "apiName": "State House of Representatives - District 132 - Dem"
+    },
+    {
+      "id": "SHD133R",
+      "ballotItemId": "01000000-f33c-bc21-5d1e-08dead3407ab",
+      "name": "State House of Representatives - District 133 - Rep",
+      "ballotOrder": 371,
+      "apiName": "State House of Representatives - District 133 - Rep"
+    },
+    {
+      "id": "SHD134R",
+      "ballotItemId": "01000000-f33c-bc21-86a2-08dead343922",
+      "name": "State House of Representatives - District 134 - Rep",
+      "ballotOrder": 372,
+      "apiName": "State House of Representatives - District 134 - Rep"
+    },
+    {
+      "id": "SHD135R",
+      "ballotItemId": "01000000-f33c-bc21-d3d8-08dead34d370",
+      "name": "State House of Representatives - District 135 - Rep",
+      "ballotOrder": 373,
+      "apiName": "State House of Representatives - District 135 - Rep"
+    },
+    {
+      "id": "SHD136R",
+      "ballotItemId": "01000000-f33c-bc21-939d-08dead343812",
+      "name": "State House of Representatives - District 136 - Rep",
+      "ballotOrder": 374,
+      "apiName": "State House of Representatives - District 136 - Rep"
+    },
+    {
+      "id": "SHD137D",
+      "ballotItemId": "01000000-f33c-bc21-132a-08dead34ef15",
+      "name": "State House of Representatives - District 137 - Dem",
+      "ballotOrder": 375,
+      "apiName": "State House of Representatives - District 137 - Dem"
+    },
+    {
+      "id": "SHD138R",
+      "ballotItemId": "01000000-f33c-bc21-9b03-08dead34bdbd",
+      "name": "State House of Representatives - District 138 - Rep",
+      "ballotOrder": 376,
+      "apiName": "State House of Representatives - District 138 - Rep"
+    },
+    {
+      "id": "SHD138D",
+      "ballotItemId": "01000000-f33c-bc21-2061-08dead34bdd4",
+      "name": "State House of Representatives - District 138 - Dem",
+      "ballotOrder": 377,
+      "apiName": "State House of Representatives - District 138 - Dem"
+    },
+    {
+      "id": "SHD139R",
+      "ballotItemId": "01000000-f33c-bc21-3403-08dead34bd88",
+      "name": "State House of Representatives - District 139 - Rep",
+      "ballotOrder": 378,
+      "apiName": "State House of Representatives - District 139 - Rep"
+    },
+    {
+      "id": "SHD139D",
+      "ballotItemId": "01000000-f33c-bc21-1813-08dead34bda6",
+      "name": "State House of Representatives - District 139 - Dem",
+      "ballotOrder": 379,
+      "apiName": "State House of Representatives - District 139 - Dem"
+    },
+    {
+      "id": "SHD140R",
+      "ballotItemId": "01000000-f33c-bc21-1048-08dead34fc51",
+      "name": "State House of Representatives - District 140 - Rep",
+      "ballotOrder": 380,
+      "apiName": "State House of Representatives - District 140 - Rep"
+    },
+    {
+      "id": "SHD140D",
+      "ballotItemId": "01000000-f33c-bc21-b777-08dead34fc72",
+      "name": "State House of Representatives - District 140 - Dem",
+      "ballotOrder": 381,
+      "apiName": "State House of Representatives - District 140 - Dem"
+    },
+    {
+      "id": "SHD141R",
+      "ballotItemId": "01000000-f33c-bc21-d6cf-08dead34fc94",
+      "name": "State House of Representatives - District 141 - Rep",
+      "ballotOrder": 382,
+      "apiName": "State House of Representatives - District 141 - Rep"
+    },
+    {
+      "id": "SHD141D",
+      "ballotItemId": "01000000-f33c-bc21-463e-08dead34fcb5",
+      "name": "State House of Representatives - District 141 - Dem",
+      "ballotOrder": 383,
+      "apiName": "State House of Representatives - District 141 - Dem"
+    },
+    {
+      "id": "SHD142R",
+      "ballotItemId": "01000000-f33c-bc21-d27e-08dead34074a",
+      "name": "State House of Representatives - District 142 - Rep",
+      "ballotOrder": 384,
+      "apiName": "State House of Representatives - District 142 - Rep"
+    },
+    {
+      "id": "SHD142D",
+      "ballotItemId": "01000000-f33c-bc21-1f1d-08dead34074f",
+      "name": "State House of Representatives - District 142 - Dem",
+      "ballotOrder": 385,
+      "apiName": "State House of Representatives - District 142 - Dem"
+    },
+    {
+      "id": "SHD143D",
+      "ballotItemId": "01000000-f33c-bc21-4c55-08dead340747",
+      "name": "State House of Representatives - District 143 - Dem",
+      "ballotOrder": 386,
+      "apiName": "State House of Representatives - District 143 - Dem"
+    },
+    {
+      "id": "SHD144R",
+      "ballotItemId": "01000000-f33c-bc21-d469-08dead34075e",
+      "name": "State House of Representatives - District 144 - Rep",
+      "ballotOrder": 387,
+      "apiName": "State House of Representatives - District 144 - Rep"
+    },
+    {
+      "id": "SHD145R",
+      "ballotItemId": "01000000-f33c-bc21-b968-08dead340752",
+      "name": "State House of Representatives - District 145 - Rep",
+      "ballotOrder": 388,
+      "apiName": "State House of Representatives - District 145 - Rep"
+    },
+    {
+      "id": "SHD145D",
+      "ballotItemId": "01000000-f33c-bc21-2fda-08dead340756",
+      "name": "State House of Representatives - District 145 - Dem",
+      "ballotOrder": 389,
+      "apiName": "State House of Representatives - District 145 - Dem"
+    },
+    {
+      "id": "SHD146R",
+      "ballotItemId": "01000000-f33c-bc21-1e7b-08dead34c841",
+      "name": "State House of Representatives - District 146 - Rep",
+      "ballotOrder": 390,
+      "apiName": "State House of Representatives - District 146 - Rep"
+    },
+    {
+      "id": "SHD147R",
+      "ballotItemId": "01000000-f33c-bc21-7995-08dead34c7f6",
+      "name": "State House of Representatives - District 147 - Rep",
+      "ballotOrder": 391,
+      "apiName": "State House of Representatives - District 147 - Rep"
+    },
+    {
+      "id": "SHD147D",
+      "ballotItemId": "01000000-f33c-bc21-1b38-08dead34c80f",
+      "name": "State House of Representatives - District 147 - Dem",
+      "ballotOrder": 392,
+      "apiName": "State House of Representatives - District 147 - Dem"
+    },
+    {
+      "id": "SHD148R",
+      "ballotItemId": "01000000-f33c-bc21-7c5c-08dead340628",
+      "name": "State House of Representatives - District 148 - Rep",
+      "ballotOrder": 393,
+      "apiName": "State House of Representatives - District 148 - Rep"
+    },
+    {
+      "id": "SHD148D",
+      "ballotItemId": "01000000-f33c-bc21-5b7f-08dead34062c",
+      "name": "State House of Representatives - District 148 - Dem",
+      "ballotOrder": 394,
+      "apiName": "State House of Representatives - District 148 - Dem"
+    },
+    {
+      "id": "SHD149R",
+      "ballotItemId": "01000000-f33c-bc21-4f5c-08dead34040a",
+      "name": "State House of Representatives - District 149 - Rep",
+      "ballotOrder": 395,
+      "apiName": "State House of Representatives - District 149 - Rep"
+    },
+    {
+      "id": "SHD149D",
+      "ballotItemId": "01000000-f33c-bc21-a0f8-08dead34040c",
+      "name": "State House of Representatives - District 149 - Dem",
+      "ballotOrder": 396,
+      "apiName": "State House of Representatives - District 149 - Dem"
+    },
+    {
+      "id": "SHD150R",
+      "ballotItemId": "01000000-f33c-bc21-95b9-08dead3455a7",
+      "name": "State House of Representatives - District 150 - Rep",
+      "ballotOrder": 397,
+      "apiName": "State House of Representatives - District 150 - Rep"
+    },
+    {
+      "id": "SHD150D",
+      "ballotItemId": "01000000-f33c-bc21-d935-08dead3455b8",
+      "name": "State House of Representatives - District 150 - Dem",
+      "ballotOrder": 398,
+      "apiName": "State House of Representatives - District 150 - Dem"
+    },
+    {
+      "id": "SHD151R",
+      "ballotItemId": "01000000-f33c-bc21-39bc-08dead3413a6",
+      "name": "State House of Representatives - District 151 - Rep",
+      "ballotOrder": 399,
+      "apiName": "State House of Representatives - District 151 - Rep"
+    },
+    {
+      "id": "SHD151D",
+      "ballotItemId": "01000000-f33c-bc21-de65-08dead3413af",
+      "name": "State House of Representatives - District 151 - Dem",
+      "ballotOrder": 400,
+      "apiName": "State House of Representatives - District 151 - Dem"
+    },
+    {
+      "id": "SHD152R",
+      "ballotItemId": "01000000-f33c-bc21-42e7-08dead3457f5",
+      "name": "State House of Representatives - District 152 - Rep",
+      "ballotOrder": 401,
+      "apiName": "State House of Representatives - District 152 - Rep"
+    },
+    {
+      "id": "SHD152D",
+      "ballotItemId": "01000000-f33c-bc21-833b-08dead345807",
+      "name": "State House of Representatives - District 152 - Dem",
+      "ballotOrder": 402,
+      "apiName": "State House of Representatives - District 152 - Dem"
+    },
+    {
+      "id": "SHD153D",
+      "ballotItemId": "01000000-f33c-bc21-7372-08dead3457d2",
+      "name": "State House of Representatives - District 153 - Dem",
+      "ballotOrder": 403,
+      "apiName": "State House of Representatives - District 153 - Dem"
+    },
+    {
+      "id": "SHD154R",
+      "ballotItemId": "01000000-f33c-bc21-dbd8-08dead3403b3",
+      "name": "State House of Representatives - District 154 - Rep",
+      "ballotOrder": 404,
+      "apiName": "State House of Representatives - District 154 - Rep"
+    },
+    {
+      "id": "SHD154D",
+      "ballotItemId": "01000000-f33c-bc21-1ec8-08dead3403b6",
+      "name": "State House of Representatives - District 154 - Dem",
+      "ballotOrder": 405,
+      "apiName": "State House of Representatives - District 154 - Dem"
+    },
+    {
+      "id": "SHD155R",
+      "ballotItemId": "01000000-f33c-bc21-98cb-08dead34d05d",
+      "name": "State House of Representatives - District 155 - Rep",
+      "ballotOrder": 406,
+      "apiName": "State House of Representatives - District 155 - Rep"
+    },
+    {
+      "id": "SHD155D",
+      "ballotItemId": "01000000-f33c-bc21-8e6b-08dead34d07f",
+      "name": "State House of Representatives - District 155 - Dem",
+      "ballotOrder": 407,
+      "apiName": "State House of Representatives - District 155 - Dem"
+    },
+    {
+      "id": "SHD156R",
+      "ballotItemId": "01000000-f33c-bc21-2cab-08dead340630",
+      "name": "State House of Representatives - District 156 - Rep",
+      "ballotOrder": 408,
+      "apiName": "State House of Representatives - District 156 - Rep"
+    },
+    {
+      "id": "SHD157R",
+      "ballotItemId": "01000000-f33c-bc21-70a5-08dead3402d2",
+      "name": "State House of Representatives - District 157 - Rep",
+      "ballotOrder": 409,
+      "apiName": "State House of Representatives - District 157 - Rep"
+    },
+    {
+      "id": "SHD157D",
+      "ballotItemId": "01000000-f33c-bc21-1f58-08dead3402d4",
+      "name": "State House of Representatives - District 157 - Dem",
+      "ballotOrder": 410,
+      "apiName": "State House of Representatives - District 157 - Dem"
+    },
+    {
+      "id": "SHD158R",
+      "ballotItemId": "01000000-f33c-bc21-0727-08dead34096b",
+      "name": "State House of Representatives - District 158 - Rep",
+      "ballotOrder": 411,
+      "apiName": "State House of Representatives - District 158 - Rep"
+    },
+    {
+      "id": "SHD159R",
+      "ballotItemId": "01000000-f33c-bc21-f125-08dead340964",
+      "name": "State House of Representatives - District 159 - Rep",
+      "ballotOrder": 412,
+      "apiName": "State House of Representatives - District 159 - Rep"
+    },
+    {
+      "id": "SHD160R",
+      "ballotItemId": "01000000-f33c-bc21-1e54-08dead3408cf",
+      "name": "State House of Representatives - District 160 - Rep",
+      "ballotOrder": 413,
+      "apiName": "State House of Representatives - District 160 - Rep"
+    },
+    {
+      "id": "SHD161R",
+      "ballotItemId": "01000000-f33c-bc21-3183-08dead3412c0",
+      "name": "State House of Representatives - District 161 - Rep",
+      "ballotOrder": 414,
+      "apiName": "State House of Representatives - District 161 - Rep"
+    },
+    {
+      "id": "SHD161D",
+      "ballotItemId": "01000000-f33c-bc21-7856-08dead3412c9",
+      "name": "State House of Representatives - District 161 - Dem",
+      "ballotOrder": 415,
+      "apiName": "State House of Representatives - District 161 - Dem"
+    },
+    {
+      "id": "SHD162D",
+      "ballotItemId": "01000000-f33c-bc21-a6a7-08dead3412b4",
+      "name": "State House of Representatives - District 162 - Dem",
+      "ballotOrder": 416,
+      "apiName": "State House of Representatives - District 162 - Dem"
+    },
+    {
+      "id": "SHD163D",
+      "ballotItemId": "01000000-f33c-bc21-a84f-08dead34128e",
+      "name": "State House of Representatives - District 163 - Dem",
+      "ballotOrder": 417,
+      "apiName": "State House of Representatives - District 163 - Dem"
+    },
+    {
+      "id": "SHD164R",
+      "ballotItemId": "01000000-f33c-bc21-cfe0-08dead3408af",
+      "name": "State House of Representatives - District 164 - Rep",
+      "ballotOrder": 418,
+      "apiName": "State House of Representatives - District 164 - Rep"
+    },
+    {
+      "id": "SHD164D",
+      "ballotItemId": "01000000-f33c-bc21-2a13-08dead3408b4",
+      "name": "State House of Representatives - District 164 - Dem",
+      "ballotOrder": 419,
+      "apiName": "State House of Representatives - District 164 - Dem"
+    },
+    {
+      "id": "SHD165D",
+      "ballotItemId": "01000000-f33c-bc21-fd47-08dead3412ab",
+      "name": "State House of Representatives - District 165 - Dem",
+      "ballotOrder": 420,
+      "apiName": "State House of Representatives - District 165 - Dem"
+    },
+    {
+      "id": "SHD166R",
+      "ballotItemId": "01000000-f33c-bc21-5212-08dead3408b8",
+      "name": "State House of Representatives - District 166 - Rep",
+      "ballotOrder": 421,
+      "apiName": "State House of Representatives - District 166 - Rep"
+    },
+    {
+      "id": "SHD166D",
+      "ballotItemId": "01000000-f33c-bc21-9e4a-08dead3408bc",
+      "name": "State House of Representatives - District 166 - Dem",
+      "ballotOrder": 422,
+      "apiName": "State House of Representatives - District 166 - Dem"
+    },
+    {
+      "id": "SHD167R",
+      "ballotItemId": "01000000-f33c-bc21-6e84-08dead34a96b",
+      "name": "State House of Representatives - District 167 - Rep",
+      "ballotOrder": 423,
+      "apiName": "State House of Representatives - District 167 - Rep"
+    },
+    {
+      "id": "SHD167D",
+      "ballotItemId": "01000000-f33c-bc21-eb11-08dead34a987",
+      "name": "State House of Representatives - District 167 - Dem",
+      "ballotOrder": 424,
+      "apiName": "State House of Representatives - District 167 - Dem"
+    },
+    {
+      "id": "SHD168R",
+      "ballotItemId": "01000000-f33c-bc21-1960-08dead34da39",
+      "name": "State House of Representatives - District 168 - Rep",
+      "ballotOrder": 425,
+      "apiName": "State House of Representatives - District 168 - Rep"
+    },
+    {
+      "id": "SHD168D",
+      "ballotItemId": "01000000-f33c-bc21-52fd-08dead34da56",
+      "name": "State House of Representatives - District 168 - Dem",
+      "ballotOrder": 426,
+      "apiName": "State House of Representatives - District 168 - Dem"
+    },
+    {
+      "id": "SHD169R",
+      "ballotItemId": "01000000-f33c-bc21-6f6c-08dead342fdc",
+      "name": "State House of Representatives - District 169 - Rep",
+      "ballotOrder": 427,
+      "apiName": "State House of Representatives - District 169 - Rep"
+    },
+    {
+      "id": "SHD170R",
+      "ballotItemId": "01000000-f33c-bc21-f0bc-08dead340679",
+      "name": "State House of Representatives - District 170 - Rep",
+      "ballotOrder": 428,
+      "apiName": "State House of Representatives - District 170 - Rep"
+    },
+    {
+      "id": "SHD171R",
+      "ballotItemId": "01000000-f33c-bc21-89df-08dead343cab",
+      "name": "State House of Representatives - District 171 - Rep",
+      "ballotOrder": 429,
+      "apiName": "State House of Representatives - District 171 - Rep"
+    },
+    {
+      "id": "SHD172R",
+      "ballotItemId": "01000000-f33c-bc21-c51b-08dead34310e",
+      "name": "State House of Representatives - District 172 - Rep",
+      "ballotOrder": 430,
+      "apiName": "State House of Representatives - District 172 - Rep"
+    },
+    {
+      "id": "SHD173R",
+      "ballotItemId": "01000000-f33c-bc21-7a5f-08dead34acc2",
+      "name": "State House of Representatives - District 173 - Rep",
+      "ballotOrder": 431,
+      "apiName": "State House of Representatives - District 173 - Rep"
+    },
+    {
+      "id": "SHD173D",
+      "ballotItemId": "01000000-f33c-bc21-cc0d-08dead34acd9",
+      "name": "State House of Representatives - District 173 - Dem",
+      "ballotOrder": 432,
+      "apiName": "State House of Representatives - District 173 - Dem"
+    },
+    {
+      "id": "SHD174R",
+      "ballotItemId": "01000000-f33c-bc21-0c2f-08dead3407e6",
+      "name": "State House of Representatives - District 174 - Rep",
+      "ballotOrder": 433,
+      "apiName": "State House of Representatives - District 174 - Rep"
+    },
+    {
+      "id": "SHD174D",
+      "ballotItemId": "01000000-f33c-bc21-e25f-08dead3407e9",
+      "name": "State House of Representatives - District 174 - Dem",
+      "ballotOrder": 434,
+      "apiName": "State House of Representatives - District 174 - Dem"
+    },
+    {
+      "id": "SHD175R",
+      "ballotItemId": "01000000-f33c-bc21-f3d4-08dead340838",
+      "name": "State House of Representatives - District 175 - Rep",
+      "ballotOrder": 435,
+      "apiName": "State House of Representatives - District 175 - Rep"
+    },
+    {
+      "id": "SHD175D",
+      "ballotItemId": "01000000-f33c-bc21-af9a-08dead34083c",
+      "name": "State House of Representatives - District 175 - Dem",
+      "ballotOrder": 436,
+      "apiName": "State House of Representatives - District 175 - Dem"
+    },
+    {
+      "id": "SHD176R",
+      "ballotItemId": "01000000-f33c-bc21-07ef-08dead34033c",
+      "name": "State House of Representatives - District 176 - Rep",
+      "ballotOrder": 437,
+      "apiName": "State House of Representatives - District 176 - Rep"
+    },
+    {
+      "id": "SHD176D",
+      "ballotItemId": "01000000-f33c-bc21-6798-08dead34033e",
+      "name": "State House of Representatives - District 176 - Dem",
+      "ballotOrder": 438,
+      "apiName": "State House of Representatives - District 176 - Dem"
+    },
+    {
+      "id": "SHD177D",
+      "ballotItemId": "01000000-f33c-bc21-efa4-08dead34dfb0",
+      "name": "State House of Representatives - District 177 - Dem",
+      "ballotOrder": 439,
+      "apiName": "State House of Representatives - District 177 - Dem"
+    },
+    {
+      "id": "SHD178R",
+      "ballotItemId": "01000000-f33c-bc21-1f79-08dead3402f6",
+      "name": "State House of Representatives - District 178 - Rep",
+      "ballotOrder": 440,
+      "apiName": "State House of Representatives - District 178 - Rep"
+    },
+    {
+      "id": "SHD178D",
+      "ballotItemId": "01000000-f33c-bc21-8198-08dead3402f7",
+      "name": "State House of Representatives - District 178 - Dem",
+      "ballotOrder": 441,
+      "apiName": "State House of Representatives - District 178 - Dem"
+    },
+    {
+      "id": "SHD179R",
+      "ballotItemId": "01000000-f33c-bc21-954c-08dead34a953",
+      "name": "State House of Representatives - District 179 - Rep",
+      "ballotOrder": 442,
+      "apiName": "State House of Representatives - District 179 - Rep"
+    },
+    {
+      "id": "SHD180R",
+      "ballotItemId": "01000000-f33c-bc21-7f86-08dead340b54",
+      "name": "State House of Representatives - District 180 - Rep",
+      "ballotOrder": 443,
+      "apiName": "State House of Representatives - District 180 - Rep"
+    },
+    {
+      "id": "SDA5R",
+      "ballotItemId": "01000000-f33c-bc21-1f9e-08dead3408c1",
+      "name": "District Attorney - Atlantic Judicial Circuit - Rep",
+      "ballotOrder": 444,
+      "apiName": "District Attorney - Atlantic Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA14R",
+      "ballotItemId": "01000000-f33c-bc21-8547-08dead3433d8",
+      "name": "District Attorney - Columbia Judicial Circuit - Rep",
+      "ballotOrder": 445,
+      "apiName": "District Attorney - Columbia Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA16R",
+      "ballotItemId": "01000000-f33c-bc21-21d9-08dead340635",
+      "name": "District Attorney - Cordele Judicial Circuit - Rep",
+      "ballotOrder": 446,
+      "apiName": "District Attorney - Cordele Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA23R",
+      "ballotItemId": "01000000-f33c-bc21-f6d2-08dead34e09c",
+      "name": "District Attorney - Enotah Judicial Circuit - Rep",
+      "ballotOrder": 447,
+      "apiName": "District Attorney - Enotah Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA32R",
+      "ballotItemId": "01000000-f33c-bc21-9a8b-08dead343b9c",
+      "name": "District Attorney - Northeastern Judicial Circuit - Rep",
+      "ballotOrder": 448,
+      "apiName": "District Attorney - Northeastern Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA37R",
+      "ballotItemId": "01000000-f33c-bc21-f1ab-08dead3420fa",
+      "name": "District Attorney - Pataula Judicial Circuit - Rep",
+      "ballotOrder": 449,
+      "apiName": "District Attorney - Pataula Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA50R",
+      "ballotItemId": "01000000-f33c-bc21-eea5-08dead3506c1",
+      "name": "District Attorney - Paulding Judicial Circuit - Rep",
+      "ballotOrder": 450,
+      "apiName": "District Attorney - Paulding Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA39D",
+      "ballotItemId": "01000000-f33c-bc21-7919-08dead352926",
+      "name": "District Attorney - Rockdale Judicial Circuit - Dem",
+      "ballotOrder": 451,
+      "apiName": "District Attorney - Rockdale Judicial Circuit - Dem"
+    },
+    {
+      "id": "SDA49R",
+      "ballotItemId": "01000000-f33c-bc21-4a2e-08dead34036b",
+      "name": "District Attorney - Waycross Judicial Circuit - Rep",
+      "ballotOrder": 452,
+      "apiName": "District Attorney - Waycross Judicial Circuit - Rep"
+    },
+    {
+      "id": "SDA51R",
+      "ballotItemId": "01000000-f33c-bc21-8839-08dead340cb4",
+      "name": "District Attorney - West Georgia Judicial Circuit - Rep",
+      "ballotOrder": 453,
+      "apiName": "District Attorney - West Georgia Judicial Circuit - Rep"
+    },
+    {
+      "id": "SSC1",
+      "ballotItemId": "01000000-f33c-bc21-3ace-08dead3402e6",
+      "name": "Justice - Supreme Court of Georgia (Bethel)",
+      "ballotOrder": 454,
+      "apiName": "Justice - Supreme Court of Georgia (Bethel)"
+    },
+    {
+      "id": "SSC2",
+      "ballotItemId": "01000000-f33c-bc21-f128-08dead3402e7",
+      "name": "Justice - Supreme Court of Georgia (Land)",
+      "ballotOrder": 455,
+      "apiName": "Justice - Supreme Court of Georgia (Land)"
+    },
+    {
+      "id": "SSC3",
+      "ballotItemId": "01000000-f33c-bc21-75ad-08dead3402eb",
+      "name": "Justice - Supreme Court of Georgia (Warren)",
+      "ballotOrder": 456,
+      "apiName": "Justice - Supreme Court of Georgia (Warren)"
+    },
+    {
+      "id": "SCA1",
+      "ballotItemId": "01000000-f33c-bc21-e631-08dead3402ec",
+      "name": "Judge - Court of Appeals of Georgia (Brown, III)",
+      "ballotOrder": 457,
+      "apiName": "Judge - Court of Appeals of Georgia (Brown, III)"
+    },
+    {
+      "id": "SCA2",
+      "ballotItemId": "01000000-f33c-bc21-7610-08dead3402ee",
+      "name": "Judge - Court of Appeals of Georgia (Doyle)",
+      "ballotOrder": 458,
+      "apiName": "Judge - Court of Appeals of Georgia (Doyle)"
+    },
+    {
+      "id": "SCA3",
+      "ballotItemId": "01000000-f33c-bc21-e993-08dead3402ef",
+      "name": "Judge - Court of Appeals of Georgia (Gobeil)",
+      "ballotOrder": 459,
+      "apiName": "Judge - Court of Appeals of Georgia (Gobeil)"
+    },
+    {
+      "id": "SCA4",
+      "ballotItemId": "01000000-f33c-bc21-5f8d-08dead3402f1",
+      "name": "Judge - Court of Appeals of Georgia (Markle)",
+      "ballotOrder": 460,
+      "apiName": "Judge - Court of Appeals of Georgia (Markle)"
+    },
+    {
+      "id": "SCA5",
+      "ballotItemId": "01000000-f33c-bc21-0262-08dead3402f3",
+      "name": "Judge - Court of Appeals of Georgia (Padgett)",
+      "ballotOrder": 461,
+      "apiName": "Judge - Court of Appeals of Georgia (Padgett)"
+    },
+    {
+      "id": "SJC1",
+      "ballotItemId": "01000000-f33c-bc21-40ff-08dead340340",
+      "name": "Judge - Superior Court - Alapaha Judicial Circuit (Perryman, III)",
+      "ballotOrder": 462,
+      "apiName": "Judge - Superior Court - Alapaha Judicial Circuit (Perryman, III)"
+    },
+    {
+      "id": "SJC2",
+      "ballotItemId": "01000000-f33c-bc21-10ef-08dead3500a7",
+      "name": "Judge - Superior Court - Alcovy Judicial Circuit (McCamy)",
+      "ballotOrder": 463,
+      "apiName": "Judge - Superior Court - Alcovy Judicial Circuit (McCamy)"
+    },
+    {
+      "id": "SJC3",
+      "ballotItemId": "01000000-f33c-bc21-756b-08dead3500c7",
+      "name": "Judge - Superior Court - Alcovy Judicial Circuit (Zon)",
+      "ballotOrder": 464,
+      "apiName": "Judge - Superior Court - Alcovy Judicial Circuit (Zon)"
+    },
+    {
+      "id": "SJC4",
+      "ballotItemId": "01000000-f33c-bc21-5a9d-08dead34638d",
+      "name": "Judge - Superior Court - Appalachian Judicial Circuit (Priest)",
+      "ballotOrder": 465,
+      "apiName": "Judge - Superior Court - Appalachian Judicial Circuit (Priest)"
+    },
+    {
+      "id": "SJC5",
+      "ballotItemId": "01000000-f33c-bc21-619c-08dead34639e",
+      "name": "Judge - Superior Court - Appalachian Judicial Circuit (Sosebee)",
+      "ballotOrder": 466,
+      "apiName": "Judge - Superior Court - Appalachian Judicial Circuit (Sosebee)"
+    },
+    {
+      "id": "SCJ6",
+      "ballotItemId": "01000000-f33c-bc21-7683-08dead349c12",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (Benton)",
+      "ballotOrder": 467,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (Benton)"
+    },
+    {
+      "id": "SCJ7",
+      "ballotItemId": "01000000-f33c-bc21-c448-08dead349c2a",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (Eaton)",
+      "ballotOrder": 468,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (Eaton)"
+    },
+    {
+      "id": "SCJ8",
+      "ballotItemId": "01000000-f33c-bc21-31ce-08dead349c5b",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (Ellerbe)",
+      "ballotOrder": 469,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (Ellerbe)"
+    },
+    {
+      "id": "SCJ9",
+      "ballotItemId": "01000000-f33c-bc21-dfa4-08dead349ca1",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (Farmer)",
+      "ballotOrder": 470,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (Farmer)"
+    },
+    {
+      "id": "SCJ10",
+      "ballotItemId": "01000000-f33c-bc21-bf60-08dead349cba",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (McBurney)",
+      "ballotOrder": 471,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (McBurney)"
+    },
+    {
+      "id": "SCJ11",
+      "ballotItemId": "01000000-f33c-bc21-8e9a-08dead349ce9",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (Schwall)",
+      "ballotOrder": 472,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (Schwall)"
+    },
+    {
+      "id": "SCJ12",
+      "ballotItemId": "01000000-f33c-bc21-ffca-08dead349eae",
+      "name": "Judge - Superior Court - Atlanta Judicial Circuit (Whitaker)",
+      "ballotOrder": 473,
+      "apiName": "Judge - Superior Court - Atlanta Judicial Circuit (Whitaker)"
+    },
+    {
+      "id": "SJC13",
+      "ballotItemId": "01000000-f33c-bc21-7d01-08dead3408c5",
+      "name": "Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)",
+      "ballotOrder": 474,
+      "apiName": "Judge - Superior Court - Atlantic Judicial Circuit (Hendrix)"
+    },
+    {
+      "id": "SJC14",
+      "ballotItemId": "01000000-f33c-bc21-d3c6-08dead3408ca",
+      "name": "Judge - Superior Court - Atlantic Judicial Circuit (Stewart)",
+      "ballotOrder": 475,
+      "apiName": "Judge - Superior Court - Atlantic Judicial Circuit (Stewart)"
+    },
+    {
+      "id": "SJC15",
+      "ballotItemId": "01000000-f33c-bc21-7e90-08dead340a0f",
+      "name": "Judge - Superior Court - Augusta Judicial Circuit (Heath)",
+      "ballotOrder": 476,
+      "apiName": "Judge - Superior Court - Augusta Judicial Circuit (Heath)"
+    },
+    {
+      "id": "SJC16",
+      "ballotItemId": "01000000-f33c-bc21-0506-08dead340a16",
+      "name": "Judge - Superior Court - Augusta Judicial Circuit (Stone)",
+      "ballotOrder": 477,
+      "apiName": "Judge - Superior Court - Augusta Judicial Circuit (Stone)"
+    },
+    {
+      "id": "SJC17",
+      "ballotItemId": "01000000-f33c-bc21-800d-08dead340a1b",
+      "name": "Judge - Superior Court - Augusta Judicial Circuit (Wright)",
+      "ballotOrder": 478,
+      "apiName": "Judge - Superior Court - Augusta Judicial Circuit (Wright)"
+    },
+    {
+      "id": "SJC18",
+      "ballotItemId": "01000000-f33c-bc21-92f1-08dead346d58",
+      "name": "Judge - Superior Court - Bell-Forsyth Judicial Circuit (Bagley)",
+      "ballotOrder": 479,
+      "apiName": "Judge - Superior Court - Bell-Forsyth Judicial Circuit (Bagley)"
+    },
+    {
+      "id": "SJC19",
+      "ballotItemId": "01000000-f33c-bc21-4567-08dead346d72",
+      "name": "Judge - Superior Court - Bell-Forsyth Judicial Circuit (Smith)",
+      "ballotOrder": 480,
+      "apiName": "Judge - Superior Court - Bell-Forsyth Judicial Circuit (Smith)"
+    },
+    {
+      "id": "SJC20",
+      "ballotItemId": "01000000-f33c-bc21-192a-08dead3415e6",
+      "name": "Judge - Superior Court - Blue Ridge Judicial Circuit (Baker)",
+      "ballotOrder": 481,
+      "apiName": "Judge - Superior Court - Blue Ridge Judicial Circuit (Baker)"
+    },
+    {
+      "id": "SJC21",
+      "ballotItemId": "01000000-f33c-bc21-991a-08dead3402f4",
+      "name": "Judge - Superior Court - Brunswick Judicial Circuit (Lane)",
+      "ballotOrder": 482,
+      "apiName": "Judge - Superior Court - Brunswick Judicial Circuit (Lane)"
+    },
+    {
+      "id": "SJC22",
+      "ballotItemId": "01000000-f33c-bc21-d0b0-08dead3413b7",
+      "name": "Judge - Superior Court - Chattahoochee Judicial Circuit (Burch)",
+      "ballotOrder": 483,
+      "apiName": "Judge - Superior Court - Chattahoochee Judicial Circuit (Burch)"
+    },
+    {
+      "id": "SJC23",
+      "ballotItemId": "01000000-f33c-bc21-ae93-08dead34058f",
+      "name": "Judge - Superior Court - Cherokee Judicial Circuit (Greene)",
+      "ballotOrder": 484,
+      "apiName": "Judge - Superior Court - Cherokee Judicial Circuit (Greene)"
+    },
+    {
+      "id": "SJC24",
+      "ballotItemId": "01000000-f33c-bc21-b064-08dead340594",
+      "name": "Judge - Superior Court - Cherokee Judicial Circuit (Patel)",
+      "ballotOrder": 485,
+      "apiName": "Judge - Superior Court - Cherokee Judicial Circuit (Patel)"
+    },
+    {
+      "id": "SJC25",
+      "ballotItemId": "01000000-f33c-bc21-d537-08dead34059c",
+      "name": "Judge - Superior Court - Cherokee Judicial Circuit (Smith)",
+      "ballotOrder": 486,
+      "apiName": "Judge - Superior Court - Cherokee Judicial Circuit (Smith)"
+    },
+    {
+      "id": "SJC26",
+      "ballotItemId": "01000000-f33c-bc21-7a9a-08dead342493",
+      "name": "Judge - Superior Court - Clayton Judicial Circuit (Carter)",
+      "ballotOrder": 487,
+      "apiName": "Judge - Superior Court - Clayton Judicial Circuit (Carter)"
+    },
+    {
+      "id": "SJC27",
+      "ballotItemId": "01000000-f33c-bc21-4e20-08dead34249c",
+      "name": "Judge - Superior Court - Clayton Judicial Circuit (Mason)",
+      "ballotOrder": 488,
+      "apiName": "Judge - Superior Court - Clayton Judicial Circuit (Mason)"
+    },
+    {
+      "id": "SJC28",
+      "ballotItemId": "01000000-f33c-bc21-6a8b-08dead342cf5",
+      "name": "Judge - Superior Court - Cobb Judicial Circuit (Brown)",
+      "ballotOrder": 489,
+      "apiName": "Judge - Superior Court - Cobb Judicial Circuit (Brown)"
+    },
+    {
+      "id": "SJC29",
+      "ballotItemId": "01000000-f33c-bc21-dd9c-08dead342d02",
+      "name": "Judge - Superior Court - Cobb Judicial Circuit (Harris)",
+      "ballotOrder": 490,
+      "apiName": "Judge - Superior Court - Cobb Judicial Circuit (Harris)"
+    },
+    {
+      "id": "SJC30",
+      "ballotItemId": "01000000-f33c-bc21-196e-08dead342d0f",
+      "name": "Judge - Superior Court - Cobb Judicial Circuit (Leonard)",
+      "ballotOrder": 491,
+      "apiName": "Judge - Superior Court - Cobb Judicial Circuit (Leonard)"
+    },
+    {
+      "id": "SJC31",
+      "ballotItemId": "01000000-f33c-bc21-63a8-08dead3433e9",
+      "name": "Judge - Superior Court - Columbia Judicial Circuit (Blanchard)",
+      "ballotOrder": 492,
+      "apiName": "Judge - Superior Court - Columbia Judicial Circuit (Blanchard)"
+    },
+    {
+      "id": "SJC32",
+      "ballotItemId": "01000000-f33c-bc21-57c7-08dead3433fc",
+      "name": "Judge - Superior Court - Columbia Judicial Circuit (Fleming)",
+      "ballotOrder": 493,
+      "apiName": "Judge - Superior Court - Columbia Judicial Circuit (Fleming)"
+    },
+    {
+      "id": "SJC33",
+      "ballotItemId": "01000000-f33c-bc21-415e-08dead34f80c",
+      "name": "Judge - Superior Court - Conasauga Judicial Circuit (Morris)",
+      "ballotOrder": 494,
+      "apiName": "Judge - Superior Court - Conasauga Judicial Circuit (Morris)"
+    },
+    {
+      "id": "SJC34",
+      "ballotItemId": "01000000-f33c-bc21-eab2-08dead34f82c",
+      "name": "Judge - Superior Court - Conasauga Judicial Circuit (Wilbanks)",
+      "ballotOrder": 495,
+      "apiName": "Judge - Superior Court - Conasauga Judicial Circuit (Wilbanks)"
+    },
+    {
+      "id": "SJC35",
+      "ballotItemId": "01000000-f33c-bc21-035a-08dead34381f",
+      "name": "Judge - Superior Court - Coweta Judicial Circuit (Bendinger)",
+      "ballotOrder": 496,
+      "apiName": "Judge - Superior Court - Coweta Judicial Circuit (Bendinger)"
+    },
+    {
+      "id": "SJC129",
+      "ballotItemId": "01000000-f33c-bc21-d827-08dead344b23",
+      "name": "Judge - Superior Court - DeKalb Judicial Circuit (A. Jackson)",
+      "ballotOrder": 497,
+      "apiName": "Judge - Superior Court - DeKalb Judicial Circuit (A. Jackson)"
+    },
+    {
+      "id": "SJC130",
+      "ballotItemId": "01000000-f33c-bc21-2995-08dead344b3d",
+      "name": "Judge - Superior Court - DeKalb Judicial Circuit (L. Jackson)",
+      "ballotOrder": 498,
+      "apiName": "Judge - Superior Court - DeKalb Judicial Circuit (L. Jackson)"
+    },
+    {
+      "id": "SJC131",
+      "ballotItemId": "01000000-f33c-bc21-effd-08dead344b55",
+      "name": "Judge - Superior Court - DeKalb Judicial Circuit (Johnson)",
+      "ballotOrder": 499,
+      "apiName": "Judge - Superior Court - DeKalb Judicial Circuit (Johnson)"
+    },
+    {
+      "id": "SJC39",
+      "ballotItemId": "01000000-f33c-bc21-fde4-08dead3457e1",
+      "name": "Judge - Superior Court - Dougherty Judicial Circuit (Dent)",
+      "ballotOrder": 500,
+      "apiName": "Judge - Superior Court - Dougherty Judicial Circuit (Dent)"
+    },
+    {
+      "id": "SJC40",
+      "ballotItemId": "01000000-f33c-bc21-ccd6-08dead345a49",
+      "name": "Judge - Superior Court - Douglas Judicial Circuit (Adams)",
+      "ballotOrder": 501,
+      "apiName": "Judge - Superior Court - Douglas Judicial Circuit (Adams)"
+    },
+    {
+      "id": "SJC41",
+      "ballotItemId": "01000000-f33c-bc21-1dea-08dead341298",
+      "name": "Judge - Superior Court - Eastern Judicial Circuit (Karpf)",
+      "ballotOrder": 502,
+      "apiName": "Judge - Superior Court - Eastern Judicial Circuit (Karpf)"
+    },
+    {
+      "id": "SJC42",
+      "ballotItemId": "01000000-f33c-bc21-62fa-08dead3412a1",
+      "name": "Judge - Superior Court - Eastern Judicial Circuit (Stokes)",
+      "ballotOrder": 503,
+      "apiName": "Judge - Superior Court - Eastern Judicial Circuit (Stokes)"
+    },
+    {
+      "id": "SJC44",
+      "ballotItemId": "01000000-f33c-bc21-5c28-08dead34e0bb",
+      "name": "Judge - Superior Court - Enotah Judicial Circuit (George)",
+      "ballotOrder": 504,
+      "apiName": "Judge - Superior Court - Enotah Judicial Circuit (George)"
+    },
+    {
+      "id": "SJC43",
+      "ballotItemId": "01000000-efdf-ed71-ce0c-08deb5280be5",
+      "name": "Judge - Superior Court - Eastern Judicial Circuit (Walmsley)",
+      "ballotOrder": 504,
+      "apiName": "Judge - Superior Court - Eastern Judicial Circuit (Walmsley)"
+    },
+    {
+      "id": "SJC45",
+      "ballotItemId": "01000000-f33c-bc21-5380-08dead34e0d9",
+      "name": "Judge - Superior Court - Enotah Judicial Circuit (Levins)",
+      "ballotOrder": 505,
+      "apiName": "Judge - Superior Court - Enotah Judicial Circuit (Levins)"
+    },
+    {
+      "id": "SJC46",
+      "ballotItemId": "01000000-f33c-bc21-925c-08dead34c4dd",
+      "name": "Judge - Superior Court - Flint Judicial Circuit (Lewis)",
+      "ballotOrder": 506,
+      "apiName": "Judge - Superior Court - Flint Judicial Circuit (Lewis)"
+    },
+    {
+      "id": "SJC47",
+      "ballotItemId": "01000000-f33c-bc21-fa7f-08dead34c4f7",
+      "name": "Judge - Superior Court - Flint Judicial Circuit (Palmer)",
+      "ballotOrder": 507,
+      "apiName": "Judge - Superior Court - Flint Judicial Circuit (Palmer)"
+    },
+    {
+      "id": "SJC48",
+      "ballotItemId": "01000000-f33c-bc21-373c-08dead3466c8",
+      "name": "Judge - Superior Court - Griffin Judicial Circuit (Coker)",
+      "ballotOrder": 508,
+      "apiName": "Judge - Superior Court - Griffin Judicial Circuit (Coker)"
+    },
+    {
+      "id": "SJC49",
+      "ballotItemId": "01000000-f33c-bc21-9cae-08dead3466db",
+      "name": "Judge - Superior Court - Griffin Judicial Circuit (Kreuziger)",
+      "ballotOrder": 509,
+      "apiName": "Judge - Superior Court - Griffin Judicial Circuit (Kreuziger)"
+    },
+    {
+      "id": "SJC50",
+      "ballotItemId": "01000000-f33c-bc21-4537-08dead3466f0",
+      "name": "Judge - Superior Court - Griffin Judicial Circuit (Miller)",
+      "ballotOrder": 510,
+      "apiName": "Judge - Superior Court - Griffin Judicial Circuit (Miller)"
+    },
+    {
+      "id": "SJC51",
+      "ballotItemId": "01000000-f33c-bc21-f5ba-08dead359986",
+      "name": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Cason)",
+      "ballotOrder": 511,
+      "apiName": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Cason)"
+    },
+    {
+      "id": "SJC52",
+      "ballotItemId": "01000000-f33c-bc21-35a9-08dead3599b6",
+      "name": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Duncan)",
+      "ballotOrder": 512,
+      "apiName": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Duncan)"
+    },
+    {
+      "id": "SJC53",
+      "ballotItemId": "01000000-f33c-bc21-029c-08dead3599e2",
+      "name": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Hamil)",
+      "ballotOrder": 513,
+      "apiName": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Hamil)"
+    },
+    {
+      "id": "SJC54",
+      "ballotItemId": "01000000-f33c-bc21-c462-08dead359a0c",
+      "name": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Hutchinson)",
+      "ballotOrder": 514,
+      "apiName": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Hutchinson)"
+    },
+    {
+      "id": "SJC55",
+      "ballotItemId": "01000000-f33c-bc21-733e-08dead359a38",
+      "name": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Mason)",
+      "ballotOrder": 515,
+      "apiName": "Judge - Superior Court - Gwinnett Judicial Circuit/Para Juez, Tribunal Estatal del Condado de Gwinnett (Mason)"
+    },
+    {
+      "id": "SJC56",
+      "ballotItemId": "01000000-f33c-bc21-ee19-08dead34c827",
+      "name": "Judge - Superior Court - Houston Judicial Circuit (Smith)",
+      "ballotOrder": 516,
+      "apiName": "Judge - Superior Court - Houston Judicial Circuit (Smith)"
+    },
+    {
+      "id": "SJC57",
+      "ballotItemId": "01000000-f33c-bc21-3dad-08dead340deb",
+      "name": "Judge - Superior Court - Lookout Mountain Judicial Circuit (Thompson)",
+      "ballotOrder": 517,
+      "apiName": "Judge - Superior Court - Lookout Mountain Judicial Circuit (Thompson)"
+    },
+    {
+      "id": "SJC58",
+      "ballotItemId": "01000000-f33c-bc21-8b88-08dead340738",
+      "name": "Judge - Superior Court - Macon Judicial Circuit (Mincey)",
+      "ballotOrder": 518,
+      "apiName": "Judge - Superior Court - Macon Judicial Circuit (Mincey)"
+    },
+    {
+      "id": "SJC59",
+      "ballotItemId": "01000000-f33c-bc21-9937-08dead34073c",
+      "name": "Judge - Superior Court - Macon Judicial Circuit (Raymond)",
+      "ballotOrder": 519,
+      "apiName": "Judge - Superior Court - Macon Judicial Circuit (Raymond)"
+    },
+    {
+      "id": "SJC60",
+      "ballotItemId": "01000000-f33c-bc21-389d-08dead340740",
+      "name": "Judge - Superior Court - Macon Judicial Circuit (Smith)",
+      "ballotOrder": 520,
+      "apiName": "Judge - Superior Court - Macon Judicial Circuit (Smith)"
+    },
+    {
+      "id": "SJC61",
+      "ballotItemId": "01000000-f33c-bc21-7dc8-08dead340743",
+      "name": "Judge - Superior Court - Macon Judicial Circuit (Williford)",
+      "ballotOrder": 521,
+      "apiName": "Judge - Superior Court - Macon Judicial Circuit (Williford)"
+    },
+    {
+      "id": "SJC62",
+      "ballotItemId": "01000000-f33c-bc21-42ef-08dead346189",
+      "name": "Judge - Superior Court - Middle Judicial Circuit (Reeves)",
+      "ballotOrder": 522,
+      "apiName": "Judge - Superior Court - Middle Judicial Circuit (Reeves)"
+    },
+    {
+      "id": "SJC63",
+      "ballotItemId": "01000000-f33c-bc21-b050-08dead34619c",
+      "name": "Judge - Superior Court - Middle Judicial Circuit (Smith)",
+      "ballotOrder": 523,
+      "apiName": "Judge - Superior Court - Middle Judicial Circuit (Smith)"
+    },
+    {
+      "id": "SJC64",
+      "ballotItemId": "01000000-f33c-bc21-8b27-08dead340489",
+      "name": "Judge - Superior Court - Mountain Judicial Circuit (Carswell)",
+      "ballotOrder": 524,
+      "apiName": "Judge - Superior Court - Mountain Judicial Circuit (Carswell)"
+    },
+    {
+      "id": "SJC65",
+      "ballotItemId": "01000000-f33c-bc21-6c82-08dead34048c",
+      "name": "Judge - Superior Court - Mountain Judicial Circuit (Jones, III)",
+      "ballotOrder": 525,
+      "apiName": "Judge - Superior Court - Mountain Judicial Circuit (Jones, III)"
+    },
+    {
+      "id": "SJC66",
+      "ballotItemId": "01000000-f33c-bc21-3040-08dead343bab",
+      "name": "Judge - Superior Court - Northeastern Judicial Circuit (Burton)",
+      "ballotOrder": 526,
+      "apiName": "Judge - Superior Court - Northeastern Judicial Circuit (Burton)"
+    },
+    {
+      "id": "SJC67",
+      "ballotItemId": "01000000-f33c-bc21-b9f8-08dead343bb8",
+      "name": "Judge - Superior Court - Northeastern Judicial Circuit (Deal)",
+      "ballotOrder": 527,
+      "apiName": "Judge - Superior Court - Northeastern Judicial Circuit (Deal)"
+    },
+    {
+      "id": "SJC68",
+      "ballotItemId": "01000000-f33c-bc21-81c1-08dead34210a",
+      "name": "Judge - Superior Court - Pataula Judicial Circuit (Balkcom)",
+      "ballotOrder": 528,
+      "apiName": "Judge - Superior Court - Pataula Judicial Circuit (Balkcom)"
+    },
+    {
+      "id": "SJC69",
+      "ballotItemId": "01000000-f33c-bc21-a144-08dead350702",
+      "name": "Judge - Superior Court - Paulding Judicial Circuit (Rollins)",
+      "ballotOrder": 529,
+      "apiName": "Judge - Superior Court - Paulding Judicial Circuit (Rollins)"
+    },
+    {
+      "id": "SJC70",
+      "ballotItemId": "01000000-f33c-bc21-d7b0-08dead3404ee",
+      "name": "Judge - Superior Court - Piedmont Judicial Circuit (Griffie)",
+      "ballotOrder": 530,
+      "apiName": "Judge - Superior Court - Piedmont Judicial Circuit (Griffie)"
+    },
+    {
+      "id": "SJC71",
+      "ballotItemId": "01000000-f33c-bc21-9b54-08dead352958",
+      "name": "Judge - Superior Court - Rockdale Judicial Circuit (Bills)",
+      "ballotOrder": 531,
+      "apiName": "Judge - Superior Court - Rockdale Judicial Circuit (Bills)"
+    },
+    {
+      "id": "SJC72",
+      "ballotItemId": "01000000-f33c-bc21-6c07-08dead3469ad",
+      "name": "Judge - Superior Court - Rome Judicial Circuit (King)",
+      "ballotOrder": 532,
+      "apiName": "Judge - Superior Court - Rome Judicial Circuit (King)"
+    },
+    {
+      "id": "SJC73",
+      "ballotItemId": "01000000-f33c-bc21-d744-08dead3469bf",
+      "name": "Judge - Superior Court - Rome Judicial Circuit (Sparks)",
+      "ballotOrder": 533,
+      "apiName": "Judge - Superior Court - Rome Judicial Circuit (Sparks)"
+    },
+    {
+      "id": "SJC75",
+      "ballotItemId": "01000000-f33c-bc21-f39f-08dead340840",
+      "name": "Judge - Superior Court - Southern Judicial Circuit (Prine)",
+      "ballotOrder": 534,
+      "apiName": "Judge - Superior Court - Southern Judicial Circuit (Prine)"
+    },
+    {
+      "id": "SJC76",
+      "ballotItemId": "01000000-f33c-bc21-1337-08dead340845",
+      "name": "Judge - Superior Court - Southern Judicial Circuit (Smith)",
+      "ballotOrder": 535,
+      "apiName": "Judge - Superior Court - Southern Judicial Circuit (Smith)"
+    },
+    {
+      "id": "SJC77",
+      "ballotItemId": "01000000-f33c-bc21-3be8-08dead340849",
+      "name": "Judge - Superior Court - Southern Judicial Circuit (Voyles)",
+      "ballotOrder": 536,
+      "apiName": "Judge - Superior Court - Southern Judicial Circuit (Voyles)"
+    },
+    {
+      "id": "SJC78",
+      "ballotItemId": "01000000-f33c-bc21-9faa-08dead34d824",
+      "name": "Judge - Superior Court - Southwestern Judicial Circuit (Sizemore)",
+      "ballotOrder": 537,
+      "apiName": "Judge - Superior Court - Southwestern Judicial Circuit (Sizemore)"
+    },
+    {
+      "id": "SJC79",
+      "ballotItemId": "01000000-f33c-bc21-6480-08dead34c91e",
+      "name": "Judge - Superior Court - Tifton Judicial Circuit (Powell)",
+      "ballotOrder": 538,
+      "apiName": "Judge - Superior Court - Tifton Judicial Circuit (Powell)"
+    },
+    {
+      "id": "SJC80",
+      "ballotItemId": "01000000-f33c-bc21-5d9f-08dead34c937",
+      "name": "Judge - Superior Court - Tifton Judicial Circuit (Reinhardt)",
+      "ballotOrder": 539,
+      "apiName": "Judge - Superior Court - Tifton Judicial Circuit (Reinhardt)"
+    },
+    {
+      "id": "SJC81",
+      "ballotItemId": "01000000-f33c-bc21-1079-08dead340a7c",
+      "name": "Judge - Superior Court - Towaliga Judicial Circuit (Wilson)",
+      "ballotOrder": 540,
+      "apiName": "Judge - Superior Court - Towaliga Judicial Circuit (Wilson)"
+    },
+    {
+      "id": "SJC82",
+      "ballotItemId": "01000000-f33c-bc21-19cb-08dead34036d",
+      "name": "Judge - Superior Court - Waycross Judicial Circuit (Kight)",
+      "ballotOrder": 541,
+      "apiName": "Judge - Superior Court - Waycross Judicial Circuit (Kight)"
+    },
+    {
+      "id": "SJC83",
+      "ballotItemId": "01000000-f33c-bc21-6c15-08dead340cba",
+      "name": "Judge - Superior Court - West Georgia Judicial Circuit (Hightower)",
+      "ballotOrder": 542,
+      "apiName": "Judge - Superior Court - West Georgia Judicial Circuit (Hightower)"
+    },
+    {
+      "id": "SJC84",
+      "ballotItemId": "01000000-f33c-bc21-58d0-08dead3417f4",
+      "name": "Judge - Superior Court - Western Judicial Circuit (Lott)",
+      "ballotOrder": 543,
+      "apiName": "Judge - Superior Court - Western Judicial Circuit (Lott)"
+    },
+    {
+      "id": "SJC85",
+      "ballotItemId": "01000000-f33c-bc21-775b-08dead3417fc",
+      "name": "Judge - Superior Court - Western Judicial Circuit (Norris)",
+      "ballotOrder": 544,
+      "apiName": "Judge - Superior Court - Western Judicial Circuit (Norris)"
+    },
+    {
+      "id": "SQ1R",
+      "ballotItemId": "01000000-f33c-bc21-9a7c-08dead3402d5",
+      "name": "Party Question 1 - Rep",
+      "ballotOrder": 545,
+      "apiName": "Party Question 1 - Rep"
+    },
+    {
+      "id": "SQ2R",
+      "ballotItemId": "01000000-f33c-bc21-5549-08dead3402d7",
+      "name": "Party Question 2 - Rep",
+      "ballotOrder": 546,
+      "apiName": "Party Question 2 - Rep"
+    },
+    {
+      "id": "SQ3R",
+      "ballotItemId": "01000000-f33c-bc21-a3f8-08dead3402d8",
+      "name": "Party Question 3 - Rep",
+      "ballotOrder": 547,
+      "apiName": "Party Question 3 - Rep"
+    },
+    {
+      "id": "SQ4R",
+      "ballotItemId": "01000000-f33c-bc21-3ea2-08dead3402da",
+      "name": "Party Question 4 - Rep",
+      "ballotOrder": 548,
+      "apiName": "Party Question 4 - Rep"
+    },
+    {
+      "id": "SQ5R",
+      "ballotItemId": "01000000-f33c-bc21-d41f-08dead3402db",
+      "name": "Party Question 5 - Rep",
+      "ballotOrder": 549,
+      "apiName": "Party Question 5 - Rep"
+    },
+    {
+      "id": "SQ6R",
+      "ballotItemId": "01000000-f33c-bc21-a690-08dead3402dd",
+      "name": "Party Question 6 - Rep",
+      "ballotOrder": 550,
+      "apiName": "Party Question 6 - Rep"
+    },
+    {
+      "id": "SQ7R",
+      "ballotItemId": "01000000-f33c-bc21-5f48-08dead3402df",
+      "name": "Party Question 7 - Rep",
+      "ballotOrder": 551,
+      "apiName": "Party Question 7 - Rep"
+    },
+    {
+      "id": "SQ8R",
+      "ballotItemId": "01000000-f33c-bc21-1898-08dead3402e1",
+      "name": "Party Question 8 - Rep",
+      "ballotOrder": 552,
+      "apiName": "Party Question 8 - Rep"
+    },
+    {
+      "id": "SQ1D",
+      "ballotItemId": "01000000-f33c-bc21-e522-08dead3402e2",
+      "name": "Party Question 1 - Dem",
+      "ballotOrder": 553,
+      "apiName": "Party Question 1 - Dem"
+    },
+    {
+      "id": "SQ2D",
+      "ballotItemId": "01000000-f33c-bc21-7b32-08dead3402e4",
+      "name": "Party Question 2 - Dem",
+      "ballotOrder": 554,
+      "apiName": "Party Question 2 - Dem"
+    }
+  ]
+}

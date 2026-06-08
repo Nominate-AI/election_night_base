@@ -1,0 +1,119 @@
+{
+  "dmaOrder": [
+    "Chattanooga",
+    "Atlanta",
+    "Greenville, SC",
+    "Columbus",
+    "Macon",
+    "Augusta",
+    "Savannah",
+    "Albany",
+    "Dothan, AL",
+    "Tallahassee, FL",
+    "Jacksonville, FL"
+  ],
+  "groups": [
+    {
+      "id": "metro_atl",
+      "label": "Metro ATL",
+      "region": "3 Way Region",
+      "counties": [
+        "Cherokee",
+        "Clayton",
+        "Cobb",
+        "DeKalb",
+        "Douglas",
+        "Fayette",
+        "Forsyth",
+        "Fulton",
+        "Gwinnett",
+        "Henry",
+        "Newton",
+        "Rockdale"
+      ]
+    },
+    {
+      "id": "rest_of_atl_dma",
+      "label": "Rest of ATL DMA",
+      "region": "",
+      "counties": [
+        "Banks",
+        "Barrow",
+        "Bartow",
+        "Butts",
+        "Carroll",
+        "Chattooga",
+        "Clarke",
+        "Coweta",
+        "Dawson",
+        "Fannin",
+        "Floyd",
+        "Gilmer",
+        "Gordon",
+        "Greene",
+        "Habersham",
+        "Haralson",
+        "Heard",
+        "Jackson",
+        "Jasper",
+        "Lamar",
+        "Lumpkin",
+        "Madison",
+        "Meriwether",
+        "Morgan",
+        "Oconee",
+        "Oglethorpe",
+        "Paulding",
+        "Pickens",
+        "Pike",
+        "Polk",
+        "Putnam",
+        "Rabun",
+        "Spalding",
+        "Towns",
+        "Troup",
+        "Union",
+        "Upson",
+        "Walton",
+        "White"
+      ]
+    },
+    {
+      "id": "mid_counties",
+      "label": "Mid Counties (15)",
+      "region": "",
+      "counties": [
+        "Bartow",
+        "Bibb",
+        "Carroll",
+        "Chatham",
+        "Coweta",
+        "Fayette",
+        "Floyd",
+        "Glynn",
+        "Henry",
+        "Houston",
+        "Jackson",
+        "Muscogee",
+        "Paulding",
+        "Richmond",
+        "Walton"
+      ]
+    },
+    {
+      "id": "large_counties",
+      "label": "Large Counties (8)",
+      "region": "",
+      "counties": [
+        "Cherokee",
+        "Cobb",
+        "Columbia",
+        "DeKalb",
+        "Forsyth",
+        "Fulton",
+        "Gwinnett",
+        "Hall"
+      ]
+    }
+  ]
+}

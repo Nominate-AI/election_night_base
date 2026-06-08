@@ -1,0 +1,801 @@
+{
+  "source": "2026 Primary Election Night Tracking.xlsx",
+  "updatedAt": "2026-05-20T18:06:57.124Z",
+  "counties": [
+    {
+      "name": "Appling",
+      "dma": "Savannah",
+      "excelRow": 4
+    },
+    {
+      "name": "Atkinson",
+      "dma": "Albany",
+      "excelRow": 5
+    },
+    {
+      "name": "Bacon",
+      "dma": "Savannah",
+      "excelRow": 6
+    },
+    {
+      "name": "Baker",
+      "dma": "Albany",
+      "excelRow": 7
+    },
+    {
+      "name": "Baldwin",
+      "dma": "Macon",
+      "excelRow": 8
+    },
+    {
+      "name": "Banks",
+      "dma": "Atlanta",
+      "excelRow": 9
+    },
+    {
+      "name": "Barrow",
+      "dma": "Atlanta",
+      "excelRow": 10
+    },
+    {
+      "name": "Bartow",
+      "dma": "Atlanta",
+      "excelRow": 11
+    },
+    {
+      "name": "Ben Hill",
+      "dma": "Albany",
+      "excelRow": 12
+    },
+    {
+      "name": "Berrien",
+      "dma": "Albany",
+      "excelRow": 13
+    },
+    {
+      "name": "Bibb",
+      "dma": "Macon",
+      "excelRow": 14
+    },
+    {
+      "name": "Bleckley",
+      "dma": "Macon",
+      "excelRow": 15
+    },
+    {
+      "name": "Brantley",
+      "dma": "Jacksonville, FL",
+      "excelRow": 16
+    },
+    {
+      "name": "Brooks",
+      "dma": "Tallahassee, FL",
+      "excelRow": 17
+    },
+    {
+      "name": "Bryan",
+      "dma": "Savannah",
+      "excelRow": 18
+    },
+    {
+      "name": "Bulloch",
+      "dma": "Savannah",
+      "excelRow": 19
+    },
+    {
+      "name": "Burke",
+      "dma": "Augusta",
+      "excelRow": 20
+    },
+    {
+      "name": "Butts",
+      "dma": "Atlanta",
+      "excelRow": 21
+    },
+    {
+      "name": "Calhoun",
+      "dma": "Albany",
+      "excelRow": 22
+    },
+    {
+      "name": "Camden",
+      "dma": "Jacksonville, FL",
+      "excelRow": 23
+    },
+    {
+      "name": "Candler",
+      "dma": "Savannah",
+      "excelRow": 24
+    },
+    {
+      "name": "Carroll",
+      "dma": "Atlanta",
+      "excelRow": 25
+    },
+    {
+      "name": "Catoosa",
+      "dma": "Chattanooga",
+      "excelRow": 26
+    },
+    {
+      "name": "Charlton",
+      "dma": "Jacksonville, FL",
+      "excelRow": 27
+    },
+    {
+      "name": "Chatham",
+      "dma": "Savannah",
+      "excelRow": 28
+    },
+    {
+      "name": "Chattahoochee",
+      "dma": "Columbus",
+      "excelRow": 29
+    },
+    {
+      "name": "Chattooga",
+      "dma": "Atlanta",
+      "excelRow": 30
+    },
+    {
+      "name": "Cherokee",
+      "dma": "Atlanta",
+      "excelRow": 31
+    },
+    {
+      "name": "Clarke",
+      "dma": "Atlanta",
+      "excelRow": 32
+    },
+    {
+      "name": "Clay",
+      "dma": "Columbus",
+      "excelRow": 33
+    },
+    {
+      "name": "Clayton",
+      "dma": "Atlanta",
+      "excelRow": 34
+    },
+    {
+      "name": "Clinch",
+      "dma": "Tallahassee, FL",
+      "excelRow": 35
+    },
+    {
+      "name": "Cobb",
+      "dma": "Atlanta",
+      "excelRow": 36
+    },
+    {
+      "name": "Coffee",
+      "dma": "Albany",
+      "excelRow": 37
+    },
+    {
+      "name": "Colquitt",
+      "dma": "Albany",
+      "excelRow": 38
+    },
+    {
+      "name": "Columbia",
+      "dma": "Augusta",
+      "excelRow": 39
+    },
+    {
+      "name": "Cook",
+      "dma": "Albany",
+      "excelRow": 40
+    },
+    {
+      "name": "Coweta",
+      "dma": "Atlanta",
+      "excelRow": 41
+    },
+    {
+      "name": "Crawford",
+      "dma": "Macon",
+      "excelRow": 42
+    },
+    {
+      "name": "Crisp",
+      "dma": "Albany",
+      "excelRow": 43
+    },
+    {
+      "name": "Dade",
+      "dma": "Chattanooga",
+      "excelRow": 44
+    },
+    {
+      "name": "Dawson",
+      "dma": "Atlanta",
+      "excelRow": 45
+    },
+    {
+      "name": "Decatur",
+      "dma": "Tallahassee, FL",
+      "excelRow": 46
+    },
+    {
+      "name": "DeKalb",
+      "dma": "Atlanta",
+      "excelRow": 47
+    },
+    {
+      "name": "Dodge",
+      "dma": "Macon",
+      "excelRow": 48
+    },
+    {
+      "name": "Dooly",
+      "dma": "Macon",
+      "excelRow": 49
+    },
+    {
+      "name": "Dougherty",
+      "dma": "Albany",
+      "excelRow": 50
+    },
+    {
+      "name": "Douglas",
+      "dma": "Atlanta",
+      "excelRow": 51
+    },
+    {
+      "name": "Early",
+      "dma": "Dothan, AL",
+      "excelRow": 52
+    },
+    {
+      "name": "Echols",
+      "dma": "Tallahassee, FL",
+      "excelRow": 53
+    },
+    {
+      "name": "Effingham",
+      "dma": "Savannah",
+      "excelRow": 54
+    },
+    {
+      "name": "Elbert",
+      "dma": "Greenville, SC",
+      "excelRow": 55
+    },
+    {
+      "name": "Emanuel",
+      "dma": "Augusta",
+      "excelRow": 56
+    },
+    {
+      "name": "Evans",
+      "dma": "Savannah",
+      "excelRow": 57
+    },
+    {
+      "name": "Fannin",
+      "dma": "Atlanta",
+      "excelRow": 58
+    },
+    {
+      "name": "Fayette",
+      "dma": "Atlanta",
+      "excelRow": 59
+    },
+    {
+      "name": "Floyd",
+      "dma": "Atlanta",
+      "excelRow": 60
+    },
+    {
+      "name": "Forsyth",
+      "dma": "Atlanta",
+      "excelRow": 61
+    },
+    {
+      "name": "Franklin",
+      "dma": "Greenville, SC",
+      "excelRow": 62
+    },
+    {
+      "name": "Fulton",
+      "dma": "Atlanta",
+      "excelRow": 63
+    },
+    {
+      "name": "Gilmer",
+      "dma": "Atlanta",
+      "excelRow": 64
+    },
+    {
+      "name": "Glascock",
+      "dma": "Augusta",
+      "excelRow": 65
+    },
+    {
+      "name": "Glynn",
+      "dma": "Jacksonville, FL",
+      "excelRow": 66
+    },
+    {
+      "name": "Gordon",
+      "dma": "Atlanta",
+      "excelRow": 67
+    },
+    {
+      "name": "Grady",
+      "dma": "Tallahassee, FL",
+      "excelRow": 68
+    },
+    {
+      "name": "Greene",
+      "dma": "Atlanta",
+      "excelRow": 69
+    },
+    {
+      "name": "Gwinnett",
+      "dma": "Atlanta",
+      "excelRow": 70
+    },
+    {
+      "name": "Habersham",
+      "dma": "Atlanta",
+      "excelRow": 71
+    },
+    {
+      "name": "Hall",
+      "dma": "Atlanta",
+      "excelRow": 72
+    },
+    {
+      "name": "Hancock",
+      "dma": "Macon",
+      "excelRow": 73
+    },
+    {
+      "name": "Haralson",
+      "dma": "Atlanta",
+      "excelRow": 74
+    },
+    {
+      "name": "Harris",
+      "dma": "Columbus",
+      "excelRow": 75
+    },
+    {
+      "name": "Hart",
+      "dma": "Greenville, SC",
+      "excelRow": 76
+    },
+    {
+      "name": "Heard",
+      "dma": "Atlanta",
+      "excelRow": 77
+    },
+    {
+      "name": "Henry",
+      "dma": "Atlanta",
+      "excelRow": 78
+    },
+    {
+      "name": "Houston",
+      "dma": "Macon",
+      "excelRow": 79
+    },
+    {
+      "name": "Irwin",
+      "dma": "Albany",
+      "excelRow": 80
+    },
+    {
+      "name": "Jackson",
+      "dma": "Atlanta",
+      "excelRow": 81
+    },
+    {
+      "name": "Jasper",
+      "dma": "Atlanta",
+      "excelRow": 82
+    },
+    {
+      "name": "Jeff Davis",
+      "dma": "Savannah",
+      "excelRow": 83
+    },
+    {
+      "name": "Jefferson",
+      "dma": "Augusta",
+      "excelRow": 84
+    },
+    {
+      "name": "Jenkins",
+      "dma": "Augusta",
+      "excelRow": 85
+    },
+    {
+      "name": "Johnson",
+      "dma": "Macon",
+      "excelRow": 86
+    },
+    {
+      "name": "Jones",
+      "dma": "Macon",
+      "excelRow": 87
+    },
+    {
+      "name": "Lamar",
+      "dma": "Atlanta",
+      "excelRow": 88
+    },
+    {
+      "name": "Lanier",
+      "dma": "Tallahassee, FL",
+      "excelRow": 89
+    },
+    {
+      "name": "Laurens",
+      "dma": "Macon",
+      "excelRow": 90
+    },
+    {
+      "name": "Lee",
+      "dma": "Albany",
+      "excelRow": 91
+    },
+    {
+      "name": "Liberty",
+      "dma": "Savannah",
+      "excelRow": 92
+    },
+    {
+      "name": "Lincoln",
+      "dma": "Augusta",
+      "excelRow": 93
+    },
+    {
+      "name": "Long",
+      "dma": "Savannah",
+      "excelRow": 94
+    },
+    {
+      "name": "Lowndes",
+      "dma": "Tallahassee, FL",
+      "excelRow": 95
+    },
+    {
+      "name": "Lumpkin",
+      "dma": "Atlanta",
+      "excelRow": 96
+    },
+    {
+      "name": "Macon",
+      "dma": "Macon",
+      "excelRow": 97
+    },
+    {
+      "name": "Madison",
+      "dma": "Atlanta",
+      "excelRow": 98
+    },
+    {
+      "name": "Marion",
+      "dma": "Columbus",
+      "excelRow": 99
+    },
+    {
+      "name": "McDuffie",
+      "dma": "Augusta",
+      "excelRow": 100
+    },
+    {
+      "name": "McIntosh",
+      "dma": "Savannah",
+      "excelRow": 101
+    },
+    {
+      "name": "Meriwether",
+      "dma": "Atlanta",
+      "excelRow": 102
+    },
+    {
+      "name": "Miller",
+      "dma": "Tallahassee, FL",
+      "excelRow": 103
+    },
+    {
+      "name": "Mitchell",
+      "dma": "Albany",
+      "excelRow": 104
+    },
+    {
+      "name": "Monroe",
+      "dma": "Macon",
+      "excelRow": 105
+    },
+    {
+      "name": "Montgomery",
+      "dma": "Savannah",
+      "excelRow": 106
+    },
+    {
+      "name": "Morgan",
+      "dma": "Atlanta",
+      "excelRow": 107
+    },
+    {
+      "name": "Murray",
+      "dma": "Chattanooga",
+      "excelRow": 108
+    },
+    {
+      "name": "Muscogee",
+      "dma": "Columbus",
+      "excelRow": 109
+    },
+    {
+      "name": "Newton",
+      "dma": "Atlanta",
+      "excelRow": 110
+    },
+    {
+      "name": "Oconee",
+      "dma": "Atlanta",
+      "excelRow": 111
+    },
+    {
+      "name": "Oglethorpe",
+      "dma": "Atlanta",
+      "excelRow": 112
+    },
+    {
+      "name": "Paulding",
+      "dma": "Atlanta",
+      "excelRow": 113
+    },
+    {
+      "name": "Peach",
+      "dma": "Macon",
+      "excelRow": 114
+    },
+    {
+      "name": "Pickens",
+      "dma": "Atlanta",
+      "excelRow": 115
+    },
+    {
+      "name": "Pierce",
+      "dma": "Jacksonville, FL",
+      "excelRow": 116
+    },
+    {
+      "name": "Pike",
+      "dma": "Atlanta",
+      "excelRow": 117
+    },
+    {
+      "name": "Polk",
+      "dma": "Atlanta",
+      "excelRow": 118
+    },
+    {
+      "name": "Pulaski",
+      "dma": "Macon",
+      "excelRow": 119
+    },
+    {
+      "name": "Putnam",
+      "dma": "Atlanta",
+      "excelRow": 120
+    },
+    {
+      "name": "Quitman",
+      "dma": "Columbus",
+      "excelRow": 121
+    },
+    {
+      "name": "Rabun",
+      "dma": "Atlanta",
+      "excelRow": 122
+    },
+    {
+      "name": "Randolph",
+      "dma": "Columbus",
+      "excelRow": 123
+    },
+    {
+      "name": "Richmond",
+      "dma": "Augusta",
+      "excelRow": 124
+    },
+    {
+      "name": "Rockdale",
+      "dma": "Atlanta",
+      "excelRow": 125
+    },
+    {
+      "name": "Schley",
+      "dma": "Columbus",
+      "excelRow": 126
+    },
+    {
+      "name": "Screven",
+      "dma": "Savannah",
+      "excelRow": 127
+    },
+    {
+      "name": "Seminole",
+      "dma": "Tallahassee, FL",
+      "excelRow": 128
+    },
+    {
+      "name": "Spalding",
+      "dma": "Atlanta",
+      "excelRow": 129
+    },
+    {
+      "name": "Stephens",
+      "dma": "Greenville, SC",
+      "excelRow": 130
+    },
+    {
+      "name": "Stewart",
+      "dma": "Columbus",
+      "excelRow": 131
+    },
+    {
+      "name": "Sumter",
+      "dma": "Columbus",
+      "excelRow": 132
+    },
+    {
+      "name": "Talbot",
+      "dma": "Columbus",
+      "excelRow": 133
+    },
+    {
+      "name": "Taliaferro",
+      "dma": "Augusta",
+      "excelRow": 134
+    },
+    {
+      "name": "Tattnall",
+      "dma": "Savannah",
+      "excelRow": 135
+    },
+    {
+      "name": "Taylor",
+      "dma": "Macon",
+      "excelRow": 136
+    },
+    {
+      "name": "Telfair",
+      "dma": "Macon",
+      "excelRow": 137
+    },
+    {
+      "name": "Terrell",
+      "dma": "Albany",
+      "excelRow": 138
+    },
+    {
+      "name": "Thomas",
+      "dma": "Tallahassee, FL",
+      "excelRow": 139
+    },
+    {
+      "name": "Tift",
+      "dma": "Albany",
+      "excelRow": 140
+    },
+    {
+      "name": "Toombs",
+      "dma": "Savannah",
+      "excelRow": 141
+    },
+    {
+      "name": "Towns",
+      "dma": "Atlanta",
+      "excelRow": 142
+    },
+    {
+      "name": "Treutlen",
+      "dma": "Macon",
+      "excelRow": 143
+    },
+    {
+      "name": "Troup",
+      "dma": "Atlanta",
+      "excelRow": 144
+    },
+    {
+      "name": "Turner",
+      "dma": "Albany",
+      "excelRow": 145
+    },
+    {
+      "name": "Twiggs",
+      "dma": "Macon",
+      "excelRow": 146
+    },
+    {
+      "name": "Union",
+      "dma": "Atlanta",
+      "excelRow": 147
+    },
+    {
+      "name": "Upson",
+      "dma": "Atlanta",
+      "excelRow": 148
+    },
+    {
+      "name": "Walker",
+      "dma": "Chattanooga",
+      "excelRow": 149
+    },
+    {
+      "name": "Walton",
+      "dma": "Atlanta",
+      "excelRow": 150
+    },
+    {
+      "name": "Ware",
+      "dma": "Jacksonville, FL",
+      "excelRow": 151
+    },
+    {
+      "name": "Warren",
+      "dma": "Augusta",
+      "excelRow": 152
+    },
+    {
+      "name": "Washington",
+      "dma": "Macon",
+      "excelRow": 153
+    },
+    {
+      "name": "Wayne",
+      "dma": "Savannah",
+      "excelRow": 154
+    },
+    {
+      "name": "Webster",
+      "dma": "Columbus",
+      "excelRow": 155
+    },
+    {
+      "name": "Wheeler",
+      "dma": "Macon",
+      "excelRow": 156
+    },
+    {
+      "name": "White",
+      "dma": "Atlanta",
+      "excelRow": 157
+    },
+    {
+      "name": "Whitfield",
+      "dma": "Chattanooga",
+      "excelRow": 158
+    },
+    {
+      "name": "Wilcox",
+      "dma": "Macon",
+      "excelRow": 159
+    },
+    {
+      "name": "Wilkes",
+      "dma": "Augusta",
+      "excelRow": 160
+    },
+    {
+      "name": "Wilkinson",
+      "dma": "Macon",
+      "excelRow": 161
+    },
+    {
+      "name": "Worth",
+      "dma": "Albany",
+      "excelRow": 162
+    }
+  ]
+}

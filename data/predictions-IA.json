@@ -1,0 +1,1193 @@
+{
+  "counties": {
+    "Adair": {
+      "projectedTurnout": 992,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Adams": {
+      "projectedTurnout": 563,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Allamakee": {
+      "projectedTurnout": 1165,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Appanoose": {
+      "projectedTurnout": 1039,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Audubon": {
+      "projectedTurnout": 908,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Benton": {
+      "projectedTurnout": 1942,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Black Hawk": {
+      "projectedTurnout": 5990,
+      "pred": {
+        "lahn": 51,
+        "feenstra": 20,
+        "steen": 25,
+        "sherman": 2,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Boone": {
+      "projectedTurnout": 1936,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bremer": {
+      "projectedTurnout": 1810,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Buchanan": {
+      "projectedTurnout": 1417,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Buena Vista": {
+      "projectedTurnout": 1426,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Butler": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Calhoun": {
+      "projectedTurnout": 1029,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Carroll": {
+      "projectedTurnout": 1804,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cass": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cedar": {
+      "projectedTurnout": 1552,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cerro Gordo": {
+      "projectedTurnout": 3104,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cherokee": {
+      "projectedTurnout": 1423,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Chickasaw": {
+      "projectedTurnout": 1158,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clarke": {
+      "projectedTurnout": 903,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clay": {
+      "projectedTurnout": 1804,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clayton": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clinton": {
+      "projectedTurnout": 2456,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Crawford": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dallas": {
+      "projectedTurnout": 7004,
+      "pred": {
+        "lahn": 34,
+        "feenstra": 27,
+        "steen": 32,
+        "sherman": 3,
+        "andrews": 4
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Davis": {
+      "projectedTurnout": 900,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Decatur": {
+      "projectedTurnout": 774,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Delaware": {
+      "projectedTurnout": 1417,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Des Moines": {
+      "projectedTurnout": 1936,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dickinson": {
+      "projectedTurnout": 1810,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dubuque": {
+      "projectedTurnout": 5714,
+      "pred": {
+        "lahn": 48,
+        "feenstra": 32,
+        "steen": 14,
+        "sherman": 2,
+        "andrews": 4
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Emmet": {
+      "projectedTurnout": 1029,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Fayette": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Floyd": {
+      "projectedTurnout": 1423,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Franklin": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Fremont": {
+      "projectedTurnout": 900,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Greene": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Grundy": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Guthrie": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Hamilton": {
+      "projectedTurnout": 1675,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Hancock": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Hardin": {
+      "projectedTurnout": 1552,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Harrison": {
+      "projectedTurnout": 1417,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Henry": {
+      "projectedTurnout": 1552,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Howard": {
+      "projectedTurnout": 900,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Humboldt": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Ida": {
+      "projectedTurnout": 903,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Iowa": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jackson": {
+      "projectedTurnout": 1417,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jasper": {
+      "projectedTurnout": 3226,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jefferson": {
+      "projectedTurnout": 1158,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Johnson": {
+      "projectedTurnout": 5230,
+      "pred": {
+        "lahn": 41,
+        "feenstra": 28,
+        "steen": 16,
+        "sherman": 14,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jones": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Keokuk": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Kossuth": {
+      "projectedTurnout": 1546,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lee": {
+      "projectedTurnout": 1933,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Linn": {
+      "projectedTurnout": 11211,
+      "pred": {
+        "lahn": 34,
+        "feenstra": 37,
+        "steen": 18,
+        "sherman": 6,
+        "andrews": 5
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Louisa": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lucas": {
+      "projectedTurnout": 1036,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lyon": {
+      "projectedTurnout": 1675,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Madison": {
+      "projectedTurnout": 1546,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Mahaska": {
+      "projectedTurnout": 1810,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Marion": {
+      "projectedTurnout": 2836,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Marshall": {
+      "projectedTurnout": 2449,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Mills": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Mitchell": {
+      "projectedTurnout": 1158,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Monona": {
+      "projectedTurnout": 907,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Monroe": {
+      "projectedTurnout": 778,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Montgomery": {
+      "projectedTurnout": 1158,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Muscatine": {
+      "projectedTurnout": 2320,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "O'Brien": {
+      "projectedTurnout": 1675,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Osceola": {
+      "projectedTurnout": 903,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Page": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Palo Alto": {
+      "projectedTurnout": 907,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Plymouth": {
+      "projectedTurnout": 2062,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Pocahontas": {
+      "projectedTurnout": 778,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Polk": {
+      "projectedTurnout": 23722,
+      "pred": {
+        "lahn": 32,
+        "feenstra": 29,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 13
+      },
+      "updatedAt": "2026-06-03T20:00:08.509Z",
+      "updatedBy": "editor"
+    },
+    "Pottawattamie": {
+      "projectedTurnout": 6529,
+      "pred": {
+        "lahn": 25,
+        "feenstra": 48,
+        "steen": 20,
+        "sherman": 3,
+        "andrews": 4
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Poweshiek": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Ringgold": {
+      "projectedTurnout": 642,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Sac": {
+      "projectedTurnout": 1161,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Scott": {
+      "projectedTurnout": 9419,
+      "pred": {
+        "lahn": 45,
+        "feenstra": 28,
+        "steen": 20,
+        "sherman": 5,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Shelby": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Sioux": {
+      "projectedTurnout": 2836,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Story": {
+      "projectedTurnout": 4676,
+      "pred": {
+        "lahn": 36,
+        "feenstra": 29,
+        "steen": 30,
+        "sherman": 3,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Tama": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Taylor": {
+      "projectedTurnout": 774,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Union": {
+      "projectedTurnout": 1165,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Van Buren": {
+      "projectedTurnout": 778,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wapello": {
+      "projectedTurnout": 1936,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Warren": {
+      "projectedTurnout": 3617,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Washington": {
+      "projectedTurnout": 1675,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 33,
+        "steen": 19,
+        "sherman": 6,
+        "andrews": 2
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wayne": {
+      "projectedTurnout": 903,
+      "pred": {
+        "lahn": 38,
+        "feenstra": 30,
+        "steen": 23,
+        "sherman": 6,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Webster": {
+      "projectedTurnout": 2707,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Winnebago": {
+      "projectedTurnout": 1158,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Winneshiek": {
+      "projectedTurnout": 1419,
+      "pred": {
+        "lahn": 39,
+        "feenstra": 34,
+        "steen": 17,
+        "sherman": 7,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Woodbury": {
+      "projectedTurnout": 6020,
+      "pred": {
+        "lahn": 37,
+        "feenstra": 38,
+        "steen": 13,
+        "sherman": 7,
+        "andrews": 5
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Worth": {
+      "projectedTurnout": 778,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wright": {
+      "projectedTurnout": 1294,
+      "pred": {
+        "lahn": 40,
+        "feenstra": 38,
+        "steen": 14,
+        "sherman": 5,
+        "andrews": 3
+      },
+      "updatedAt": null,
+      "updatedBy": "seed"
+    }
+  },
+  "seededAt": "2026-06-03T18:59:22.283Z"
+}

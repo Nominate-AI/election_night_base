@@ -1,0 +1,959 @@
+{
+  "counties": {
+    "Appling": {
+      "projectedTurnout": 2729,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Atkinson": {
+      "projectedTurnout": 738,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bacon": {
+      "projectedTurnout": 1542,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Baker": {
+      "projectedTurnout": 358,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Baldwin": {
+      "projectedTurnout": 3667,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Banks": {
+      "projectedTurnout": 3033,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Barrow": {
+      "projectedTurnout": 8425,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bartow": {
+      "projectedTurnout": 11780,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Ben Hill": {
+      "projectedTurnout": 1446,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Berrien": {
+      "projectedTurnout": 2448,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bibb": {
+      "projectedTurnout": 10804,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bleckley": {
+      "projectedTurnout": 1920,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Brantley": {
+      "projectedTurnout": 2162,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Brooks": {
+      "projectedTurnout": 1512,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bryan": {
+      "projectedTurnout": 4089,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Bulloch": {
+      "projectedTurnout": 6514,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Burke": {
+      "projectedTurnout": 1822,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Butts": {
+      "projectedTurnout": 3258,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Calhoun": {
+      "projectedTurnout": 323,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Camden": {
+      "projectedTurnout": 4952,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Candler": {
+      "projectedTurnout": 1022,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Carroll": {
+      "projectedTurnout": 13834,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Catoosa": {
+      "projectedTurnout": 7903,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Charlton": {
+      "projectedTurnout": 1023,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Chatham": {
+      "projectedTurnout": 17995,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Chattahoochee": {
+      "projectedTurnout": 272,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Chattooga": {
+      "projectedTurnout": 2568,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cherokee": {
+      "projectedTurnout": 36356,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clarke": {
+      "projectedTurnout": 6565,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clay": {
+      "projectedTurnout": 271,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clayton": {
+      "projectedTurnout": 4143,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Clinch": {
+      "projectedTurnout": 573,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cobb": {
+      "projectedTurnout": 67062,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Coffee": {
+      "projectedTurnout": 3063,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Colquitt": {
+      "projectedTurnout": 4458,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Columbia": {
+      "projectedTurnout": 19971,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Cook": {
+      "projectedTurnout": 1733,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Coweta": {
+      "projectedTurnout": 17700,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Crawford": {
+      "projectedTurnout": 1576,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Crisp": {
+      "projectedTurnout": 1914,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dade": {
+      "projectedTurnout": 2336,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dawson": {
+      "projectedTurnout": 4897,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Decatur": {
+      "projectedTurnout": 2158,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "DeKalb": {
+      "projectedTurnout": 22197,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dodge": {
+      "projectedTurnout": 2485,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dooly": {
+      "projectedTurnout": 850,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Dougherty": {
+      "projectedTurnout": 3436,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Douglas": {
+      "projectedTurnout": 8657,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Early": {
+      "projectedTurnout": 1154,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Echols": {
+      "projectedTurnout": 455,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Effingham": {
+      "projectedTurnout": 6664,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Elbert": {
+      "projectedTurnout": 2490,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Emanuel": {
+      "projectedTurnout": 2555,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Evans": {
+      "projectedTurnout": 1146,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Fannin": {
+      "projectedTurnout": 4993,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Fayette": {
+      "projectedTurnout": 15608,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Floyd": {
+      "projectedTurnout": 10227,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Forsyth": {
+      "projectedTurnout": 31274,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Franklin": {
+      "projectedTurnout": 3444,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Fulton": {
+      "projectedTurnout": 49803,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Gilmer": {
+      "projectedTurnout": 5790,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Glascock": {
+      "projectedTurnout": 625,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Glynn": {
+      "projectedTurnout": 9806,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Gordon": {
+      "projectedTurnout": 6484,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Grady": {
+      "projectedTurnout": 2370,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Greene": {
+      "projectedTurnout": 3316,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Gwinnett": {
+      "projectedTurnout": 52584,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Habersham": {
+      "projectedTurnout": 6991,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Hall": {
+      "projectedTurnout": 25177,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Hancock": {
+      "projectedTurnout": 374,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Haralson": {
+      "projectedTurnout": 4375,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Harris": {
+      "projectedTurnout": 4927,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Hart": {
+      "projectedTurnout": 3392,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Heard": {
+      "projectedTurnout": 1690,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Henry": {
+      "projectedTurnout": 16753,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Houston": {
+      "projectedTurnout": 13194,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Irwin": {
+      "projectedTurnout": 1164,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jackson": {
+      "projectedTurnout": 10058,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jasper": {
+      "projectedTurnout": 2313,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jeff Davis": {
+      "projectedTurnout": 1542,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jefferson": {
+      "projectedTurnout": 1414,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jenkins": {
+      "projectedTurnout": 755,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Johnson": {
+      "projectedTurnout": 1339,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Jones": {
+      "projectedTurnout": 3620,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lamar": {
+      "projectedTurnout": 2456,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lanier": {
+      "projectedTurnout": 912,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Laurens": {
+      "projectedTurnout": 5564,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lee": {
+      "projectedTurnout": 3967,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Liberty": {
+      "projectedTurnout": 2246,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lincoln": {
+      "projectedTurnout": 1534,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Long": {
+      "projectedTurnout": 1022,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lowndes": {
+      "projectedTurnout": 7677,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Lumpkin": {
+      "projectedTurnout": 4650,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Macon": {
+      "projectedTurnout": 596,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Madison": {
+      "projectedTurnout": 4674,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Marion": {
+      "projectedTurnout": 824,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "McDuffie": {
+      "projectedTurnout": 2341,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "McIntosh": {
+      "projectedTurnout": 1825,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Meriwether": {
+      "projectedTurnout": 2528,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Miller": {
+      "projectedTurnout": 879,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Mitchell": {
+      "projectedTurnout": 1828,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Monroe": {
+      "projectedTurnout": 4904,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Montgomery": {
+      "projectedTurnout": 1349,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Morgan": {
+      "projectedTurnout": 3682,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Murray": {
+      "projectedTurnout": 4019,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Muscogee": {
+      "projectedTurnout": 10176,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Newton": {
+      "projectedTurnout": 8351,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Oconee": {
+      "projectedTurnout": 7892,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Oglethorpe": {
+      "projectedTurnout": 2374,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Paulding": {
+      "projectedTurnout": 16971,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Peach": {
+      "projectedTurnout": 2267,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Pickens": {
+      "projectedTurnout": 5977,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Pierce": {
+      "projectedTurnout": 2955,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Pike": {
+      "projectedTurnout": 3512,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Polk": {
+      "projectedTurnout": 4803,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Pulaski": {
+      "projectedTurnout": 1055,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Putnam": {
+      "projectedTurnout": 3533,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Quitman": {
+      "projectedTurnout": 274,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Rabun": {
+      "projectedTurnout": 3427,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Randolph": {
+      "projectedTurnout": 587,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Richmond": {
+      "projectedTurnout": 10273,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Rockdale": {
+      "projectedTurnout": 5273,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Schley": {
+      "projectedTurnout": 681,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Screven": {
+      "projectedTurnout": 1440,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Seminole": {
+      "projectedTurnout": 1097,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Spalding": {
+      "projectedTurnout": 7369,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Stephens": {
+      "projectedTurnout": 3549,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Stewart": {
+      "projectedTurnout": 271,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Sumter": {
+      "projectedTurnout": 2210,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Talbot": {
+      "projectedTurnout": 500,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Taliaferro": {
+      "projectedTurnout": 136,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Tattnall": {
+      "projectedTurnout": 2243,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Taylor": {
+      "projectedTurnout": 876,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Telfair": {
+      "projectedTurnout": 1113,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Terrell": {
+      "projectedTurnout": 814,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Thomas": {
+      "projectedTurnout": 4370,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Tift": {
+      "projectedTurnout": 3978,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Toombs": {
+      "projectedTurnout": 2667,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Towns": {
+      "projectedTurnout": 2643,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Treutlen": {
+      "projectedTurnout": 727,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Troup": {
+      "projectedTurnout": 6135,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Turner": {
+      "projectedTurnout": 969,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Twiggs": {
+      "projectedTurnout": 923,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Union": {
+      "projectedTurnout": 6063,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Upson": {
+      "projectedTurnout": 3491,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Walker": {
+      "projectedTurnout": 6697,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Walton": {
+      "projectedTurnout": 14047,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Ware": {
+      "projectedTurnout": 3381,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Warren": {
+      "projectedTurnout": 498,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Washington": {
+      "projectedTurnout": 1374,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wayne": {
+      "projectedTurnout": 4001,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Webster": {
+      "projectedTurnout": 291,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wheeler": {
+      "projectedTurnout": 556,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "White": {
+      "projectedTurnout": 5314,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Whitfield": {
+      "projectedTurnout": 8059,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wilcox": {
+      "projectedTurnout": 987,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wilkes": {
+      "projectedTurnout": 1096,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Wilkinson": {
+      "projectedTurnout": 1215,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    },
+    "Worth": {
+      "projectedTurnout": 2640,
+      "pred": {},
+      "updatedAt": null,
+      "updatedBy": "seed"
+    }
+  },
+  "seededAt": "2026-06-03T18:59:22.282Z"
+}

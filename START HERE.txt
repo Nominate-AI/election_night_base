@@ -1,0 +1,76 @@
+GA ELECTION NIGHT TRACKER
+=========================
+
+NO TERMINAL NEEDED
+------------------
+1. Double-click:  Start Election Night.bat
+2. Leave the black window open (that is the server).
+3. Your browser opens Live results (county map + candidates).
+   Use the top nav for County table and Topline.
+
+GOVERNOR RUNOFF (Jackson vs Jones)
+----------------------------------
+When SOS publishes the runoff, use:
+  Start Election Night Runoff.bat
+Full playbook:  docs\RUNOFF-GOVERNOR-REP.md
+(Until then, SOS live API will not work — use snapshot practice mode in that doc.)
+
+EDIT PREDICTIONS (Dave / campaign managers)
+-------------------------------------------
+On the county table page:
+1. Check "Edit predictions" in the top bar.
+2. Change projected turnout or Pred. candidate vote cells.
+3. Click Save on that row. (Stored in data\predictions.json)
+
+SOS vote columns stay read-only (official results).
+
+FOR BRAD (website developer)
+--------------------------
+Read:  ELECTION-NIGHT-HANDOFF.md
+Also:  docs\API.md   docs\DATA-MODEL.md   docs\RUNBOOK-ELECTION-NIGHT.md
+
+LIVE EXCEL FILE (updates automatically)
+---------------------------------------
+While the black server window is open, this file is refreshed about every 30 seconds:
+
+  GA Live Tracker (Hancock-Lowndes).xlsx
+
+1. Double-click Start Election Night.bat (wait ~10 seconds for the first update).
+2. Open that .xlsx file in Microsoft Excel (same folder as this text file).
+3. When Excel asks if you want to reload because the file changed, click Yes.
+
+You can also use "Download Excel" on the county table page for a one-time snapshot.
+
+MAP — ALL CONTESTS
+------------------
+On Live results, use the Contest dropdown (Governor, US Senate, etc.).
+Click "All contests" to include local/district races (500+).
+Use the Find box to filter the list.
+
+MICHIGAN (August — setup)
+-------------------------
+Tab: Michigan in the top nav, or http://localhost:8080/michigan.html
+Add county results URLs in config\michigan-county-sources.json when you have them.
+Run: npm run seed:michigan  (creates empty slots for all 83 counties)
+
+BOOKMARKS (after you start once)
+--------------------------------
+Live results:  http://localhost:8080/
+Michigan map:  http://localhost:8080/michigan.html
+County table:  http://localhost:8080/tracker.html
+Topline:       http://localhost:8080/summary.html
+
+IMPORTANT
+---------
+- Do NOT open HTML files from File Explorer.
+  Always use the links above after running Start Election Night.bat.
+- To quit: close the black "GA Election Night Tracker" window.
+
+IF THE MAP SAYS "OLD SERVER" OR "159 COUNTIES"
+---------------------------------------------
+1. Close EVERY black "GA Election Night Tracker" window.
+2. Double-click Start Election Night.bat again (it stops the old server automatically).
+3. Wait for the browser tabs to open.
+4. On the map page press Ctrl+Shift+R.
+
+You should see "Map: all 159 counties" in the black window when it is working.

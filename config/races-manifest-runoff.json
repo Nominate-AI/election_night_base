@@ -1,0 +1,16 @@
+{
+  "electionId": "PASTE_RUNOFF_ELECTION_ID_FROM_SOS",
+  "electionName": "Governor Republican Primary Runoff (date TBD)",
+  "defaultRaceId": "S1R_RUN",
+  "updatedAt": null,
+  "races": [
+    {
+      "id": "S1R_RUN",
+      "ballotItemId": "PASTE_RUNOFF_BALLOT_ITEM_UUID_FROM_SOS",
+      "name": "Governor - Rep Runoff",
+      "ballotOrder": 1,
+      "tier": "statewide",
+      "apiName": "Governor - Rep Runoff"
+    }
+  ]
+}

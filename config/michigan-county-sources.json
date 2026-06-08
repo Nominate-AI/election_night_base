@@ -1,0 +1,433 @@
+{
+  "electionName": "Michigan — 2024 General Election",
+  "electionSlug": "2024NovemberGeneral",
+  "electionDate": "2024-11-05",
+  "defaultContest": "president",
+  "notes": "Use sourceType auto + clerk resultsUrl when possible (Enhanced Voting or Clarity).",
+  "counties": {
+    "Monroe": {
+      "sourceType": "enhanced-voting",
+      "resultsUrl": "https://app.enhancedvoting.com/results/public/monroe-county-mi/elections/2024NovemberGeneral",
+      "evResultsUrl": "https://app.enhancedvoting.com/results/public/monroe-county-mi/elections/2024NovemberGeneral",
+      "jurisdiction": "monroe-county-mi",
+      "electionSlug": "2024NovemberGeneral",
+      "contestHint": "president"
+    },
+    "Berrien": {
+      "sourceType": "enhanced-voting",
+      "resultsUrl": "https://www.berriencounty.org/169/Election-Reporting-Archive",
+      "evResultsUrl": "https://app.enhancedvoting.com/results/public/berrien-county-mi/elections/NovemberGeneral11052024",
+      "jurisdiction": "berrien-county-mi",
+      "electionSlug": "NovemberGeneral11052024",
+      "contestHint": "president"
+    },
+    "Calhoun": {
+      "sourceType": "calhoun-elections",
+      "resultsUrl": "https://www.calhouncountymi.gov/departments/clerk_and_register_of_deeds/elections.php",
+      "electionResultsUrl": "https://elections.calhouncountymi.gov/Nov2024/",
+      "electionSlug": "Nov2024",
+      "notes": "Live scrape of county elections site (2024 General)"
+    },
+    "Alcona": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Alger": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Allegan": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Alpena": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Antrim": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Arenac": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Baraga": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Barry": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Bay": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Benzie": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Branch": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Cass": {
+      "sourceType": "auto",
+      "resultsUrl": "https://www.casscountymi.org/1597/Election-Results",
+      "notes": "Auto-detects Enhanced Voting (2024 General) or Clarity from clerk page"
+    },
+    "Charlevoix": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Cheboygan": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Chippewa": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Clare": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Clinton": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Crawford": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Delta": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Dickinson": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Eaton": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Emmet": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Genesee": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Gladwin": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Gogebic": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Grand Traverse": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Gratiot": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Hillsdale": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Houghton": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Huron": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Ingham": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Ionia": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Iosco": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Iron": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Isabella": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Jackson": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Kalamazoo": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Kalkaska": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Kent": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Keweenaw": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Lake": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Lapeer": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Leelanau": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Lenawee": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Livingston": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Luce": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Mackinac": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Macomb": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Manistee": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Marquette": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Mason": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Mecosta": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Menominee": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Midland": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Missaukee": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Montcalm": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Montmorency": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Muskegon": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Newaygo": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Oakland": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Oceana": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Ogemaw": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Ontonagon": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Osceola": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Oscoda": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Otsego": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Ottawa": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Presque Isle": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Roscommon": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Saginaw": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Sanilac": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Schoolcraft": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Shiawassee": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "St. Clair": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "St. Joseph": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Tuscola": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Van Buren": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Washtenaw": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Wayne": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    },
+    "Wexford": {
+      "sourceType": "pending",
+      "resultsUrl": "",
+      "notes": ""
+    }
+  },
+  "updatedAt": "2026-05-21T16:13:06.593Z"
+}

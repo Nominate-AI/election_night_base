@@ -1,0 +1,29 @@
+{
+  "label": "Governor Republican Primary Runoff — Jackson vs Jones",
+  "description": "Two-candidate runoff. Paste SOS election + ballot UUIDs when published.",
+  "racesManifest": "config/races-manifest-runoff.json",
+  "defaultRaceId": "S1R_RUN",
+  "sos": {
+    "electionId": "PASTE_RUNOFF_ELECTION_ID_FROM_SOS",
+    "ballotItemId": "PASTE_RUNOFF_BALLOT_ITEM_UUID_FROM_SOS",
+    "candidateOrder": ["JACKSON", "JONES"],
+    "candidateColors": {
+      "JACKSON": "#dc2626",
+      "JONES": "#eab308"
+    },
+    "candidateDisplayNames": {
+      "JACKSON": "Rick Jackson",
+      "JONES": "Burt Jones"
+    }
+  },
+  "topline": {
+    "candidates": ["JACKSON", "JONES"],
+    "netLeader": "JACKSON",
+    "netRunner": "JONES",
+    "netLabel": "Jackson Net",
+    "displayNames": {
+      "JACKSON": "Rick Jackson",
+      "JONES": "Burt Jones"
+    }
+  }
+}

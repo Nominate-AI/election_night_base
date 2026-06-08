@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GA Election Night — County Table</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="site-theme.css?v=2" />
+  <link rel="stylesheet" href="site-nav.css?v=3" />
+  <link rel="stylesheet" href="tracker.css?v=15" />
+</head>
+<body class="site-page tracker-page">
+  <nav id="site-nav"></nav>
+  <script src="site-nav.js?v=2"></script>
+
+  <header class="topbar">
+    <section class="topbar-main">
+      <p class="live-crumb"><span class="live-dot" aria-hidden="true"></span> LIVE · GEORGIA SOS</p>
+      <h1 id="race-title">Georgia SOS Live Tracker</h1>
+      <p class="meta" id="meta">All Georgia counties · loading…</p>
+    </section>
+    <section class="topbar-actions">
+      <label class="field">
+        <span>Refresh (sec)</span>
+        <input type="number" id="refresh-interval" min="10" max="300" value="30" />
+      </label>
+      <button type="button" id="refresh-now" class="btn">Refresh now</button>
+      <label class="field field-toggle">
+        <input type="checkbox" id="edit-predictions" />
+        <span>Edit predictions</span>
+      </label>
+      <button type="button" id="export-csv" class="btn btn-secondary">Export CSV</button>
+      <a href="/api/export/tracker.xlsx" class="btn btn-secondary" id="export-xlsx" download="ga-sos-tracker.xlsx">Download Excel</a>
+      <span class="status" id="status">Loading…</span>
+    </section>
+  </header>
+
+  <main class="sheet-wrap" id="sheet-wrap">
+    <div class="sheet-sticky-header">
+      <table class="sheet sheet-head-table" id="results-table-head">
+        <colgroup id="table-cols-head"></colgroup>
+        <thead id="table-head"></thead>
+      </table>
+    </div>
+    <table class="sheet sheet-body-table" id="results-table-body">
+      <colgroup id="table-cols-body"></colgroup>
+      <tbody id="table-body"></tbody>
+    </table>
+  </main>
+
+  <footer class="footer">
+  <span class="legend-chip legend-new">New SOS results</span>
+  <span class="legend-chip legend-changed">Updated results</span>
+  · Data from <a href="https://results.sos.ga.gov/results/public/Georgia/elections/GeneralPrimary51926/ballot-items/01000000-f33c-bc21-51c6-08dead3402a8" target="_blank" rel="noopener">Georgia Secretary of State Election Results</a>.
+  </footer>
+
+  <script src="projected-turnout-data.js?v=3"></script>
+  <script src="tracker-config.js?v=12"></script>
+  <script src="tracker.js?v=14"></script>
+</body>
+</html>

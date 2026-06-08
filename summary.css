@@ -1,0 +1,92 @@
+.summary-tabs {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem 0;
+  background: var(--site-panel);
+  border-bottom: 1px solid var(--site-border);
+  flex-shrink: 0;
+}
+
+.summary-tabs button {
+  padding: 0.45rem 1rem;
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius) var(--site-radius) 0 0;
+  background: transparent;
+  color: var(--site-muted);
+  font-weight: 600;
+  font-family: inherit;
+  font-size: 0.85rem;
+  cursor: pointer;
+}
+
+.summary-tabs button:hover {
+  color: var(--site-text);
+}
+
+.summary-tabs button.active {
+  background: var(--site-bg);
+  color: var(--site-text);
+  border-bottom-color: var(--site-bg);
+}
+
+.summary-panel {
+  display: none;
+}
+
+.summary-panel.active {
+  display: block;
+}
+
+body.tracker-page .summary-panel.sheet-wrap {
+  flex: 1 1 0;
+  min-height: 0;
+  overflow: auto;
+}
+
+.topline-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.75rem;
+  padding: 1rem 1.5rem;
+  background: var(--site-panel);
+  border-bottom: 1px solid var(--site-border);
+}
+
+.topline-summary .card {
+  background: var(--site-input-bg);
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius-lg);
+  padding: 0.65rem 0.75rem;
+}
+
+.topline-summary .card h4 {
+  margin: 0 0 0.35rem;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--site-muted);
+}
+
+.topline-summary .card .votes {
+  font-size: 1.1rem;
+  font-weight: 700;
+  color: var(--site-text);
+}
+
+.topline-summary .card .pct {
+  font-size: 0.8rem;
+  color: var(--site-num);
+}
+
+.row-statewide td {
+  font-weight: 700;
+  background: rgba(59, 130, 246, 0.12);
+}
+
+.row-dma td {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.row-group td {
+  background: rgba(139, 92, 246, 0.08);
+}

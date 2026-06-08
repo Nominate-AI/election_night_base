@@ -1,0 +1,52 @@
+{
+  "label": "May 2026 — Governor Republican Primary",
+  "description": "Full primary field (8 candidates). Multi-race map dropdown.",
+  "racesManifest": "config/races-manifest.json",
+  "defaultRaceId": "S1R",
+  "sos": {
+    "electionId": "GeneralPrimary51926",
+    "ballotItemId": "01000000-f33c-bc21-51c6-08dead3402a8",
+    "candidateOrder": [
+      "JACKSON",
+      "JONES",
+      "RAFFENSPERGER",
+      "CARR",
+      "DEAN",
+      "KIRKPATRICK",
+      "YASGER",
+      "WILLIAMS"
+    ],
+    "candidateColors": {
+      "JACKSON": "#dc2626",
+      "JONES": "#eab308",
+      "RAFFENSPERGER": "#1d4ed8",
+      "CARR": "#7c3aed",
+      "DEAN": "#0891b2",
+      "KIRKPATRICK": "#ea580c",
+      "YASGER": "#16a34a",
+      "WILLIAMS": "#db2777"
+    },
+    "candidateDisplayNames": {
+      "JACKSON": "Rick Jackson",
+      "JONES": "Burt Jones",
+      "RAFFENSPERGER": "Brad Raffensperger",
+      "CARR": "Chris Carr",
+      "DEAN": "Clark Dean",
+      "KIRKPATRICK": "Gregg Kirkpatrick",
+      "YASGER": "Ken Yasger",
+      "WILLIAMS": "Tom Williams"
+    }
+  },
+  "topline": {
+    "candidates": ["JACKSON", "JONES", "RAFFENSPERGER", "CARR"],
+    "netLeader": "JACKSON",
+    "netRunner": "JONES",
+    "netLabel": "Jackson Net",
+    "displayNames": {
+      "JACKSON": "Rick Jackson",
+      "JONES": "Burt Jones",
+      "RAFFENSPERGER": "Raffensperger",
+      "CARR": "Carr"
+    }
+  }
+}

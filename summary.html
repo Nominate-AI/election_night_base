@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GA Election Night — Topline</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="site-theme.css?v=3" />
+  <link rel="stylesheet" href="site-nav.css?v=3" />
+  <link rel="stylesheet" href="tracker.css?v=15" />
+  <link rel="stylesheet" href="summary.css?v=2" />
+</head>
+<body class="site-page tracker-page">
+  <nav id="site-nav"></nav>
+  <script src="site-nav.js?v=2"></script>
+
+  <header class="topbar">
+    <section class="topbar-main">
+      <p class="live-crumb"><span class="live-dot" aria-hidden="true"></span> LIVE · GEORGIA SOS</p>
+      <h1 id="race-title">Governor — Republican Primary</h1>
+      <p class="meta" id="meta">Live totals from Georgia SOS · auto-calculated</p>
+    </section>
+    <section class="topbar-actions">
+      <label class="field">
+        <span>Refresh (sec)</span>
+        <input type="number" id="refresh-interval" min="10" max="300" value="30" />
+      </label>
+      <button type="button" id="refresh-now" class="btn">Refresh now</button>
+      <span class="status" id="status">Loading…</span>
+    </section>
+  </header>
+
+  <section class="summary-tabs" role="tablist">
+    <button type="button" class="active" data-panel="topline" role="tab">Topline</button>
+    <button type="button" data-panel="reporting" role="tab">ReportingTop</button>
+  </section>
+
+  <section id="panel-topline" class="summary-panel active sheet-wrap" role="tabpanel">
+    <section class="topline-summary" id="topline-candidate-cards"></section>
+    <table class="sheet" id="topline-table">
+      <thead id="topline-head"></thead>
+      <tbody id="topline-body"></tbody>
+    </table>
+  </section>
+
+  <section id="panel-reporting" class="summary-panel sheet-wrap" role="tabpanel" hidden>
+    <table class="sheet" id="reporting-table">
+      <thead id="reporting-head"></thead>
+      <tbody id="reporting-body"></tbody>
+    </table>
+  </section>
+
+  <footer class="footer-spacer" aria-hidden="true"></footer>
+
+  <script src="tracker-config.js?v=14"></script>
+  <script src="summary.js?v=1"></script>
+</body>
+</html>

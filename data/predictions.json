@@ -1,0 +1,2396 @@
+{
+  "activeWorkspace": "default",
+  "workspaces": {
+    "default": {
+      "label": "Default",
+      "counties": {
+        "Appling": {
+          "projectedTurnout": 2729,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Atkinson": {
+          "projectedTurnout": 738,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Bacon": {
+          "projectedTurnout": 1542,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Baker": {
+          "projectedTurnout": 358,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Baldwin": {
+          "projectedTurnout": 3667,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Banks": {
+          "projectedTurnout": 3033,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Barrow": {
+          "projectedTurnout": 8425,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Bartow": {
+          "projectedTurnout": 11780,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Ben Hill": {
+          "projectedTurnout": 1446,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Berrien": {
+          "projectedTurnout": 2448,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Bibb": {
+          "projectedTurnout": 10804,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Bleckley": {
+          "projectedTurnout": 1920,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Brantley": {
+          "projectedTurnout": 2162,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Brooks": {
+          "projectedTurnout": 1512,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Bryan": {
+          "projectedTurnout": 4089,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Bulloch": {
+          "projectedTurnout": 6514,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Burke": {
+          "projectedTurnout": 1822,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Butts": {
+          "projectedTurnout": 3258,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Calhoun": {
+          "projectedTurnout": 323,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Camden": {
+          "projectedTurnout": 4952,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Candler": {
+          "projectedTurnout": 1022,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Carroll": {
+          "projectedTurnout": 13834,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Catoosa": {
+          "projectedTurnout": 7903,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Charlton": {
+          "projectedTurnout": 1023,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Chatham": {
+          "projectedTurnout": 17995,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Chattahoochee": {
+          "projectedTurnout": 272,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Chattooga": {
+          "projectedTurnout": 2568,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Cherokee": {
+          "projectedTurnout": 36356,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Clarke": {
+          "projectedTurnout": 6565,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Clay": {
+          "projectedTurnout": 271,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Clayton": {
+          "projectedTurnout": 4143,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Clinch": {
+          "projectedTurnout": 573,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Cobb": {
+          "projectedTurnout": 67062,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Coffee": {
+          "projectedTurnout": 3063,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Colquitt": {
+          "projectedTurnout": 4458,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Columbia": {
+          "projectedTurnout": 19971,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Cook": {
+          "projectedTurnout": 1733,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Coweta": {
+          "projectedTurnout": 17700,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Crawford": {
+          "projectedTurnout": 1576,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Crisp": {
+          "projectedTurnout": 1914,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Dade": {
+          "projectedTurnout": 2336,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Dawson": {
+          "projectedTurnout": 4897,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Decatur": {
+          "projectedTurnout": 2158,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "DeKalb": {
+          "projectedTurnout": 22197,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Dodge": {
+          "projectedTurnout": 2485,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Dooly": {
+          "projectedTurnout": 850,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Dougherty": {
+          "projectedTurnout": 3436,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Douglas": {
+          "projectedTurnout": 8657,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Early": {
+          "projectedTurnout": 1154,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Echols": {
+          "projectedTurnout": 455,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Effingham": {
+          "projectedTurnout": 6664,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Elbert": {
+          "projectedTurnout": 2490,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Emanuel": {
+          "projectedTurnout": 2555,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Evans": {
+          "projectedTurnout": 1146,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Fannin": {
+          "projectedTurnout": 4993,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Fayette": {
+          "projectedTurnout": 15608,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Floyd": {
+          "projectedTurnout": 10227,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Forsyth": {
+          "projectedTurnout": 31274,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Franklin": {
+          "projectedTurnout": 3444,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Fulton": {
+          "projectedTurnout": 49803,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Gilmer": {
+          "projectedTurnout": 5790,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Glascock": {
+          "projectedTurnout": 625,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Glynn": {
+          "projectedTurnout": 9806,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Gordon": {
+          "projectedTurnout": 6484,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Grady": {
+          "projectedTurnout": 2370,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Greene": {
+          "projectedTurnout": 3316,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Gwinnett": {
+          "projectedTurnout": 52584,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Habersham": {
+          "projectedTurnout": 6991,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Hall": {
+          "projectedTurnout": 25177,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Hancock": {
+          "projectedTurnout": 374,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Haralson": {
+          "projectedTurnout": 4375,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Harris": {
+          "projectedTurnout": 4927,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Hart": {
+          "projectedTurnout": 3392,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Heard": {
+          "projectedTurnout": 1690,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Henry": {
+          "projectedTurnout": 16753,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Houston": {
+          "projectedTurnout": 13194,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Irwin": {
+          "projectedTurnout": 1164,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Jackson": {
+          "projectedTurnout": 10058,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Jasper": {
+          "projectedTurnout": 2313,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Jeff Davis": {
+          "projectedTurnout": 1542,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Jefferson": {
+          "projectedTurnout": 1414,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Jenkins": {
+          "projectedTurnout": 755,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Johnson": {
+          "projectedTurnout": 1339,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Jones": {
+          "projectedTurnout": 3620,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Lamar": {
+          "projectedTurnout": 2456,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Lanier": {
+          "projectedTurnout": 912,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Laurens": {
+          "projectedTurnout": 5564,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Lee": {
+          "projectedTurnout": 3967,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Liberty": {
+          "projectedTurnout": 2246,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Lincoln": {
+          "projectedTurnout": 1534,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Long": {
+          "projectedTurnout": 1022,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Lowndes": {
+          "projectedTurnout": 7677,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Lumpkin": {
+          "projectedTurnout": 4650,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Macon": {
+          "projectedTurnout": 596,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Madison": {
+          "projectedTurnout": 4674,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Marion": {
+          "projectedTurnout": 824,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "McDuffie": {
+          "projectedTurnout": 2341,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "McIntosh": {
+          "projectedTurnout": 1825,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Meriwether": {
+          "projectedTurnout": 2528,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Miller": {
+          "projectedTurnout": 879,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Mitchell": {
+          "projectedTurnout": 1828,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Monroe": {
+          "projectedTurnout": 4904,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Montgomery": {
+          "projectedTurnout": 1349,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Morgan": {
+          "projectedTurnout": 3682,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Murray": {
+          "projectedTurnout": 4019,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Muscogee": {
+          "projectedTurnout": 10176,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Newton": {
+          "projectedTurnout": 8351,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Oconee": {
+          "projectedTurnout": 7892,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Oglethorpe": {
+          "projectedTurnout": 2374,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Paulding": {
+          "projectedTurnout": 16971,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Peach": {
+          "projectedTurnout": 2267,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Pickens": {
+          "projectedTurnout": 5977,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Pierce": {
+          "projectedTurnout": 2955,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Pike": {
+          "projectedTurnout": 3512,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Polk": {
+          "projectedTurnout": 4803,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Pulaski": {
+          "projectedTurnout": 1055,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Putnam": {
+          "projectedTurnout": 3533,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Quitman": {
+          "projectedTurnout": 274,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Rabun": {
+          "projectedTurnout": 3427,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Randolph": {
+          "projectedTurnout": 587,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Richmond": {
+          "projectedTurnout": 10273,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Rockdale": {
+          "projectedTurnout": 5273,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Schley": {
+          "projectedTurnout": 681,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Screven": {
+          "projectedTurnout": 1440,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Seminole": {
+          "projectedTurnout": 1097,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Spalding": {
+          "projectedTurnout": 7369,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Stephens": {
+          "projectedTurnout": 3549,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Stewart": {
+          "projectedTurnout": 271,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Sumter": {
+          "projectedTurnout": 2210,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Talbot": {
+          "projectedTurnout": 500,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Taliaferro": {
+          "projectedTurnout": 136,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Tattnall": {
+          "projectedTurnout": 2243,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Taylor": {
+          "projectedTurnout": 876,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Telfair": {
+          "projectedTurnout": 1113,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Terrell": {
+          "projectedTurnout": 814,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Thomas": {
+          "projectedTurnout": 4370,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Tift": {
+          "projectedTurnout": 3978,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Toombs": {
+          "projectedTurnout": 2667,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Towns": {
+          "projectedTurnout": 2643,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Treutlen": {
+          "projectedTurnout": 727,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Troup": {
+          "projectedTurnout": 6135,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Turner": {
+          "projectedTurnout": 969,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Twiggs": {
+          "projectedTurnout": 923,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Union": {
+          "projectedTurnout": 6063,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Upson": {
+          "projectedTurnout": 3491,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Walker": {
+          "projectedTurnout": 6697,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Walton": {
+          "projectedTurnout": 14047,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Ware": {
+          "projectedTurnout": 3381,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Warren": {
+          "projectedTurnout": 498,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Washington": {
+          "projectedTurnout": 1374,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Wayne": {
+          "projectedTurnout": 4001,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Webster": {
+          "projectedTurnout": 291,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Wheeler": {
+          "projectedTurnout": 556,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "White": {
+          "projectedTurnout": 5314,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Whitfield": {
+          "projectedTurnout": 8059,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Wilcox": {
+          "projectedTurnout": 987,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Wilkes": {
+          "projectedTurnout": 1096,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Wilkinson": {
+          "projectedTurnout": 1215,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        },
+        "Worth": {
+          "projectedTurnout": 2640,
+          "predictedCandidates": {
+            "JACKSON": "",
+            "JONES": "",
+            "RAFFENSPERGER": "",
+            "CARR": "",
+            "DEAN": "",
+            "KIRKPATRICK": "",
+            "YASGER": "",
+            "WILLIAMS": ""
+          },
+          "updatedAt": null,
+          "updatedBy": null
+        }
+      },
+      "updatedAt": "2026-05-20T16:50:16.014Z"
+    }
+  }
+}
