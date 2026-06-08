@@ -1,0 +1,290 @@
+:root {
+  --fp-fill-alpha: 0.32;
+}
+
+.fp-layout {
+  flex: 1;
+  display: grid;
+  grid-template-columns: 1fr min(420px, 38vw);
+  min-height: 0;
+  overflow: hidden;
+}
+
+.fp-main {
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  min-height: 0;
+  overflow: hidden;
+}
+
+/* Front page uses shared .topbar / .live-crumb / #race-title / .meta from site-theme.css */
+
+/* —— Georgia county map —— */
+.fp-map-area {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  margin: 0 1.5rem 1rem;
+  border: 1px solid var(--site-border);
+  border-radius: var(--site-radius-lg);
+  overflow: hidden;
+  background: rgba(3, 5, 10, 0.55);
+}
+
+body.frontpage .fp-map-panel {
+  flex: 1;
+  min-height: 0;
+  padding: 0.75rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  overflow: hidden;
+}
+
+body.frontpage #map-container {
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  max-height: 100%;
+}
+
+body.frontpage #map-container svg {
+  width: 100%;
+  height: auto;
+  max-height: min(72vh, 820px);
+}
+
+.fp-map-hint {
+  flex-shrink: 0;
+  margin: 0;
+  padding: 0.5rem 1rem 0.65rem;
+  font-size: 0.75rem;
+  color: var(--site-muted);
+  border-top: 1px solid var(--site-border);
+  text-align: center;
+}
+
+/* —— Candidate panel (right) —— */
+.fp-candidates {
+  background: var(--site-panel);
+  border-left: 1px solid var(--site-border);
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.fp-candidates-head {
+  padding: 1.25rem 1.25rem 0.75rem;
+  border-bottom: 1px solid var(--site-border);
+}
+
+.fp-candidates-head h2 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.fp-scope-label {
+  margin: 0.5rem 0 0;
+  font-size: 1.15rem;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  color: var(--site-text);
+  line-height: 1.2;
+}
+
+.fp-cand-grid {
+  display: grid;
+  grid-template-columns: 4px 1fr 6.5rem 4.5rem;
+  align-items: center;
+  column-gap: 0.75rem;
+  padding: 0 1rem;
+}
+
+.fp-cand-grid-head {
+  padding-top: 0.75rem;
+  padding-bottom: 0.5rem;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--site-head);
+}
+
+.fp-cand-grid-head span:nth-child(n + 2) {
+  text-align: right;
+}
+
+.fp-cand-grid-head span:nth-child(2) {
+  text-align: left;
+}
+
+.fp-cand-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 0 0.5rem;
+}
+
+.fp-cand-row {
+  position: relative;
+  display: grid;
+  grid-template-columns: 4px 1fr 6.5rem 4.5rem;
+  align-items: center;
+  column-gap: 0.75rem;
+  padding: 0.65rem 1rem;
+  min-height: 3rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.fp-cand-fill {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 0;
+  pointer-events: none;
+  transition: width 0.45s ease;
+}
+
+.fp-cand-stripe {
+  position: relative;
+  z-index: 1;
+  width: 4px;
+  align-self: stretch;
+  min-height: 2rem;
+  border-radius: 1px;
+}
+
+.fp-cand-name {
+  position: relative;
+  z-index: 1;
+  font-weight: 600;
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+
+.fp-cand-votes,
+.fp-cand-pct {
+  position: relative;
+  z-index: 1;
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  font-size: 0.9rem;
+}
+
+.fp-cand-pct {
+  font-weight: 600;
+}
+
+.fp-precincts {
+  flex-shrink: 0;
+  max-height: min(42vh, 320px);
+  border-top: 1px solid var(--site-border);
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.fp-precincts-head {
+  padding: 0.6rem 1rem 0.25rem;
+  flex-shrink: 0;
+}
+
+.fp-precincts-head h3 {
+  margin: 0;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--site-head);
+}
+
+.fp-precinct-status {
+  margin: 0.3rem 0 0;
+  font-size: 0.72rem;
+  color: var(--site-muted);
+}
+
+.fp-precinct-table-wrap {
+  flex: 1;
+  min-height: 0;
+  overflow: auto;
+  padding: 0 0.5rem 0.5rem;
+}
+
+.fp-precinct-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.72rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.fp-precinct-table th,
+.fp-precinct-table td {
+  padding: 0.35rem 0.45rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+  text-align: right;
+}
+
+.fp-precinct-table th:first-child,
+.fp-precinct-table td:first-child {
+  text-align: left;
+  position: sticky;
+  left: 0;
+  background: var(--site-panel);
+  z-index: 1;
+}
+
+.fp-precinct-table thead th {
+  font-size: 0.65rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--site-head);
+}
+
+.fp-precinct-total {
+  font-weight: 600;
+}
+
+.fp-precinct-empty {
+  margin: 0.5rem 1rem;
+  font-size: 0.8rem;
+  color: var(--site-muted);
+}
+
+.fp-cand-footer {
+  padding: 1rem 1.25rem 1.25rem;
+  border-top: 1px solid var(--site-border);
+  flex-shrink: 0;
+}
+
+.fp-total-votes {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.fp-asof {
+  margin: 0.35rem 0 0;
+  font-size: 0.75rem;
+  color: var(--site-muted);
+}
+
+@media (max-width: 900px) {
+  .fp-layout {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 1fr;
+  }
+
+  .fp-candidates {
+    border-left: none;
+    border-top: 1px solid var(--site-border);
+    max-height: 55vh;
+  }
+}

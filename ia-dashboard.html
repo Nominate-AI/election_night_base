@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Iowa Election Night Tracker</title>
+  <link rel="stylesheet" href="ia-dashboard.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="topbar-inner">
+      <div class="brand">
+        <span class="brand-mark">IA</span>
+        <div class="brand-text">
+          <h1>Iowa Election Night</h1>
+          <div class="brand-sub" id="electionSub">2026 Primary &middot; Live Results</div>
+        </div>
+      </div>
+
+      <div class="controls">
+        <div class="party-tabs" id="partyTabs" role="tablist">
+          <button class="party-tab is-active" data-party="Republican">Republican</button>
+          <button class="party-tab" data-party="Democratic">Democratic</button>
+          <button class="party-tab" data-party="all">Both</button>
+        </div>
+        <input id="search" class="search" type="search" placeholder="Filter races&hellip;" autocomplete="off" />
+      </div>
+
+      <div class="status">
+        <span class="dot" id="liveDot"></span>
+        <div class="status-text">
+          <div id="statusLine">Connecting&hellip;</div>
+          <div class="status-sub" id="updatedLine"></div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main id="board" class="board">
+    <div class="placeholder" id="placeholder">Loading live results from the Iowa Secretary of State&hellip;</div>
+  </main>
+
+  <footer class="footer">
+    <span>Unofficial results &middot; Source: Iowa Secretary of State / Scytl Election Night Reporting</span>
+    <span id="versionTag"></span>
+  </footer>
+
+  <script src="ia-dashboard.js"></script>
+</body>
+</html>

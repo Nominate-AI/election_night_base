@@ -1,0 +1,259 @@
+/* Iowa Election Night Tracker — DecisionDeskHQ-style dark dashboard */
+
+:root {
+  --bg: #0b0e14;
+  --bg-2: #11151f;
+  --card: #161b27;
+  --card-2: #1b2230;
+  --line: #262d3d;
+  --line-soft: #1e2433;
+  --text: #f4f6fb;
+  --text-dim: #9aa6bd;
+  --text-faint: #6b7689;
+  --track: #222a3a;
+  --accent: #4da3ff;
+  --good: #2ecc71;
+  --shadow: 0 1px 0 rgba(255, 255, 255, 0.03), 0 10px 30px rgba(0, 0, 0, 0.35);
+  --rep: #e2483d;
+  --dem: #2f7bff;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  background:
+    radial-gradient(1200px 600px at 80% -10%, #16203a 0%, rgba(22, 32, 58, 0) 60%),
+    var(--bg);
+  color: var(--text);
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---------------- Top bar ---------------- */
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: rgba(11, 14, 20, 0.82);
+  backdrop-filter: blur(14px);
+  border-bottom: 1px solid var(--line);
+}
+.topbar-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 14px 22px;
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  flex-wrap: wrap;
+}
+.brand { display: flex; align-items: center; gap: 13px; }
+.brand-mark {
+  display: grid;
+  place-items: center;
+  width: 42px; height: 42px;
+  border-radius: 11px;
+  font-weight: 900;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+  color: #fff;
+  background: linear-gradient(135deg, #2f7bff, #6f3cff);
+  box-shadow: 0 6px 18px rgba(47, 123, 255, 0.35);
+}
+.brand-text h1 { margin: 0; font-size: 18px; font-weight: 800; letter-spacing: -0.2px; }
+.brand-sub { font-size: 12px; color: var(--text-dim); margin-top: 2px; }
+
+.controls { display: flex; align-items: center; gap: 12px; margin-left: auto; flex-wrap: wrap; }
+.party-tabs {
+  display: inline-flex;
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  border-radius: 11px;
+  padding: 4px;
+  gap: 3px;
+}
+.party-tab {
+  border: 0;
+  background: transparent;
+  color: var(--text-dim);
+  font: inherit;
+  font-weight: 600;
+  font-size: 13px;
+  padding: 7px 14px;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+.party-tab:hover { color: var(--text); }
+.party-tab.is-active { background: var(--card-2); color: #fff; box-shadow: inset 0 0 0 1px var(--line); }
+.party-tab[data-party="Republican"].is-active { color: #ff8a80; }
+.party-tab[data-party="Democratic"].is-active { color: #8ab4ff; }
+
+.search {
+  background: var(--bg-2);
+  border: 1px solid var(--line);
+  color: var(--text);
+  font: inherit;
+  font-size: 13px;
+  padding: 9px 13px;
+  border-radius: 10px;
+  width: 190px;
+  outline: none;
+}
+.search:focus { border-color: var(--accent); }
+.search::placeholder { color: var(--text-faint); }
+
+.status { display: flex; align-items: center; gap: 10px; }
+.status-text { line-height: 1.25; }
+#statusLine { font-size: 13px; font-weight: 600; }
+.status-sub { font-size: 11px; color: var(--text-faint); }
+.dot {
+  width: 10px; height: 10px; border-radius: 50%;
+  background: var(--text-faint);
+  box-shadow: 0 0 0 0 rgba(46, 204, 113, 0.6);
+}
+.dot.live { background: var(--good); animation: pulse 2s infinite; }
+.dot.error { background: var(--rep); }
+@keyframes pulse {
+  0% { box-shadow: 0 0 0 0 rgba(46, 204, 113, 0.5); }
+  70% { box-shadow: 0 0 0 7px rgba(46, 204, 113, 0); }
+  100% { box-shadow: 0 0 0 0 rgba(46, 204, 113, 0); }
+}
+
+/* ---------------- Board ---------------- */
+.board {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 24px 22px 60px;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(420px, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+.placeholder {
+  grid-column: 1 / -1;
+  text-align: center;
+  color: var(--text-dim);
+  padding: 80px 20px;
+  font-size: 15px;
+}
+
+/* ---------------- Contest card ---------------- */
+.card {
+  background: linear-gradient(180deg, var(--card) 0%, #13182300 140%), var(--card);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  padding: 18px 18px 14px;
+  box-shadow: var(--shadow);
+  animation: rise 0.35s ease both;
+}
+@keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+
+.card-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 14px; }
+.card-title-wrap { min-width: 0; }
+.card-party {
+  display: inline-flex; align-items: center; gap: 6px;
+  font-size: 11px; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase;
+  color: var(--text-faint);
+  margin-bottom: 5px;
+}
+.card-party .pill { width: 8px; height: 8px; border-radius: 50%; }
+.card-title { font-size: 17px; font-weight: 800; letter-spacing: -0.2px; margin: 0; line-height: 1.2; }
+
+.card-meta { text-align: right; flex-shrink: 0; }
+.reporting-pct { font-size: 18px; font-weight: 800; line-height: 1; }
+.reporting-label { font-size: 10.5px; color: var(--text-faint); text-transform: uppercase; letter-spacing: 0.5px; margin-top: 3px; }
+.reporting-bar { width: 92px; height: 4px; border-radius: 3px; background: var(--track); margin-top: 7px; overflow: hidden; }
+.reporting-bar > i { display: block; height: 100%; background: var(--accent); border-radius: 3px; transition: width 0.6s ease; }
+
+/* ---------- Candidate rows (the DDHQ bars) ---------- */
+.cands { display: flex; flex-direction: column; gap: 8px; }
+
+.cand {
+  position: relative;
+  height: 50px;
+  border-radius: 10px;
+  background: var(--track);
+  overflow: hidden;
+  isolation: isolate;
+}
+.cand .fill {
+  position: absolute;
+  inset: 0 auto 0 0;       /* grows from the left */
+  width: 0%;
+  border-radius: 10px 0 0 10px;
+  background: var(--c, #555);
+  opacity: 0.92;
+  transition: width 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.cand.leader .fill { box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.18); }
+
+/* foreground: percentage on the LEFT, name + ballots on the RIGHT */
+.cand .row {
+  position: relative;
+  z-index: 2;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 14px;
+  gap: 12px;
+}
+.cand .pct {
+  font-size: 19px;
+  font-weight: 800;
+  color: #fff;
+  letter-spacing: -0.3px;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
+  min-width: 64px;
+}
+.cand .right { text-align: right; min-width: 0; }
+.cand .name {
+  font-size: 14.5px;
+  font-weight: 700;
+  color: #fff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.55);
+  display: flex; align-items: center; gap: 7px; justify-content: flex-end;
+}
+.cand .name .check {
+  display: inline-grid; place-items: center;
+  width: 16px; height: 16px; border-radius: 50%;
+  background: var(--good); color: #06210f; font-size: 10px; font-weight: 900;
+}
+.cand .ballots {
+  font-size: 12.5px;
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.82);
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.5);
+  margin-top: 1px;
+}
+.cand .ballots span { color: rgba(255,255,255,0.55); font-weight: 500; }
+
+.card-foot {
+  display: flex; justify-content: space-between; align-items: center;
+  margin-top: 13px; padding-top: 11px; border-top: 1px solid var(--line-soft);
+  font-size: 11.5px; color: var(--text-faint);
+}
+.card-foot .total { color: var(--text-dim); font-weight: 600; }
+
+/* ---------------- Footer ---------------- */
+.footer {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 18px 22px 30px;
+  display: flex; justify-content: space-between; gap: 12px; flex-wrap: wrap;
+  color: var(--text-faint);
+  font-size: 11.5px;
+  border-top: 1px solid var(--line-soft);
+}
+
+@media (max-width: 560px) {
+  .board { grid-template-columns: 1fr; padding: 16px 12px 50px; }
+  .controls { width: 100%; }
+  .search { flex: 1; width: auto; }
+  .status { display: none; }
+}
